@@ -1,0 +1,243 @@
+in_saff_utf8.txt: PATTERN VBG NN: 0; designing mind
+in_saff_utf8.txt: PATTERN VBN NN: 6; assumed concept
+in_saff_utf8.txt: PATTERN NNS NNS: 28; bodies minds
+in_saff_utf8.txt: PATTERN JJR NN: 49; milder term
+in_saff_utf8.txt: PATTERN VBN NN: 65; intensified form
+in_saff_utf8.txt: PATTERN VBG NN: 66; gaining ground
+in_saff_utf8.txt: PATTERN VBG JJ NNS: 82; preserving foreign histories
+in_saff_utf8.txt: PATTERN VBG NN: 83; missing word
+in_saff_utf8.txt: PATTERN VBN NN: 99; determined manner
+in_saff_utf8.txt: PATTERN VBG NN: 147; living substance
+in_saff_utf8.txt: PATTERN VBG NN: 148; living moment
+in_saff_utf8.txt: PATTERN VBG NNS: 149; living bodies
+in_saff_utf8.txt: PATTERN VBG NN: 161; defining knowledge
+in_saff_utf8.txt: PATTERN NNS CC NNS: 185; pleasures and pains
+in_saff_utf8.txt: PATTERN JJ JJ NNS: 233; secondary ethical rules
+in_saff_utf8.txt: PATTERN JJ VBG NN: 272; secret counteracting cause
+in_saff_utf8.txt: PATTERN VBG NN: 290; foregoing definition
+in_saff_utf8.txt: PATTERN JJR NN: 384; richer sort
+in_saff_utf8.txt: PATTERN VBG NNS: 392; preceding remarks
+in_saff_utf8.txt: PATTERN JJR NNS: 403; lower classes
+in_saff_utf8.txt: PATTERN VBG NN: 406; knowing truth
+in_saff_utf8.txt: PATTERN NNS CC NNS: 430; animals and plants
+in_saff_utf8.txt: PATTERN VBG NN: 433; affecting body
+in_saff_utf8.txt: PATTERN VBG NN: 446; prevailing morality
+in_saff_utf8.txt: PATTERN NN VBG NN: 447; person exercising volition
+in_saff_utf8.txt: PATTERN VBG NN: 458; causing movement
+in_saff_utf8.txt: PATTERN VBG NN: 460; attaining knowledge
+in_saff_utf8.txt: PATTERN VBG NN: 473; thinking self
+in_saff_utf8.txt: PATTERN JJ NN JJ NN: 476; so-called sound common sense
+in_saff_utf8.txt: PATTERN VBN NN: 479; resolved matter
+in_saff_utf8.txt: PATTERN JJR NN: 494; narrower space
+in_saff_utf8.txt: PATTERN VBN NN: 495; moved matter
+in_saff_utf8.txt: PATTERN VBN NNS: 531; educated classes
+in_saff_utf8.txt: PATTERN NNS CC NNS: 547; causes and effects
+in_saff_utf8.txt: PATTERN VBN NN: 551; added intuition
+in_saff_utf8.txt: PATTERN NNP NNPS: 557; Noted Names
+in_saff_utf8.txt: PATTERN NNS NN: 589; forms effect
+in_saff_utf8.txt: PATTERN VBN NNS: 590; confused conceptions
+in_saff_utf8.txt: PATTERN NNS NNS: 601; beginnings corresponds
+in_saff_utf8.txt: PATTERN NN NNS JJ JJ NNS: 610; view harmonizes various current views
+in_saff_utf8.txt: PATTERN NN NN NNS: 639; incontinent man acts
+in_saff_utf8.txt: PATTERN NNS CC VBG NN: 648; faculties and resulting division
+in_saff_utf8.txt: PATTERN VBG NNS: 652; passing events
+in_saff_utf8.txt: PATTERN NN NN NN: 669; supreme executive power
+in_saff_utf8.txt: PATTERN NNS NNP: 694; terms Substance
+in_saff_utf8.txt: PATTERN VBG NN: 695; surrounding body
+in_saff_utf8.txt: PATTERN VBG JJ NNS: 738; discovering new truths
+in_saff_utf8.txt: PATTERN NN VBG NN: 739; determination involving negation
+in_saff_utf8.txt: PATTERN NNS NNS: 757; worlds annihilates
+in_saff_utf8.txt: PATTERN NNS IN JJ NN: 784; objects of possible experience
+in_saff_utf8.txt: PATTERN VBN NN: 795; desired object
+in_saff_utf8.txt: PATTERN JJS NNS: 824; earliest philosophers
+in_saff_utf8.txt: PATTERN NNP JJ NN: 825; Modern German Philosophy
+in_saff_utf8.txt: PATTERN NNP NNP NNP: 826; John Foster Kirk
+in_saff_utf8.txt: PATTERN NNP NN NNP: 828; Eng lish Language
+in_saff_utf8.txt: PATTERN VBN NN: 836; blessed life
+in_saff_utf8.txt: PATTERN JJR NN: 847; deeper sense
+in_saff_utf8.txt: PATTERN VBN NN: 848; colored person
+in_saff_utf8.txt: PATTERN VBG NNS: 859; rendering governments
+in_saff_utf8.txt: PATTERN NN CD VBN NNS: 865; forty thousand aged persons
+in_saff_utf8.txt: PATTERN VBN NN: 869; assumed power
+in_saff_utf8.txt: PATTERN VBG NNS: 885; evolving persons
+in_saff_utf8.txt: PATTERN VBG NNS: 894; measuring words
+in_saff_utf8.txt: PATTERN VBG NNS: 934; weighing reasons
+in_saff_utf8.txt: PATTERN VBN NNS: 949; fixed ideas
+in_saff_utf8.txt: PATTERN VBN NN: 1001; bound hand
+in_saff_utf8.txt: PATTERN JJS NN: 1016; shortest time
+in_saff_utf8.txt: PATTERN JJ JJ NNS: 1054; modern productive forces
+in_saff_utf8.txt: PATTERN NNS NN: 1062; bourgeois class
+in_saff_utf8.txt: PATTERN VBG NN NNS: 1064; appropriating material products
+in_saff_utf8.txt: PATTERN VBG JJ NNS: 1065; appropriating intellectual products
+in_saff_utf8.txt: PATTERN VBG NNS: 1079; establishing propositions
+in_saff_utf8.txt: PATTERN NNS NN: 1128; operations nature
+in_saff_utf8.txt: PATTERN VBG NN: 1132; interpreting nature
+in_saff_utf8.txt: PATTERN VBG NNS: 1134; forming axioms
+in_saff_utf8.txt: PATTERN VBG NN: 1138; discovering truth
+in_saff_utf8.txt: PATTERN VBN NN: 1145; retired life
+in_saff_utf8.txt: PATTERN VBG NN: 1153; governing class
+in_saff_utf8.txt: PATTERN JJR NN: 1185; wider extension
+in_saff_utf8.txt: PATTERN VBN NNS: 1214; established rules
+in_saff_utf8.txt: PATTERN VBN NN: 1216; desired result
+in_saff_utf8.txt: PATTERN VBG NN: 1240; finding pleasure
+in_saff_utf8.txt: PATTERN VBG NN: 1245; walking animal
+in_saff_utf8.txt: PATTERN VBG NN: 1258; living creature
+in_saff_utf8.txt: PATTERN VBN NN: 1269; alleged property
+in_saff_utf8.txt: PATTERN JJR NN: 1271; wider term
+in_saff_utf8.txt: PATTERN JJR NN: 1272; wider application
+in_saff_utf8.txt: PATTERN VBG NNS: 1279; reciprocating terms
+in_saff_utf8.txt: PATTERN NNS CC NNS: 1292; affirmations and denials
+in_saff_utf8.txt: PATTERN VBN NNS: 1317; filled hands
+in_saff_utf8.txt: PATTERN VBG NNP: 1327; worshipping God
+in_saff_utf8.txt: PATTERN VBG NN: 1344; moving body
+in_saff_utf8.txt: PATTERN VBN NN: 1349; hated object
+in_saff_utf8.txt: PATTERN VBN NN: 1353; extended matter
+in_saff_utf8.txt: PATTERN VBN NN: 1355; confused idea
+in_saff_utf8.txt: PATTERN NN VBG NNP: 1401; repre senting Matter
+in_saff_utf8.txt: PATTERN VBG NNS: 1404; preceding changes
+in_saff_utf8.txt: PATTERN JJ NNS NNP: 1410; inorganic bodies Decandolle
+in_saff_utf8.txt: PATTERN NN VBG NNP: 1423; Philosophy accompanying Logic
+in_saff_utf8.txt: PATTERN NN NN NNS: 1426; consciousness unnatural sciences
+in_saff_utf8.txt: PATTERN VBN NN: 1431; revealed religion
+in_saff_utf8.txt: PATTERN NNS NN: 1438; bodies celestial
+in_saff_utf8.txt: PATTERN VBN NN: 1445; murdered person
+in_saff_utf8.txt: PATTERN VBN NNS: 1446; suspected persons
+in_saff_utf8.txt: PATTERN VBG JJ NNS: 1457; correcting preconceived ideas
+in_saff_utf8.txt: PATTERN JJ JJ NNS: 1489; purposive natural products
+in_saff_utf8.txt: PATTERN NNS JJ NN: 1490; purposes subordinated thereto
+in_saff_utf8.txt: PATTERN NNS NN: 1491; properties wherewith
+in_saff_utf8.txt: PATTERN NN NNP NNS: 1497; perfection Objective purposiveness
+in_saff_utf8.txt: PATTERN JJ JJ NNS: 1500; organised natural products
+in_saff_utf8.txt: PATTERN JJ JJ NNP: 1505; mere aesthetical Judgement
+in_saff_utf8.txt: PATTERN VBN NN: 1507; marked pleasure
+in_saff_utf8.txt: PATTERN NN VBN NN: 1508; knowledge called humaniora
+in_saff_utf8.txt: PATTERN VBG NN: 1509; judging faculty
+in_saff_utf8.txt: PATTERN VBG NN: 1513; explaining nature
+in_saff_utf8.txt: PATTERN NNS IN JJ NN: 1538; products of beautiful art
+in_saff_utf8.txt: PATTERN VBG NN: 1541; knowing subject
+in_saff_utf8.txt: PATTERN VBN NN: 1550; established government
+in_saff_utf8.txt: PATTERN JJS NNS: 1554; earliest times
+in_saff_utf8.txt: PATTERN NN IN JJ NN: 1580; critique of practical reason
+in_saff_utf8.txt: PATTERN NN IN JJ JJ NN: 1581; object of pure practical reason
+in_saff_utf8.txt: PATTERN VBN NNS: 1595; spoken words
+in_saff_utf8.txt: PATTERN VBG NN: 1598; seeking truth
+in_saff_utf8.txt: PATTERN JJ JJ NNS: 1644; mere mechanical laws
+in_saff_utf8.txt: PATTERN JJ JJ NNS: 1672; self-evident logical principles
+in_saff_utf8.txt: PATTERN VBG NN: 1714; preceding analysis
+in_saff_utf8.txt: PATTERN VBN NN: 1722; injured person
+in_saff_utf8.txt: PATTERN VBG NN: 1766; passing moment
+in_saff_utf8.txt: PATTERN VBG NN: 1811; guiding principle
+in_saff_utf8.txt: PATTERN VBN NNS: 1815; cherished powers
+in_saff_utf8.txt: PATTERN VBN NN: 1855; communicated motion
+in_saff_utf8.txt: PATTERN VBG NN: 1870; unperceiving substance
+in_saff_utf8.txt: PATTERN NNS NN: 1951; bourgeois production
+in_saff_utf8.txt: PATTERN NNS NN: 1956; terms animal
+in_saff_utf8.txt: PATTERN NN NN NN: 1961; reductio ad impossibile
+in_saff_utf8.txt: PATTERN JJR NN: 1969; shorter time
+in_saff_utf8.txt: PATTERN VBN NN: 1999; fixed rule
+in_saff_utf8.txt: PATTERN VBN NN: 2011; armed force
+in_saff_utf8.txt: PATTERN VBG NNS: 2028; varying degrees
+in_saff_utf8.txt: PATTERN JJS NN: 2042; lowest class
+in_saff_utf8.txt: PATTERN JJR NN: 2047; lower form
+in_saff_utf8.txt: PATTERN VBG NNS: 2064; waking moments
+in_saff_utf8.txt: PATTERN NNP NNP NNP NNP: 2084; Sixteenth Centuries Preceding Descartes
+in_saff_utf8.txt: PATTERN NN VBG NN: 2099; objective determining principle
+in_saff_utf8.txt: PATTERN VBG NN: 2126; giving pleasure
+in_saff_utf8.txt: PATTERN VBG NNS: 2142; moving causes
+in_saff_utf8.txt: PATTERN VBN NN: 2143; moved body
+in_saff_utf8.txt: PATTERN VBG NNS: 2155; determining causes
+in_saff_utf8.txt: PATTERN JJ JJ NNS: 2180; so-called scholastic philosophers
+in_saff_utf8.txt: PATTERN VBN NNS: 2187; confused perceptions
+in_saff_utf8.txt: PATTERN NN VBG CD NN: 2188; body weighing one pound
+in_saff_utf8.txt: PATTERN VBN NNS: 2205; repeated acts
+in_saff_utf8.txt: PATTERN JJR NN: 2214; lower sense
+in_saff_utf8.txt: PATTERN VBN NN: 2219; formed faculty
+in_saff_utf8.txt: PATTERN VBG NN: 2244; discussing pleasure
+in_saff_utf8.txt: PATTERN VBG NN NN: 2249; walking biped animal
+in_saff_utf8.txt: PATTERN JJS NN: 2253; lightest body
+in_saff_utf8.txt: PATTERN VBN NN: 2263; spoken word
+in_saff_utf8.txt: PATTERN NNP NNP NNP NN: 2275; World Wide Web presentation
+in_saff_utf8.txt: PATTERN VBG JJ NNS: 2305; affecting external bodies
+in_saff_utf8.txt: PATTERN VBG NNP: 2342; serving God
+in_saff_utf8.txt: PATTERN VBG NN: 2381; preceding change
+in_saff_utf8.txt: PATTERN VBG NNS: 2384; estimating distances
+in_saff_utf8.txt: PATTERN VBG NN: 2399; filling space
+in_saff_utf8.txt: PATTERN VBG NN: 2404; preceding note
+in_saff_utf8.txt: PATTERN VBG NN: 2478; acquiring knowledge
+in_saff_utf8.txt: PATTERN VBG NN: 2504; preceding proposition
+in_saff_utf8.txt: PATTERN JJ JJ NNP: 2551; theoretical reflective Judgement
+in_saff_utf8.txt: PATTERN VBG NN: 2557; producing cause
+in_saff_utf8.txt: PATTERN VBG NN: 2608; taking pleasure
+in_saff_utf8.txt: PATTERN VBG NNS: 2616; leading principles
+in_saff_utf8.txt: PATTERN VBG NN: 2643; insinuating appearance
+in_saff_utf8.txt: PATTERN JJR NN: 2670; lower degree
+in_saff_utf8.txt: PATTERN VBN NN: 2681; established character
+in_saff_utf8.txt: PATTERN JJ JJ NNS: 2767; pure practical laws
+in_saff_utf8.txt: PATTERN VBG NNS: 2774; determining principles
+in_saff_utf8.txt: PATTERN JJS NN: 2788; lowest degree
+in_saff_utf8.txt: PATTERN JJR NN: 2812; lesser perfection
+in_saff_utf8.txt: PATTERN VBG NNS: 2862; determining grounds
+in_saff_utf8.txt: PATTERN VBN NNP: 2881; pleased God
+in_saff_utf8.txt: PATTERN VBG NNS: 2931; living forces
+in_saff_utf8.txt: PATTERN VBN NN: 2947; altered taste
+in_saff_utf8.txt: PATTERN VBG NN: 2974; bedwarfing virtue
+in_saff_utf8.txt: PATTERN JJS NN: 3005; slightest doubt
+in_saff_utf8.txt: PATTERN VBG NNS: 3013; drawing inferences
+in_saff_utf8.txt: PATTERN VBG NN: 3071; mediating representation
+in_saff_utf8.txt: PATTERN VBN NNS: 3105; aged persons
+in_saff_utf8.txt: PATTERN VBN NN: 3128; continued existence
+in_saff_utf8.txt: PATTERN VBG NN: 3143; leading principle
+in_saff_utf8.txt: PATTERN VBN NN: 3158; set purpose
+in_saff_utf8.txt: PATTERN VBG NN: 3201; attaining truth
+in_saff_utf8.txt: PATTERN VBN NNS: 3222; confused ideas
+in_saff_utf8.txt: PATTERN JJR NN: 3226; wider sense
+in_saff_utf8.txt: PATTERN VBN NN: 3249; fixed idea
+in_saff_utf8.txt: PATTERN VBN NN: 3281; connected experience
+in_saff_utf8.txt: PATTERN VBN NNS: 3305; trained faculties
+in_saff_utf8.txt: PATTERN VBG NN: 3318; distinguishing truth
+in_saff_utf8.txt: PATTERN JJ JJ NNS: 3354; universal natural laws
+in_saff_utf8.txt: PATTERN VBG NN: 3355; thinking faculty
+in_saff_utf8.txt: PATTERN VBN NN: 3360; filled space
+in_saff_utf8.txt: PATTERN VBN NN: 3369; written law
+in_saff_utf8.txt: PATTERN VBG NNS: 3370; connecting words
+in_saff_utf8.txt: PATTERN VBG NN: 3382; waking life
+in_saff_utf8.txt: PATTERN JJR NNS: 3409; lower desires
+in_saff_utf8.txt: PATTERN VBN NN: 3421; married life
+in_saff_utf8.txt: PATTERN JJR NN: 3422; meaner condition
+in_saff_utf8.txt: PATTERN VBN NN: 3464; appointed time
+in_saff_utf8.txt: PATTERN VBN NN: 3503; qualified sense
+in_saff_utf8.txt: PATTERN VBN NN: 3512; recognized name
+in_saff_utf8.txt: PATTERN VBG NN: 3544; unthinking substance
+in_saff_utf8.txt: PATTERN JJ JJ NNS: 3548; abstract general ideas
+in_saff_utf8.txt: PATTERN VBG NN: 3558; thinking mind
+in_saff_utf8.txt: PATTERN VBG NN: 3586; bestowing virtue
+in_saff_utf8.txt: PATTERN VBG NNS: 3605; foregoing principles
+in_saff_utf8.txt: PATTERN NN JJ NN: 3734; supreme practical principle
+in_saff_utf8.txt: PATTERN VBN NN: 3738; desired effect
+in_saff_utf8.txt: PATTERN VBN NN: 3755; conditioned existence
+in_saff_utf8.txt: PATTERN JJ NNP NNP: 3764; intelligent World Cause
+in_saff_utf8.txt: PATTERN JJR NN: 3826; narrower sense
+in_saff_utf8.txt: PATTERN VBG NN: 3836; thinking substance
+in_saff_utf8.txt: PATTERN JJS NN: 3846; fullest sense
+in_saff_utf8.txt: PATTERN JJR NNS: 3868; elder times
+in_saff_utf8.txt: PATTERN VBG NN: 3928; settling opinion
+in_saff_utf8.txt: PATTERN VBG NN: 3935; foregoing proposition
+in_saff_utf8.txt: PATTERN VBG NN: 3957; fixing belief
+in_saff_utf8.txt: PATTERN JJS NN: 3980; widest sense
+in_saff_utf8.txt: PATTERN VBG NN: 3994; living body
+in_saff_utf8.txt: PATTERN JJS NN: 4039; narrowest sense
+in_saff_utf8.txt: PATTERN VBG JJ NNS: 4158; admitting contrary qualities
+in_saff_utf8.txt: PATTERN NNP NNPS: 4238; Middle Ages
+in_saff_utf8.txt: PATTERN NNS NN: 4323; bourgeois property
+in_saff_utf8.txt: PATTERN VBG NNS: 4447; moving forces
+in_saff_utf8.txt: PATTERN VBG NN: 4448; moving cause
+in_saff_utf8.txt: PATTERN VBG NN: 4494; living soul
+in_saff_utf8.txt: PATTERN VBN NN: 4557; extended substance
+in_saff_utf8.txt: PATTERN JJ NN NNS: 4593; applicable copyright laws
+in_saff_utf8.txt: PATTERN VBG NN: 4627; receiving knowledge
+in_saff_utf8.txt: PATTERN VBN NN: 4737; trained faculty
+in_saff_utf8.txt: PATTERN VBG NN: 4764; determining ground
+in_saff_utf8.txt: PATTERN VBG NN: 4822; determining principle
+in_saff_utf8.txt: PATTERN NN IN JJ NN: 4838; principle of sufficient reason
+in_saff_utf8.txt: PATTERN JJR NNS: 4981; lower animals
+in_saff_utf8.txt: PATTERN VBG NN: 5145; moving force

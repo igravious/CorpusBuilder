@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name in English:</strong>
+  <%= @text.name_in_english %>
+</p>
+
+<p>
+  <strong>Original year:</strong>
+  <%= @text.original_year %>
+</p>
+
+<p>
+  <strong>Author names:</strong>
+  <%=raw @text.edit_author_names %>
+</p>
+
+<%= link_to 'Edit this text', edit_text_path(@text) %> |
+<%= link_to 'List all texts', texts_path %>

@@ -1,0 +1,45 @@
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or vendor/assets/stylesheets of plugins, if any, can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the top of the
+ * compiled file, but it's generally better to create a new file per style scope.
+ *
+ *= require_self
+ *= require_tree .
+ *
+ * == bower component stylesheets (using symlinks)
+ * bootstrap
+ * bootstrap-material-design
+ * (these links don't even exist any more)
+ * ripples
+ * normalize
+ * milligram
+ *
+ * == bower component stylesheets (using sass (scss))
+ * am using picnic, not bootstrap for the mo'. so?
+ * bower-sprockets
+ *
+ * == bower component stylesheets, shims for when more than one stylesheet in bower.json main{}
+ *= require pickadate
+ *
+ */
+
+.vertically-align {
+	position: absolute;
+
+	top:0;
+	bottom: 0;
+
+   	margin-top: auto;
+   	margin-bottom: auto;
+}
+
+.vertically-align1 {
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+}

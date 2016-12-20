@@ -1,0 +1,22 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+a:
+  name: MyString
+  year_of_birth: 1
+  year_of_death: 1
+  where: MyStringA
+  about: MyTextA
+
+b:
+  name: MyOofString
+  year_of_birth: 1
+  year_of_death: 1
+  where: MyStringB
+  about: MyTextB
+
+c:
+  name: MyOtherString
+  year_of_birth: 1
+  year_of_death: 1
+  where: MyStringC
+  about: MyTextC

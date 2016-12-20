@@ -1,0 +1,69 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Url:</strong>
+  <%= @file.URL %>
+</p>
+
+<p>
+  <strong>Type negotiation:</strong>
+  <%= @file.type_in_English %>
+</p>
+
+<p>
+  <strong>What:</strong>
+  <%= @file.what %>
+</p>
+
+<% if !@file.type_negotiation.nil? %>
+	<% if @file.cache_file.blank? %>
+
+		<%= form_for @file, url: {action: 'cache'}, method: 'patch' do |f| %>
+			<% if @file.errors.any? %>
+				<div id="error_explanation">
+					<h2><%= pluralize(@file.errors.count, "error") %> prohibited this file from being saved:</h2>
+
+					<ul>
+					<% @file.errors.full_messages.each do |msg| %>
+						<li><%= msg %></li>
+					<% end %>
+					</ul>
+				</div>
+			<% end %>
+
+			<div class="actions">
+				<%= f.submit 'Cache Text' %>
+			</div>
+		<% end %>
+
+	<% else %>
+		<!-- shouldn't these be up yonder? -->
+		<p>
+		<strong>Text:</strong>
+			<%= t=::Text.find_by_fyle_id @file.id; t.nil? ? link_to('New Text', from_file_text_path(@file)) : link_to('Used by this Text', text_path(t))  %>
+		</p>
+		
+		<p>
+		<%= link_to 'Edit this file', edit_fyle_path(@file) %> |
+		<%= link_to 'List all files', fyles_path %>
+		</p>
+
+		<div class="container">
+			<div class="row">
+	  		<div class="col-*-*"></div>
+			</div>
+			<div class="row">
+	  		<div class=""></div>
+	  		<div class="two-third">
+		<em>Actual contents ✓</em>
+		<pre>
+<%# File.basename(@file.cache_file) %>
+<%= @file.snarf %>
+		</pre>
+				</div>
+				<div class=""></div>
+			</div>
+		</div>
+
+	<% end %>
+<% end %>

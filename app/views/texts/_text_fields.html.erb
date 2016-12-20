@@ -1,0 +1,20 @@
+	<div class="field">
+    <%= f.label :name_of_text_in_original_language %><br>
+    <%= f.text_field :name %>
+  </div>
+	<div class="field">
+    <%= f.label :name_of_text_in_english %><br>
+    <%= f.text_field :name_in_english %>
+  </div>
+  <div class="field">
+    <%= f.label :original_language %><br>
+		<%= f.collection_select(:original_language, ::Text::ORIGINAL_LANGUAGE, :last, :first, include_blank: '') %>
+  </div>
+  <div class="field">
+    <%= f.label :original_year %><br>
+    <%= f.number_field :original_year %>
+  </div>
+  <div class="field">
+    <%= f.label :include %><br>
+    <%= f.check_box :include %>
+  </div>

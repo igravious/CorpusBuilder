@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  caller: MyString
+  uri: MyString
+  request: MyString
+  response: MyText
+
+two:
+  caller: MyString
+  uri: MyString
+  request: MyString
+  response: MyText

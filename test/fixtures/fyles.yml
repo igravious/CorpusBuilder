@@ -1,0 +1,41 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+#
+# CREATE TABLE "fyles" (
+#     "id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
+#     "URL" varchar(255),
+#     "what" varchar(255),
+#     "strip_start" integer,
+#     "strip_end" integer,
+#     "created_at" datetime,
+#     "updated_at" datetime,
+#     "type_negotiation" integer(255),
+#     "handled" boolean DEFAULT 'f',
+#     "status_code" integer,
+#     "cache_file" varchar(255),
+#     "encoding" varchar(255),
+#     "local_file" varchar(255)
+# );
+#
+# 2.1.4 :002 > @fyles.first
+#  => #<Fyle id: 1, URL: "http://classics.mit.edu/Aristotle/categories.mb.txt...", what: "aristotle - categories (1)", strip_start: 272, strip_end: 570, created_at: "2015-06-04 04:28:20", updated_at: "2015-06-29 08:19:12", type_negotiation: 1, handled: true, status_code: nil, cache_file: "/var/www/RailsApps/CorpusBuilder/tmp/aristotle_-_ca...", encoding: nil, local_file: "/var/www/RailsApps/CorpusBuilder/tmp/plain-20150629..."> 
+# 2.1.4 :003 >
+
+<% Fyle.all.each do |f| %>
+file_<%= f.id>: %>
+  URL: file://<%= f.cache_file %>
+  what: <%= f.what %>
+  strip_start: 1
+  strip_end: 1
+<% end %>
+
+one:
+  URL: file:///var/www/RailsApps/CorpusBuilder/test/fixtures/plato_-_the_republic.txt
+  what: MyString
+  strip_start: 1
+  strip_end: 1
+
+two:
+  URL: MyString2 # ditto
+  what: MyString
+  strip_start: 1
+  strip_end: 1

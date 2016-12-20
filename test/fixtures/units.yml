@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  dictionary_id: 1
+  entry: MyString
+
+two:
+  dictionary_id: 1
+  entry: MyString

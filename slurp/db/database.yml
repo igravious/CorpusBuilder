@@ -1,0 +1,5 @@
+adapter:  mysql
+database: philosophy
+username: pact
+password: dh2016
+host:     localhost

@@ -1,0 +1,4 @@
+	<div id="links">
+		<%= f.collection_select(:author_id, Author.all.order(:english_name), :id, :english_name, include_blank: '') %>
+		<%# link_to_pick_association 'pick author', f, :authors %>
+	</div>

@@ -1,0 +1,2362 @@
+mod_saff_utf8.txt: ARCHAISM: 389; thinking hath
+mod_saff_utf8.txt: ARCHAISM: 422; peace hath
+mod_saff_utf8.txt: ARCHAISM: 440; instance hath nature
+mod_saff_utf8.txt: ARCHAISM: 451; government hath
+mod_saff_utf8.txt: ARCHAISM: 488; Rule thou
+mod_saff_utf8.txt: ARCHAISM: 496; Freedom hath been hunted round
+mod_saff_utf8.txt: ARCHAISM: 497; Europe hath
+mod_saff_utf8.txt: STOPWORD: 605; perpetual sedition
+mod_saff_utf8.txt: DOUBLE --: 637; language--we call
+mod_saff_utf8.txt: DOUBLE --: 725; Macarians--a people
+mod_saff_utf8.txt: STOPWORD: 735; Company Edition
+mod_saff_utf8.txt: NUMERAL: 736; Commons Henry VII
+mod_saff_utf8.txt: ARCHAISM: 740; worn body thou seest
+mod_saff_utf8.txt: STOPWORD: 746; wire-draw Edition
+mod_saff_utf8.txt: STOPWORD: 747; wind Edition
+mod_saff_utf8.txt: STOPWORD: 760; vexatious Edition
+mod_saff_utf8.txt: STOPWORD: 762; value Edition
+mod_saff_utf8.txt: STOPWORD: 767; unpremeditated Edition
+mod_saff_utf8.txt: STOPWORD: 781; swoon Edition
+mod_saff_utf8.txt: STOPWORD: 804; short Edition
+mod_saff_utf8.txt: STOPWORD: 809; seen places Edition
+mod_saff_utf8.txt: STOPWORD: 819; ridiculous Edition
+mod_saff_utf8.txt: STOPWORD: 835; privilege Edition
+mod_saff_utf8.txt: STOPWORD: 841; posterity Edition
+mod_saff_utf8.txt: STOPWORD: 875; monkeyish capets Edition
+mod_saff_utf8.txt: STOPWORD: 895; involved Edition
+mod_saff_utf8.txt: STOPWORD: 897; intrust Edition
+mod_saff_utf8.txt: STOPWORD: 900; insensible Edition
+mod_saff_utf8.txt: STOPWORD: 904; indiscreet Edition
+mod_saff_utf8.txt: STOPWORD: 910; imaginable Edition
+mod_saff_utf8.txt: STOPWORD: 927; hearing Edition
+mod_saff_utf8.txt: STOPWORD: 944; forms contrary Edition
+mod_saff_utf8.txt: STOPWORD: 958; extended Edition
+mod_saff_utf8.txt: STOPWORD: 982; deformity Edition
+mod_saff_utf8.txt: STOPWORD: 992; conveniences Edition
+mod_saff_utf8.txt: STOPWORD: 996; continued Edition
+mod_saff_utf8.txt: STOPWORD: 998; continual Edition
+mod_saff_utf8.txt: ARCHAISM: 1009; civic employment of mine
+mod_saff_utf8.txt: STOPWORD: 1037; Undertake Edition
+mod_saff_utf8.txt: STOPWORD: 1043; Roman tyrants Edition
+mod_saff_utf8.txt: STOPWORD: 1046; Praestantius Edition
+mod_saff_utf8.txt: STOPWORD: 1050; Page 258 Edition
+mod_saff_utf8.txt: STOPWORD: 1052; Metrocles Edition
+mod_saff_utf8.txt: STOPWORD: 1058; CRIPPLES ON PHYSIOGNOMY Edition
+mod_saff_utf8.txt: STOPWORD: 1060; Aristotle Edition
+mod_saff_utf8.txt: ARCHAISM: 1169; thy feet
+mod_saff_utf8.txt: DOUBLE --: 1175; theorizing faculty--the mind
+mod_saff_utf8.txt: DOUBLE --: 1514; now--at most times
+mod_saff_utf8.txt: DOUBLE --: 1748; human wisdom necessary--to regard
+mod_saff_utf8.txt: DOUBLE --: 1960; criticism--how criticise
+mod_saff_utf8.txt: NUMERAL: 2025; chapters xi
+mod_saff_utf8.txt: STOPWORD: 2136; TEXT BOOK
+mod_saff_utf8.txt: ALL CAPS: 2162; POPULAR LECTURES ON PHILOSOPHY
+mod_saff_utf8.txt: ALL CAPS: 2168; OBJECTIVE evidence
+mod_saff_utf8.txt: DOUBLE --: 2191; Hegel--the absolute block
+mod_saff_utf8.txt: ALL CAPS: 2196; HUMAN NATURE
+mod_saff_utf8.txt: ALL CAPS: 2197; HUMAN IMMORTALITY
+mod_saff_utf8.txt: ALL CAPS: 2198; HARVARD UNIVERSITY
+mod_saff_utf8.txt: ALL CAPS: 2287; ESSAY ON PSYCHOLOGY
+mod_saff_utf8.txt: STOPWORD: 2288; Adelaide South Australia 5005 Politics
+mod_saff_utf8.txt: STOPWORD: 2291; wont Edition
+mod_saff_utf8.txt: STOPWORD: 2298; weakness Edition
+mod_saff_utf8.txt: ARCHAISM: 2299; violent imagination hath
+mod_saff_utf8.txt: STOPWORD: 2300; vigorous Edition
+mod_saff_utf8.txt: STOPWORD: 2301; victory Edition
+mod_saff_utf8.txt: STOPWORD: 2305; useless Edition
+mod_saff_utf8.txt: STOPWORD: 2316; told Edition
+mod_saff_utf8.txt: ARCHAISM: 2321; thy own judgment Edition
+mod_saff_utf8.txt: STOPWORD: 2391; poniard Edition
+mod_saff_utf8.txt: STOPWORD: 2392; planks enriched Edition
+mod_saff_utf8.txt: STOPWORD: 2399; permission Edition
+mod_saff_utf8.txt: STOPWORD: 2409; ninth legion Edition
+mod_saff_utf8.txt: ARCHAISM: 2423; mine renders
+mod_saff_utf8.txt: STOPWORD: 2430; manifest show Edition
+mod_saff_utf8.txt: STOPWORD: 2432; loud Edition
+mod_saff_utf8.txt: STOPWORD: 2433; loosened Edition
+mod_saff_utf8.txt: ARCHAISM: 2442; knowledge thou hast
+mod_saff_utf8.txt: STOPWORD: 2445; intrusted Edition
+mod_saff_utf8.txt: STOPWORD: 2454; impatience Edition
+mod_saff_utf8.txt: STOPWORD: 2465; hand clutching Edition
+mod_saff_utf8.txt: STOPWORD: 2486; faintness Edition
+mod_saff_utf8.txt: STOPWORD: 2503; due time pay Edition
+mod_saff_utf8.txt: STOPWORD: 2518; dignity of Edition
+mod_saff_utf8.txt: STOPWORD: 2532; consultations Edition
+mod_saff_utf8.txt: STOPWORD: 2546; care Edition
+mod_saff_utf8.txt: STOPWORD: 2551; built Edition
+mod_saff_utf8.txt: ARCHAISM: 2562; art thou content
+mod_saff_utf8.txt: STOPWORD: 2563; arguments Edition
+mod_saff_utf8.txt: STOPWORD: 2574; advantage Edition
+mod_saff_utf8.txt: STOPWORD: 2580; Sons Edition
+mod_saff_utf8.txt: STOPWORD: 2585; Page 222 Edition
+mod_saff_utf8.txt: STOPWORD: 2597; Hippomenes Edition
+mod_saff_utf8.txt: ALL CAPS: 2601; EMPLOYMENTS WE MUST
+mod_saff_utf8.txt: STOPWORD: 2602; DIVERSION Edition
+mod_saff_utf8.txt: STOPWORD: 2603; China Edition
+mod_saff_utf8.txt: STOPWORD: 2604; youth Edition
+mod_saff_utf8.txt: STOPWORD: 2609; women Edition
+mod_saff_utf8.txt: STOPWORD: 2610; wits Edition
+mod_saff_utf8.txt: STOPWORD: 2627; usance of Edition
+mod_saff_utf8.txt: STOPWORD: 2629; unwonted Edition
+mod_saff_utf8.txt: STOPWORD: 2637; touching Edition
+mod_saff_utf8.txt: ARCHAISM: 2642; thy withered body
+mod_saff_utf8.txt: ARCHAISM: 2643; thy time
+mod_saff_utf8.txt: ARCHAISM: 2644; thy subjects
+mod_saff_utf8.txt: ARCHAISM: 2645; thy parish
+mod_saff_utf8.txt: ARCHAISM: 2646; thy chains and rich habit
+mod_saff_utf8.txt: ARCHAISM: 2647; thy chains
+mod_saff_utf8.txt: STOPWORD: 2648; throwing round Edition
+mod_saff_utf8.txt: STOPWORD: 2651; tempting Edition
+mod_saff_utf8.txt: STOPWORD: 2660; strictest liver Edition
+mod_saff_utf8.txt: STOPWORD: 2684; satisfied therewith Edition
+mod_saff_utf8.txt: STOPWORD: 2703; pursuits Edition
+mod_saff_utf8.txt: STOPWORD: 2724; performed Edition
+mod_saff_utf8.txt: STOPWORD: 2726; parents Edition
+mod_saff_utf8.txt: STOPWORD: 2735; night deflowered ten Edition
+mod_saff_utf8.txt: STOPWORD: 2742; monarchy places Edition
+mod_saff_utf8.txt: STOPWORD: 2836; exquisite Edition
+mod_saff_utf8.txt: STOPWORD: 2844; dying Edition
+mod_saff_utf8.txt: STOPWORD: 2845; duty Edition
+mod_saff_utf8.txt: STOPWORD: 2866; cruelty Edition
+mod_saff_utf8.txt: STOPWORD: 2870; covered Edition
+mod_saff_utf8.txt: STOPWORD: 2875; contrived Edition
+mod_saff_utf8.txt: STOPWORD: 2883; commands thirty Edition
+mod_saff_utf8.txt: STOPWORD: 2901; beautiful women Edition
+mod_saff_utf8.txt: STOPWORD: 2910; approached Edition
+mod_saff_utf8.txt: STOPWORD: 2919; advantageous use Edition
+mod_saff_utf8.txt: STOPWORD: 2931; Page 180 Edition
+mod_saff_utf8.txt: STOPWORD: 2933; Malice Edition
+mod_saff_utf8.txt: STOPWORD: 2940; CONFERRING Edition
+mod_saff_utf8.txt: STOPWORD: 2941; Amazonian Edition
+mod_saff_utf8.txt: STOPWORD: 2944; Albus Edition
+mod_saff_utf8.txt: ARCHAISM: 2948; ye immortal gods
+mod_saff_utf8.txt: STOPWORD: 2955; vast solitary Edition
+mod_saff_utf8.txt: STOPWORD: 2958; unnumbered editions
+mod_saff_utf8.txt: STOPWORD: 2963; unanimous voice Edition
+mod_saff_utf8.txt: STOPWORD: 2994; revenge Edition
+mod_saff_utf8.txt: STOPWORD: 3001; recognizing Edition
+mod_saff_utf8.txt: STOPWORD: 3005; prosperous Edition
+mod_saff_utf8.txt: STOPWORD: 3010; priests Edition
+mod_saff_utf8.txt: STOPWORD: 3046; lived Edition
+mod_saff_utf8.txt: STOPWORD: 3051; lesser Edition
+mod_saff_utf8.txt: STOPWORD: 3055; knowing Edition
+mod_saff_utf8.txt: STOPWORD: 3066; idle Edition
+mod_saff_utf8.txt: STOPWORD: 3077; giving utterance Edition
+mod_saff_utf8.txt: STOPWORD: 3080; generation Edition
+mod_saff_utf8.txt: STOPWORD: 3091; field Edition
+mod_saff_utf8.txt: STOPWORD: 3107; earliest successful Edition
+mod_saff_utf8.txt: STOPWORD: 3140; aware Edition
+mod_saff_utf8.txt: STOPWORD: 3157; Spurius Edition
+mod_saff_utf8.txt: STOPWORD: 3158; Southern Italy Edition
+mod_saff_utf8.txt: STOPWORD: 3159; Sixth Book
+mod_saff_utf8.txt: STOPWORD: 3194; wicked men more Edition
+mod_saff_utf8.txt: STOPWORD: 3240; secret thoughts Edition
+mod_saff_utf8.txt: STOPWORD: 3250; revenging Edition
+mod_saff_utf8.txt: STOPWORD: 3252; required Edition
+mod_saff_utf8.txt: STOPWORD: 3253; reproach Edition
+mod_saff_utf8.txt: STOPWORD: 3257; relation Edition
+mod_saff_utf8.txt: STOPWORD: 3281; pagan books
+mod_saff_utf8.txt: STOPWORD: 3291; nearest Edition
+mod_saff_utf8.txt: STOPWORD: 3292; naval Edition
+mod_saff_utf8.txt: STOPWORD: 3313; lands Edition
+mod_saff_utf8.txt: STOPWORD: 3317; judging books
+mod_saff_utf8.txt: STOPWORD: 3318; jealousy Edition
+mod_saff_utf8.txt: STOPWORD: 3319; injurious description Edition
+mod_saff_utf8.txt: STOPWORD: 3336; health Edition
+mod_saff_utf8.txt: STOPWORD: 3347; foreign Edition
+mod_saff_utf8.txt: STOPWORD: 3365; exasperated Edition
+mod_saff_utf8.txt: STOPWORD: 3376; doubtful Edition
+mod_saff_utf8.txt: ARCHAISM: 3377; dost thou judge
+mod_saff_utf8.txt: STOPWORD: 3385; disorderly Edition
+mod_saff_utf8.txt: STOPWORD: 3404; contempt Edition
+mod_saff_utf8.txt: STOPWORD: 3409; committed Edition
+mod_saff_utf8.txt: STOPWORD: 3418; callings and bookish employments
+mod_saff_utf8.txt: STOPWORD: 3420; brave thing done Edition
+mod_saff_utf8.txt: STOPWORD: 3424; borders Edition
+mod_saff_utf8.txt: STOPWORD: 3451; alliances Edition
+mod_saff_utf8.txt: STOPWORD: 3454; affection Edition
+mod_saff_utf8.txt: ALL CAPS: 3459; WE TASTE NOTHING PURE
+mod_saff_utf8.txt: ALL CAPS: 3464; SPURINA PHILOSOPHY THINKS
+mod_saff_utf8.txt: STOPWORD: 3465; SPURINA Edition
+mod_saff_utf8.txt: STOPWORD: 3467; Roman historians Edition
+mod_saff_utf8.txt: ALL CAPS: 3469; ROMAN GREATNESS NOT
+mod_saff_utf8.txt: ALL CAPS: 3470; ROMAN GREATNESS
+mod_saff_utf8.txt: ALL CAPS: 3483; LIE WELL
+mod_saff_utf8.txt: STOPWORD: 3484; Julius Caesar Edition
+mod_saff_utf8.txt: ARCHAISM: 3501; Conceal thy life
+mod_saff_utf8.txt: ALL CAPS: 3506; AUGMENTED BY DIFFICULTY THERE
+mod_saff_utf8.txt: ALL CAPS: 3507; AUGMENTED BY DIFFICULTY
+mod_saff_utf8.txt: ARCHAISM: 3525; volubility of mine
+mod_saff_utf8.txt: STOPWORD: 3533; vain Edition
+mod_saff_utf8.txt: ARCHAISM: 3545; thy force
+mod_saff_utf8.txt: ARCHAISM: 3546; thy content
+mod_saff_utf8.txt: ARCHAISM: 3547; thou Edition
+mod_saff_utf8.txt: STOPWORD: 3554; sweetness Edition
+mod_saff_utf8.txt: STOPWORD: 3576; soul Edition
+mod_saff_utf8.txt: STOPWORD: 3584; ship Edition
+mod_saff_utf8.txt: STOPWORD: 3587; set guards Edition
+mod_saff_utf8.txt: STOPWORD: 3622; promises Edition
+mod_saff_utf8.txt: ARCHAISM: 3636; pleasures thou dost promise
+mod_saff_utf8.txt: STOPWORD: 3647; perpetual confession Edition
+mod_saff_utf8.txt: STOPWORD: 3688; mind bending Edition
+mod_saff_utf8.txt: STOPWORD: 3691; mere force Edition
+mod_saff_utf8.txt: STOPWORD: 3716; joy Edition
+mod_saff_utf8.txt: STOPWORD: 3722; intolerable Edition
+mod_saff_utf8.txt: STOPWORD: 3726; insomuch Edition
+mod_saff_utf8.txt: STOPWORD: 3747; impression Edition
+mod_saff_utf8.txt: STOPWORD: 3814; enigmatic Edition
+mod_saff_utf8.txt: STOPWORD: 3825; divine vengeance Edition
+mod_saff_utf8.txt: STOPWORD: 3827; divine Edition
+mod_saff_utf8.txt: STOPWORD: 3840; degree inferior Edition
+mod_saff_utf8.txt: STOPWORD: 3841; deformed Edition
+mod_saff_utf8.txt: STOPWORD: 3859; conclusion of Edition
+mod_saff_utf8.txt: STOPWORD: 3869; chance Edition
+mod_saff_utf8.txt: STOPWORD: 3871; celestial sacraments Edition
+mod_saff_utf8.txt: STOPWORD: 3879; born Edition
+mod_saff_utf8.txt: STOPWORD: 3881; bloody Edition
+mod_saff_utf8.txt: STOPWORD: 3886; authorizing Edition
+mod_saff_utf8.txt: STOPWORD: 3887; authority Edition
+mod_saff_utf8.txt: STOPWORD: 3892; armful larger Edition
+mod_saff_utf8.txt: STOPWORD: 3918; abstruse Edition
+mod_saff_utf8.txt: STOPWORD: 3919; abominable Edition
+mod_saff_utf8.txt: ARCHAISM: 3922; Thy reason
+mod_saff_utf8.txt: STOPWORD: 3934; Page 228 Edition
+mod_saff_utf8.txt: STOPWORD: 3949; Greek Edition
+mod_saff_utf8.txt: STOPWORD: 3963; Chaldeans Edition
+mod_saff_utf8.txt: ALL CAPS: 3964; CONTENTS Apology
+mod_saff_utf8.txt: STOPWORD: 3969; wren Edition
+mod_saff_utf8.txt: STOPWORD: 3976; whilst Edition
+mod_saff_utf8.txt: STOPWORD: 3978; whereat Edition
+mod_saff_utf8.txt: STOPWORD: 4013; tis fate Edition
+mod_saff_utf8.txt: STOPWORD: 4021; superficial impressions Edition
+mod_saff_utf8.txt: STOPWORD: 4029; singular Edition
+mod_saff_utf8.txt: STOPWORD: 4049; refined Edition
+mod_saff_utf8.txt: STOPWORD: 4062; pure Edition
+mod_saff_utf8.txt: STOPWORD: 4066; prostrate Edition
+mod_saff_utf8.txt: STOPWORD: 4071; principal Edition
+mod_saff_utf8.txt: STOPWORD: 4113; magistrate Edition
+mod_saff_utf8.txt: STOPWORD: 4134; intolerable pain Edition
+mod_saff_utf8.txt: STOPWORD: 4137; instituted Edition
+mod_saff_utf8.txt: STOPWORD: 4147; immure Edition
+mod_saff_utf8.txt: STOPWORD: 4155; hole Edition
+mod_saff_utf8.txt: STOPWORD: 4173; fortuitous Edition
+mod_saff_utf8.txt: STOPWORD: 4190; fathers Edition
+mod_saff_utf8.txt: STOPWORD: 4194; farce Edition
+mod_saff_utf8.txt: STOPWORD: 4199; extraordinary emotion Edition
+mod_saff_utf8.txt: STOPWORD: 4202; expeditions of war
+mod_saff_utf8.txt: STOPWORD: 4203; expeditions
+mod_saff_utf8.txt: STOPWORD: 4211; epistles Edition
+mod_saff_utf8.txt: STOPWORD: 4212; envy Edition
+mod_saff_utf8.txt: STOPWORD: 4213; enemy Edition
+mod_saff_utf8.txt: STOPWORD: 4216; eminence Edition
+mod_saff_utf8.txt: STOPWORD: 4222; dog Edition
+mod_saff_utf8.txt: STOPWORD: 4243; contracted Edition
+mod_saff_utf8.txt: STOPWORD: 4253; companions Edition
+mod_saff_utf8.txt: STOPWORD: 4264; bold invention Edition
+mod_saff_utf8.txt: STOPWORD: 4275; animosities Edition
+mod_saff_utf8.txt: STOPWORD: 4286; accident stumbling Edition
+mod_saff_utf8.txt: STOPWORD: 4295; RAIMOND DE SEBONDE Edition
+mod_saff_utf8.txt: STOPWORD: 4297; Page 170 Edition
+mod_saff_utf8.txt: STOPWORD: 4298; Monsieur Edition
+mod_saff_utf8.txt: STOPWORD: 4305; Lacedaemonian soldier Edition
+mod_saff_utf8.txt: STOPWORD: 4307; Johannes Secundus Edition
+mod_saff_utf8.txt: DOUBLE --: 4323; without--a support
+mod_saff_utf8.txt: DOUBLE --: 4354; true philosophers been celibates--Descartes
+mod_saff_utf8.txt: DOUBLE --: 4367; theoretical--in other words
+mod_saff_utf8.txt: DOUBLE --: 4376; tediousness--an objective
+mod_saff_utf8.txt: STOPWORD: 4521; ordinary book-philosopher stands
+mod_saff_utf8.txt: DOUBLE --: 4532; notice--in other words
+mod_saff_utf8.txt: DOUBLE --: 4550; murdered--of course
+mod_saff_utf8.txt: DOUBLE --: 4639; individual--a view
+mod_saff_utf8.txt: DOUBLE --: 4708; expression--in other words
+mod_saff_utf8.txt: DOUBLE --: 4756; deranged--in other words
+mod_saff_utf8.txt: DOUBLE --: 4757; denied--for instance
+mod_saff_utf8.txt: DOUBLE --: 4783; contradicted human nature--in other words
+mod_saff_utf8.txt: DOUBLE --: 4828; beautiful--in other words
+mod_saff_utf8.txt: DOUBLE --: 4855; adopt--for example
+mod_saff_utf8.txt: ALL CAPS: 4882; PSYCHOLOGICAL OBSERVATIONS
+mod_saff_utf8.txt: ALL CAPS: 4913; EXISTENCE ON WOMEN THINKING
+mod_saff_utf8.txt: ALL CAPS: 4920; CONTENTS ON AUTHORSHIP
+mod_saff_utf8.txt: NUMERAL: 4928; Act iii
+mod_saff_utf8.txt: STOPWORD: 4950; vast massy darts Edition
+mod_saff_utf8.txt: STOPWORD: 4962; troublesome Edition
+mod_saff_utf8.txt: ARCHAISM: 4969; thy hinds
+mod_saff_utf8.txt: STOPWORD: 5004; seditions Edition
+mod_saff_utf8.txt: STOPWORD: 5011; sacred Edition
+mod_saff_utf8.txt: STOPWORD: 5015; richest Edition
+mod_saff_utf8.txt: ARCHAISM: 5027; rate art thou
+mod_saff_utf8.txt: STOPWORD: 5048; pray Edition
+mod_saff_utf8.txt: ARCHAISM: 5051; power thou hast
+mod_saff_utf8.txt: STOPWORD: 5059; petition Edition
+mod_saff_utf8.txt: STOPWORD: 5063; passions Edition
+mod_saff_utf8.txt: STOPWORD: 5085; messenger Edition
+mod_saff_utf8.txt: STOPWORD: 5102; kissing Edition
+mod_saff_utf8.txt: STOPWORD: 5113; indulgent Edition
+mod_saff_utf8.txt: STOPWORD: 5142; fermenting Edition
+mod_saff_utf8.txt: STOPWORD: 5143; fault Edition
+mod_saff_utf8.txt: STOPWORD: 5185; cruising Edition
+mod_saff_utf8.txt: STOPWORD: 5188; courages increasing Edition
+mod_saff_utf8.txt: STOPWORD: 5195; condemnation Edition
+mod_saff_utf8.txt: STOPWORD: 5201; comparison greater Edition
+mod_saff_utf8.txt: STOPWORD: 5214; bound Edition
+mod_saff_utf8.txt: STOPWORD: 5219; becoming two Edition
+mod_saff_utf8.txt: STOPWORD: 5231; admission Edition
+mod_saff_utf8.txt: ALL CAPS: 5237; WELL SAYS
+mod_saff_utf8.txt: ALL CAPS: 5242; REASON DIRECTS
+mod_saff_utf8.txt: ALL CAPS: 5244; OUR ACTIONS SUCH AS
+mod_saff_utf8.txt: STOPWORD: 5249; Iphicrates Edition
+mod_saff_utf8.txt: STOPWORD: 5257; DRUNKENNESS Edition
+mod_saff_utf8.txt: ALL CAPS: 5263; CONSIDERATION UPON CICERO
+mod_saff_utf8.txt: ALL CAPS: 5265; BETWEEN US PLUTARCH SAYS
+mod_saff_utf8.txt: STOPWORD: 5275; well-made Edition
+mod_saff_utf8.txt: STOPWORD: 5289; unquietness Edition
+mod_saff_utf8.txt: STOPWORD: 5304; time drawing Edition
+mod_saff_utf8.txt: ARCHAISM: 5306; thy glory
+mod_saff_utf8.txt: ARCHAISM: 5307; thy Edition
+mod_saff_utf8.txt: ARCHAISM: 5308; thou leave
+mod_saff_utf8.txt: ARCHAISM: 5309; thee thy life
+mod_saff_utf8.txt: ARCHAISM: 5310; thee Edition
+mod_saff_utf8.txt: STOPWORD: 5315; swallowed Edition
+mod_saff_utf8.txt: STOPWORD: 5336; sincerity Edition
+mod_saff_utf8.txt: STOPWORD: 5337; sign Edition
+mod_saff_utf8.txt: STOPWORD: 5340; scarce Edition
+mod_saff_utf8.txt: STOPWORD: 5351; readiest way Edition
+mod_saff_utf8.txt: STOPWORD: 5361; prize Edition
+mod_saff_utf8.txt: STOPWORD: 5376; perpetual Edition
+mod_saff_utf8.txt: STOPWORD: 5383; opportunities Edition
+mod_saff_utf8.txt: STOPWORD: 5395; nations Edition
+mod_saff_utf8.txt: STOPWORD: 5408; mere reports Edition
+mod_saff_utf8.txt: STOPWORD: 5427; letters Edition
+mod_saff_utf8.txt: STOPWORD: 5448; imagined Edition
+mod_saff_utf8.txt: STOPWORD: 5457; heart Edition
+mod_saff_utf8.txt: STOPWORD: 5460; haste Edition
+mod_saff_utf8.txt: STOPWORD: 5480; flying Edition
+mod_saff_utf8.txt: STOPWORD: 5481; flower Edition
+mod_saff_utf8.txt: STOPWORD: 5508; dominion Edition
+mod_saff_utf8.txt: STOPWORD: 5516; defects Edition
+mod_saff_utf8.txt: STOPWORD: 5530; comparison Edition
+mod_saff_utf8.txt: STOPWORD: 5534; colleges Edition
+mod_saff_utf8.txt: STOPWORD: 5535; cold Edition
+mod_saff_utf8.txt: STOPWORD: 5542; cautious Edition
+mod_saff_utf8.txt: STOPWORD: 5555; annals Edition
+mod_saff_utf8.txt: STOPWORD: 5560; affections Edition
+mod_saff_utf8.txt: STOPWORD: 5572; Page 254 Edition
+mod_saff_utf8.txt: ALL CAPS: 5573; OUR GOVERNMENT MY LATE father
+mod_saff_utf8.txt: ALL CAPS: 5574; OUR GOVERNMENT
+mod_saff_utf8.txt: STOPWORD: 5577; Jupiter Edition
+mod_saff_utf8.txt: ALL CAPS: 5588; CONTENTS Various Events
+mod_saff_utf8.txt: STOPWORD: 5610; valuing Edition
+mod_saff_utf8.txt: STOPWORD: 5614; unworthy Edition
+mod_saff_utf8.txt: STOPWORD: 5619; unintermitted Edition
+mod_saff_utf8.txt: STOPWORD: 5620; uniform Edition
+mod_saff_utf8.txt: STOPWORD: 5628; true victory Edition
+mod_saff_utf8.txt: STOPWORD: 5629; true story Edition
+mod_saff_utf8.txt: ARCHAISM: 5642; thou shalt lie
+mod_saff_utf8.txt: STOPWORD: 5656; sufferings Edition
+mod_saff_utf8.txt: STOPWORD: 5676; singular gallant behavior Edition
+mod_saff_utf8.txt: ARCHAISM: 5703; reason thou shouldst
+mod_saff_utf8.txt: STOPWORD: 5706; ready Edition
+mod_saff_utf8.txt: STOPWORD: 5708; reading Edition
+mod_saff_utf8.txt: STOPWORD: 5715; excess Edition
+mod_saff_utf8.txt: STOPWORD: 5721; evil Edition
+mod_saff_utf8.txt: STOPWORD: 5726; ego Edition
+mod_saff_utf8.txt: STOPWORD: 5738; disposition Edition
+mod_saff_utf8.txt: STOPWORD: 5741; disdains Edition
+mod_saff_utf8.txt: STOPWORD: 5746; desirable Edition
+mod_saff_utf8.txt: STOPWORD: 5747; democratic states Edition
+mod_saff_utf8.txt: STOPWORD: 5766; courage Edition
+mod_saff_utf8.txt: STOPWORD: 5792; circumstances Edition
+mod_saff_utf8.txt: STOPWORD: 5816; bad man Edition
+mod_saff_utf8.txt: STOPWORD: 5825; apt Edition
+mod_saff_utf8.txt: NUMERAL: 5848; VII
+mod_saff_utf8.txt: NUMERAL: 5861; Books VII
+mod_saff_utf8.txt: NUMERAL: 5862; Book VI
+mod_saff_utf8.txt: STOPWORD: 5863; ARISTOTLE Edition
+mod_saff_utf8.txt: ALL CAPS: 5993; less-S
+mod_saff_utf8.txt: ALL CAPS: 6146; series BEF
+mod_saff_utf8.txt: ALL CAPS: 6147; series ACD
+mod_saff_utf8.txt: ALL CAPS: 6148; series AB
+mod_saff_utf8.txt: ALL CAPS: 6159; quality of A-C
+mod_saff_utf8.txt: DOUBLE --: 6189; not-Callias--is animal
+mod_saff_utf8.txt: DOUBLE --: 6260; difference--it matters
+mod_saff_utf8.txt: ALL CAPS: 6276; definable form-C
+mod_saff_utf8.txt: ARCHAISM: 6355; ye stand
+mod_saff_utf8.txt: ARCHAISM: 6356; ye lie
+mod_saff_utf8.txt: ARCHAISM: 6357; ye lack belief
+mod_saff_utf8.txt: ARCHAISM: 6358; ye great souls
+mod_saff_utf8.txt: ARCHAISM: 6359; ye exercise power
+mod_saff_utf8.txt: ARCHAISM: 6360; ye doubt
+mod_saff_utf8.txt: ARCHAISM: 6361; ye change
+mod_saff_utf8.txt: ARCHAISM: 6362; ye act
+mod_saff_utf8.txt: ARCHAISM: 6363; ye Date-fruit spirits
+mod_saff_utf8.txt: ARCHAISM: 6364; ye CONCEIVE
+mod_saff_utf8.txt: ARCHAISM: 6366; wouldst thou
+mod_saff_utf8.txt: ALL CAPS: 6374; world FROM
+mod_saff_utf8.txt: ARCHAISM: 6375; words hath
+mod_saff_utf8.txt: ALL CAPS: 6378; word injureth ME
+mod_saff_utf8.txt: ALL CAPS: 6380; word blessed SELFISHNESS
+mod_saff_utf8.txt: ALL CAPS: 6381; word WERE
+mod_saff_utf8.txt: ARCHAISM: 6389; wanteth thy whole power
+mod_saff_utf8.txt: DOUBLE --: 6407; unfamiliar--God
+mod_saff_utf8.txt: ARCHAISM: 6419; truth hath
+mod_saff_utf8.txt: ARCHAISM: 6433; times nay
+mod_saff_utf8.txt: ARCHAISM: 6435; time dripped thy song
+mod_saff_utf8.txt: ARCHAISM: 6437; thyself thy
+mod_saff_utf8.txt: ARCHAISM: 6438; thy strength
+mod_saff_utf8.txt: ARCHAISM: 6439; thy story
+mod_saff_utf8.txt: ARCHAISM: 6440; thy spirit endeavoureth
+mod_saff_utf8.txt: ARCHAISM: 6441; thy spirit
+mod_saff_utf8.txt: ARCHAISM: 6442; thy soul thrill
+mod_saff_utf8.txt: ARCHAISM: 6443; thy one truth
+mod_saff_utf8.txt: ARCHAISM: 6444; thy neighbours
+mod_saff_utf8.txt: ARCHAISM: 6445; thy master
+mod_saff_utf8.txt: ARCHAISM: 6446; thy marriage
+mod_saff_utf8.txt: ARCHAISM: 6447; thy look
+mod_saff_utf8.txt: ARCHAISM: 6448; thy little truth
+mod_saff_utf8.txt: ARCHAISM: 6449; thy likeness
+mod_saff_utf8.txt: ARCHAISM: 6450; thy law
+mod_saff_utf8.txt: ARCHAISM: 6451; thy last greatness
+mod_saff_utf8.txt: ARCHAISM: 6452; thy justice
+mod_saff_utf8.txt: ARCHAISM: 6453; thy jealous soul love
+mod_saff_utf8.txt: ARCHAISM: 6454; thy honey
+mod_saff_utf8.txt: ARCHAISM: 6455; thy greeting
+mod_saff_utf8.txt: ARCHAISM: 6456; thy goodness
+mod_saff_utf8.txt: ARCHAISM: 6457; thy good taste
+mod_saff_utf8.txt: ARCHAISM: 6458; thy flesh and thy bones
+mod_saff_utf8.txt: ARCHAISM: 6459; thy doctrine
+mod_saff_utf8.txt: ARCHAISM: 6460; thy body thyself
+mod_saff_utf8.txt: ARCHAISM: 6461; thy body requireth
+mod_saff_utf8.txt: ARCHAISM: 6462; thou wouldst call
+mod_saff_utf8.txt: ARCHAISM: 6463; thou wailedst
+mod_saff_utf8.txt: ARCHAISM: 6464; thou usest such severe words
+mod_saff_utf8.txt: ARCHAISM: 6465; thou strange world
+mod_saff_utf8.txt: ARCHAISM: 6466; thou saidst
+mod_saff_utf8.txt: ARCHAISM: 6467; thou art thyself
+mod_saff_utf8.txt: ARCHAISM: 6468; thou art averse
+mod_saff_utf8.txt: ARCHAISM: 6469; thou art HARD
+mod_saff_utf8.txt: ARCHAISM: 6470; thine own virtue
+mod_saff_utf8.txt: ARCHAISM: 6471; thine own beauty
+mod_saff_utf8.txt: ARCHAISM: 6472; thine authority
+mod_saff_utf8.txt: ARCHAISM: 6473; thine animals beseech thee
+mod_saff_utf8.txt: ARCHAISM: 6474; thine animals
+mod_saff_utf8.txt: ARCHAISM: 6475; thine account
+mod_saff_utf8.txt: DOUBLE --: 6476; then--the highest time
+mod_saff_utf8.txt: ARCHAISM: 6477; thee hath
+mod_saff_utf8.txt: DOUBLE --: 6482; taking hydrate of chloral--a drug
+mod_saff_utf8.txt: ARCHAISM: 6506; stars thirsteth thy soul
+mod_saff_utf8.txt: ALL CAPS: 6516; speaketh justice UNTO ME
+mod_saff_utf8.txt: DOUBLE --: 6518; speakest thou--of truth
+mod_saff_utf8.txt: ARCHAISM: 6534; shalt thou love thy virtues
+mod_saff_utf8.txt: DOUBLE --: 6576; readers--and spirit
+mod_saff_utf8.txt: DOUBLE --: 6582; punish--punishment meaning
+mod_saff_utf8.txt: ARCHAISM: 6584; proud art thou
+mod_saff_utf8.txt: ARCHAISM: 6593; praise thy virtue
+mod_saff_utf8.txt: DOUBLE --: 6599; pity--is called virtue
+mod_saff_utf8.txt: ARCHAISM: 6602; pillar shalt thou
+mod_saff_utf8.txt: DOUBLE --: 6621; one--that maketh
+mod_saff_utf8.txt: DOUBLE --: 6622; one--PASS BY
+mod_saff_utf8.txt: DOUBLE --: 6633; name--the name
+mod_saff_utf8.txt: ARCHAISM: 6638; mine own likeness
+mod_saff_utf8.txt: ARCHAISM: 6639; mine own knowledge
+mod_saff_utf8.txt: ARCHAISM: 6640; mine insight
+mod_saff_utf8.txt: ARCHAISM: 6641; mine enemies
+mod_saff_utf8.txt: ARCHAISM: 6642; mine empire
+mod_saff_utf8.txt: ARCHAISM: 6643; mine ears and eyes
+mod_saff_utf8.txt: ARCHAISM: 6644; mine ears
+mod_saff_utf8.txt: ARCHAISM: 6645; mine arts
+mod_saff_utf8.txt: ARCHAISM: 6646; mine art
+mod_saff_utf8.txt: DOUBLE --: 6649; me--THIS truth
+mod_saff_utf8.txt: ALL CAPS: 6660; lofty things and NOT
+mod_saff_utf8.txt: DOUBLE --: 6666; life--them life overcometh
+mod_saff_utf8.txt: DOUBLE --: 6667; life--it cureth
+mod_saff_utf8.txt: ALL CAPS: 6669; life promiseth US
+mod_saff_utf8.txt: DOUBLE --: 6679; last--mine own Self
+mod_saff_utf8.txt: ARCHAISM: 6681; language hath
+mod_saff_utf8.txt: ALL CAPS: 6684; knaves HONOUR saith
+mod_saff_utf8.txt: DOUBLE --: 6689; itself--for power
+mod_saff_utf8.txt: ARCHAISM: 6712; humanity hath
+mod_saff_utf8.txt: DOUBLE --: 6721; hit--the truth
+mod_saff_utf8.txt: ARCHAISM: 6731; hath power
+mod_saff_utf8.txt: ARCHAISM: 6732; hath other sentiments goeth
+mod_saff_utf8.txt: ARCHAISM: 6733; hath more force
+mod_saff_utf8.txt: BAD HYPHEN: 6739; hangman-God
+mod_saff_utf8.txt: ALL CAPS: 6744; hand graspeth UPWARDS
+mod_saff_utf8.txt: DOUBLE --: 6765; fundamental passion--the main force
+mod_saff_utf8.txt: DOUBLE --: 6787; fellow-suffering--what matter
+mod_saff_utf8.txt: ARCHAISM: 6788; feet of thy
+mod_saff_utf8.txt: DOUBLE --: 6793; eye-glance--LITTLE maketh
+mod_saff_utf8.txt: ARCHAISM: 6806; evening wilt thou
+mod_saff_utf8.txt: ARCHAISM: 6807; evening hath
+mod_saff_utf8.txt: ARCHAISM: 6813; error hath
+mod_saff_utf8.txt: DOUBLE --: 6818; emancipation--so teacheth
+mod_saff_utf8.txt: ARCHAISM: 6828; dost thou call thyself
+mod_saff_utf8.txt: DOUBLE --: 6835; detest--the passing clouds
+mod_saff_utf8.txt: ALL CAPS: 6837; degeneration of CULTIVATED types
+mod_saff_utf8.txt: ARCHAISM: 6869; courageous animals hath
+mod_saff_utf8.txt: DOUBLE --: 6880; coming humanity--the Superman--the poet
+mod_saff_utf8.txt: DOUBLE --: 6886; circumscribed souls--thou art
+mod_saff_utf8.txt: ARCHAISM: 6889; chambers whilst thou art
+mod_saff_utf8.txt: DOUBLE --: 6907; believing--the confidence
+mod_saff_utf8.txt: ARCHAISM: 6914; bad conscience art thou
+mod_saff_utf8.txt: ARCHAISM: 6923; art THOU
+mod_saff_utf8.txt: ALL CAPS: 6924; art MY
+mod_saff_utf8.txt: ARCHAISM: 6929; animal hath
+mod_saff_utf8.txt: ARCHAISM: 6940; account ye
+mod_saff_utf8.txt: ARCHAISM: 6944; account despisest thou thyself
+mod_saff_utf8.txt: DOUBLE --: 6948; Zarathustra--on
+mod_saff_utf8.txt: DOUBLE --: 6949; Zarathustra--for hitherto
+mod_saff_utf8.txt: ARCHAISM: 6952; Ye free spirits
+mod_saff_utf8.txt: ARCHAISM: 6953; Ye call
+mod_saff_utf8.txt: ALL CAPS: 6954; YOUR time
+mod_saff_utf8.txt: ALL CAPS: 6955; YOUR reality
+mod_saff_utf8.txt: ARCHAISM: 6956; YE LOOKED ON AT
+mod_saff_utf8.txt: ALL CAPS: 6957; WORDS AT THEIR DISPOSAL
+mod_saff_utf8.txt: DOUBLE --: 6958; WE keep--to life
+mod_saff_utf8.txt: ALL CAPS: 6959; UNTO THEMSELVES
+mod_saff_utf8.txt: ARCHAISM: 6960; Thy soul
+mod_saff_utf8.txt: ARCHAISM: 6961; Thy ruling
+mod_saff_utf8.txt: ARCHAISM: 6962; Thy life
+mod_saff_utf8.txt: ARCHAISM: 6963; Thy Self laugheth
+mod_saff_utf8.txt: DOUBLE --: 6964; Thou--hangman-God
+mod_saff_utf8.txt: ARCHAISM: 6965; Thou unfamiliar--GOD
+mod_saff_utf8.txt: ALL CAPS: 6966; Thomas Common PG Editor
+mod_saff_utf8.txt: ALL CAPS: 6967; THIS world
+mod_saff_utf8.txt: ALL CAPS: 6968; THIS truth
+mod_saff_utf8.txt: ARCHAISM: 6969; THINE OWN evidence
+mod_saff_utf8.txt: ARCHAISM: 6970; THINE OWN desires
+mod_saff_utf8.txt: ARCHAISM: 6971; THEY THEMSELVES DIDST THOU DREAM
+mod_saff_utf8.txt: ALL CAPS: 6972; THEIR DOCTRINE
+mod_saff_utf8.txt: ARCHAISM: 6973; THEE
+mod_saff_utf8.txt: ALL CAPS: 6974; TAKE HEED
+mod_saff_utf8.txt: ARCHAISM: 6976; Speak thy word
+mod_saff_utf8.txt: ARCHAISM: 6977; Sharp perceptions hath
+mod_saff_utf8.txt: ARCHAISM: 6983; SINGLE leg hath
+mod_saff_utf8.txt: ALL CAPS: 6984; SEEKEST freedom
+mod_saff_utf8.txt: ALL CAPS: 6986; RIGHT THERETO
+mod_saff_utf8.txt: ALL CAPS: 6987; REASON THEREOF
+mod_saff_utf8.txt: ALL CAPS: 6991; OWN world winneth
+mod_saff_utf8.txt: ALL CAPS: 6992; ON PASSING-BY
+mod_saff_utf8.txt: ARCHAISM: 6996; Nay
+mod_saff_utf8.txt: ALL CAPS: 6997; NOTES ON
+mod_saff_utf8.txt: ALL CAPS: 6998; NOT CONSIDERATE
+mod_saff_utf8.txt: ARCHAISM: 7000; Mine unfamiliar God
+mod_saff_utf8.txt: ALL CAPS: 7004; MY world
+mod_saff_utf8.txt: ALL CAPS: 7005; MY words
+mod_saff_utf8.txt: ALL CAPS: 7006; MY word saith
+mod_saff_utf8.txt: ALL CAPS: 7007; MY word
+mod_saff_utf8.txt: ALL CAPS: 7008; MY virtue
+mod_saff_utf8.txt: ALL CAPS: 7009; MY happiness
+mod_saff_utf8.txt: ALL CAPS: 7010; MY danger
+mod_saff_utf8.txt: ARCHAISM: 7011; MINE animals
+mod_saff_utf8.txt: ALL CAPS: 7012; MERE CHANCE
+mod_saff_utf8.txt: ALL CAPS: 7013; ME knowledge
+mod_saff_utf8.txt: ALL CAPS: 7014; ME
+mod_saff_utf8.txt: ALL CAPS: 7017; LOOK AWAY FROM
+mod_saff_utf8.txt: ALL CAPS: 7018; LOFTIEST SOUL
+mod_saff_utf8.txt: ALL CAPS: 7019; LAST summit
+mod_saff_utf8.txt: DOUBLE --: 7021; Israel--is
+mod_saff_utf8.txt: ALL CAPS: 7022; ITS HIGHEST INDIVIDUALS
+mod_saff_utf8.txt: ALL CAPS: 7023; ITS
+mod_saff_utf8.txt: ALL CAPS: 7024; IMMACULATE PERCEPTION
+mod_saff_utf8.txt: ALL CAPS: 7028; HIGHER MAN
+mod_saff_utf8.txt: ALL CAPS: 7029; HERETOFORE HAVE OWED THEIR EXISTENCE
+mod_saff_utf8.txt: DOUBLE --: 7030; HE--of truth
+mod_saff_utf8.txt: ALL CAPS: 7031; HAPPY ISLES
+mod_saff_utf8.txt: ARCHAISM: 7032; HAPPINESS hath
+mod_saff_utf8.txt: ALL CAPS: 7035; Gods DEATH
+mod_saff_utf8.txt: ARCHAISM: 7037; God wilt thou
+mod_saff_utf8.txt: DOUBLE --: 7040; God himself--the utterance
+mod_saff_utf8.txt: ALL CAPS: 7045; GREAT EVENTS
+mod_saff_utf8.txt: ALL CAPS: 7046; GOOD TASTE
+mod_saff_utf8.txt: ALL CAPS: 7047; GOOD MEN NEVER SPEAK
+mod_saff_utf8.txt: ALL CAPS: 7048; GENEROUS self-control
+mod_saff_utf8.txt: ALL CAPS: 7051; FEELING suffereth
+mod_saff_utf8.txt: ALL CAPS: 7052; FAVOURABLE MEASURES GREAT INDIVIDUALS MIGHT
+mod_saff_utf8.txt: ARCHAISM: 7053; Evening hath
+mod_saff_utf8.txt: ALL CAPS: 7058; DW CONTENTS
+mod_saff_utf8.txt: ALL CAPS: 7059; DO WE DESIRE
+mod_saff_utf8.txt: DOUBLE --: 7060; Conscientious--so call
+mod_saff_utf8.txt: DOUBLE --: 7062; Church--a person
+mod_saff_utf8.txt: STOPWORD: 7064; Chapter XXXVIII
+mod_saff_utf8.txt: STOPWORD: 7065; Chapter XXXVII
+mod_saff_utf8.txt: STOPWORD: 7066; Chapter XXXV
+mod_saff_utf8.txt: STOPWORD: 7067; Chapter XXXIX
+mod_saff_utf8.txt: STOPWORD: 7068; Chapter XXXIV
+mod_saff_utf8.txt: STOPWORD: 7069; Chapter XXXIII
+mod_saff_utf8.txt: STOPWORD: 7070; Chapter XXX
+mod_saff_utf8.txt: STOPWORD: 7071; Chapter XXIX
+mod_saff_utf8.txt: STOPWORD: 7072; Chapter XXIV
+mod_saff_utf8.txt: STOPWORD: 7073; Chapter XXIII
+mod_saff_utf8.txt: STOPWORD: 7074; Chapter XXI
+mod_saff_utf8.txt: STOPWORD: 7075; Chapter XLVIII
+mod_saff_utf8.txt: STOPWORD: 7076; Chapter XLVII
+mod_saff_utf8.txt: STOPWORD: 7077; Chapter XLIX
+mod_saff_utf8.txt: STOPWORD: 7078; Chapter XLIV
+mod_saff_utf8.txt: STOPWORD: 7079; Chapter XLIII
+mod_saff_utf8.txt: STOPWORD: 7080; Chapter XLI
+mod_saff_utf8.txt: STOPWORD: 7081; Chapter LXXX
+mod_saff_utf8.txt: STOPWORD: 7082; Chapter LXXVIII
+mod_saff_utf8.txt: STOPWORD: 7083; Chapter LXXVI
+mod_saff_utf8.txt: STOPWORD: 7084; Chapter LXXV
+mod_saff_utf8.txt: STOPWORD: 7085; Chapter LXXIX
+mod_saff_utf8.txt: STOPWORD: 7086; Chapter LXXIV
+mod_saff_utf8.txt: STOPWORD: 7087; Chapter LXXIII
+mod_saff_utf8.txt: STOPWORD: 7088; Chapter LXXII
+mod_saff_utf8.txt: STOPWORD: 7089; Chapter LXXI
+mod_saff_utf8.txt: STOPWORD: 7090; Chapter LXVIII
+mod_saff_utf8.txt: STOPWORD: 7091; Chapter LXVII
+mod_saff_utf8.txt: STOPWORD: 7092; Chapter LXVI
+mod_saff_utf8.txt: STOPWORD: 7093; Chapter LXIX
+mod_saff_utf8.txt: STOPWORD: 7094; Chapter LXIV
+mod_saff_utf8.txt: STOPWORD: 7095; Chapter LXII
+mod_saff_utf8.txt: STOPWORD: 7096; Chapter LXI
+mod_saff_utf8.txt: STOPWORD: 7097; Chapter LX
+mod_saff_utf8.txt: STOPWORD: 7098; Chapter LV
+mod_saff_utf8.txt: STOPWORD: 7099; Chapter LIII
+mod_saff_utf8.txt: STOPWORD: 7100; Chapter LII
+mod_saff_utf8.txt: ALL CAPS: 7101; CULTIVATED types
+mod_saff_utf8.txt: ALL CAPS: 7105; BESTOWING VIRTUE
+mod_saff_utf8.txt: ALL CAPS: 7106; BEST happiness
+mod_saff_utf8.txt: ALL CAPS: 7107; BEDWARFING VIRTUE
+mod_saff_utf8.txt: DOUBLE --: 7108; Away--my happiness
+mod_saff_utf8.txt: ARCHAISM: 7109; Art thou pure air
+mod_saff_utf8.txt: ARCHAISM: 7110; Art thou one ENTITLED
+mod_saff_utf8.txt: ALL CAPS: 7112; AIM STRAIGHT
+mod_saff_utf8.txt: DOUBLE --: 7130; two--footed animal
+mod_saff_utf8.txt: STOPWORD: 7167; seventh book of Euclid
+mod_saff_utf8.txt: STOPWORD: 7168; seventh book
+mod_saff_utf8.txt: DOUBLE --: 7180; reality--in other words
+mod_saff_utf8.txt: DOUBLE --: 7199; perfection--in other words
+mod_saff_utf8.txt: DOUBLE --: 7205; ordained--in other words
+mod_saff_utf8.txt: DOUBLE --: 7211; object--in other words
+mod_saff_utf8.txt: NUMERAL: 7213; notes ii
+mod_saff_utf8.txt: DOUBLE --: 7215; non--existent modifications
+mod_saff_utf8.txt: DOUBLE --: 7239; live--in other words
+mod_saff_utf8.txt: DOUBLE --: 7254; infinite--in other words
+mod_saff_utf8.txt: DOUBLE --: 7273; him--in other words
+mod_saff_utf8.txt: DOUBLE --: 7277; grown--up child
+mod_saff_utf8.txt: DOUBLE --: 7309; eternal existence--in other words
+mod_saff_utf8.txt: NUMERAL: 7334; definition II
+mod_saff_utf8.txt: DOUBLE --: 7385; above--named emotions
+mod_saff_utf8.txt: NUMERAL: 7392; Postulate iv
+mod_saff_utf8.txt: ALL CAPS: 7395; PROPOSITIONS PROP
+mod_saff_utf8.txt: DOUBLE --: 7396; Note--Empty honour
+mod_saff_utf8.txt: ALL CAPS: 7398; MIND PREFACE
+mod_saff_utf8.txt: ALL CAPS: 7402; Human Freedom PREFACE
+mod_saff_utf8.txt: DOUBLE --: 7403; God--in other words
+mod_saff_utf8.txt: ALL CAPS: 7406; GENERAL DEFINITION
+mod_saff_utf8.txt: DOUBLE --: 7408; Explanation--Self--complacency
+mod_saff_utf8.txt: DOUBLE --: 7409; Explanation--Existence
+mod_saff_utf8.txt: DOUBLE --: 7410; Explanation--Envy
+mod_saff_utf8.txt: DOUBLE --: 7411; Explanation--Cowardice
+mod_saff_utf8.txt: NUMERAL: 7412; Explanation xii
+mod_saff_utf8.txt: ALL CAPS: 7415; DEFINITIONS DEFINITION
+mod_saff_utf8.txt: NUMERAL: 7416; DEFINITION VII
+mod_saff_utf8.txt: NUMERAL: 7417; DEFINITION VI
+mod_saff_utf8.txt: NUMERAL: 7418; DEFINITION IV
+mod_saff_utf8.txt: NUMERAL: 7419; DEFINITION III
+mod_saff_utf8.txt: NUMERAL: 7420; DEFINITION II
+mod_saff_utf8.txt: ALL CAPS: 7421; CONCERNING GOD
+mod_saff_utf8.txt: NUMERAL: 7423; Axiom II
+mod_saff_utf8.txt: NUMERAL: 7425; AXIOM II
+mod_saff_utf8.txt: NUMERAL: 7495; medium of imitation II
+mod_saff_utf8.txt: ALL CAPS: 7540; XXI Words
+mod_saff_utf8.txt: ALL CAPS: 7541; XX Language
+mod_saff_utf8.txt: ARCHAISM: 7702; purposes envelope mine
+mod_saff_utf8.txt: STOPWORD: 7707; psychology books
+mod_saff_utf8.txt: DOUBLE --: 7778; objectify--even transcendental idealism
+mod_saff_utf8.txt: DOUBLE --: 7793; my--these words designate types
+mod_saff_utf8.txt: DOUBLE --: 7826; knowing experience itself--by intermediary experiences
+mod_saff_utf8.txt: DOUBLE --: 7842; inferior relations--bare likeness
+mod_saff_utf8.txt: DOUBLE --: 7894; experience--in other words
+mod_saff_utf8.txt: DOUBLE --: 7965; confused--the view
+mod_saff_utf8.txt: NUMERAL: 7983; chapter XII
+mod_saff_utf8.txt: STOPWORD: 7992; book form
+mod_saff_utf8.txt: DOUBLE --: 8018; advance--in other words
+mod_saff_utf8.txt: NUMERAL: 8033; VIII LA NOTION DE CONSCIENCE
+mod_saff_utf8.txt: ALL CAPS: 8047; Rights Reserved EDITOR
+mod_saff_utf8.txt: NUMERAL: 8059; PURE EXPERIENCE 39 III
+mod_saff_utf8.txt: NUMERAL: 8060; PURE EXPERIENCE 137 VI
+mod_saff_utf8.txt: ALL CAPS: 8061; PSYCHOLOGICAL ASSOCIATION
+mod_saff_utf8.txt: ALL CAPS: 8063; OBJECTIVE REFERENCE
+mod_saff_utf8.txt: NUMERAL: 8073; Leo XIII
+mod_saff_utf8.txt: NUMERAL: 8076; IV One word
+mod_saff_utf8.txt: NUMERAL: 8085; Essay XII
+mod_saff_utf8.txt: ALL CAPS: 8089; DIFFERENT MINDS
+mod_saff_utf8.txt: ALL CAPS: 8095; COGNITIVE RELATION
+mod_saff_utf8.txt: STOPWORD: 8104; private Edition
+mod_saff_utf8.txt: STOPWORD: 8107; prevailed Edition
+mod_saff_utf8.txt: STOPWORD: 8111; praying Edition
+mod_saff_utf8.txt: STOPWORD: 8122; playing Edition
+mod_saff_utf8.txt: STOPWORD: 8130; patient Edition
+mod_saff_utf8.txt: STOPWORD: 8131; paleness and Edition
+mod_saff_utf8.txt: STOPWORD: 8135; ordain Edition
+mod_saff_utf8.txt: STOPWORD: 8152; mischief Edition
+mod_saff_utf8.txt: STOPWORD: 8185; law and Edition
+mod_saff_utf8.txt: STOPWORD: 8190; kindles Edition
+mod_saff_utf8.txt: STOPWORD: 8213; implacable Edition
+mod_saff_utf8.txt: STOPWORD: 8215; imperfections Edition
+mod_saff_utf8.txt: STOPWORD: 8233; gentle Edition
+mod_saff_utf8.txt: STOPWORD: 8235; gates Edition
+mod_saff_utf8.txt: STOPWORD: 8248; farthermore Edition
+mod_saff_utf8.txt: STOPWORD: 8258; expense Edition
+mod_saff_utf8.txt: STOPWORD: 8267; entreated Edition
+mod_saff_utf8.txt: STOPWORD: 8284; defect Edition
+mod_saff_utf8.txt: STOPWORD: 8294; correct Edition
+mod_saff_utf8.txt: STOPWORD: 8299; considered one Edition
+mod_saff_utf8.txt: STOPWORD: 8304; composed Edition
+mod_saff_utf8.txt: STOPWORD: 8313; cavalier Edition
+mod_saff_utf8.txt: STOPWORD: 8316; cat seen Edition
+mod_saff_utf8.txt: STOPWORD: 8328; apprehend Edition
+mod_saff_utf8.txt: STOPWORD: 8349; Solon Edition
+mod_saff_utf8.txt: STOPWORD: 8357; RECEIVED LAW Edition
+mod_saff_utf8.txt: ALL CAPS: 8358; RECEIVED LAW
+mod_saff_utf8.txt: STOPWORD: 8361; Page 242 Edition
+mod_saff_utf8.txt: NUMERAL: 8370; Henry IV
+mod_saff_utf8.txt: STOPWORD: 8379; English edition
+mod_saff_utf8.txt: ALL CAPS: 8386; CONTENTS Essay
+mod_saff_utf8.txt: ALL CAPS: 8387; CICERO SAYS
+mod_saff_utf8.txt: ARCHAISM: 8447; private person hath
+mod_saff_utf8.txt: ARCHAISM: 8486; measure God hath
+mod_saff_utf8.txt: ARCHAISM: 8534; hath
+mod_saff_utf8.txt: STOPWORD: 8551; foregoing chapter
+mod_saff_utf8.txt: STOPWORD: 8570; edition
+mod_saff_utf8.txt: ARCHAISM: 8610; canons natural reason hath
+mod_saff_utf8.txt: ALL CAPS: 8632; THOUGH governments
+mod_saff_utf8.txt: ALL CAPS: 8635; RIGHT of making laws
+mod_saff_utf8.txt: ALL CAPS: 8636; RIGHT
+mod_saff_utf8.txt: ALL CAPS: 8641; POLITICAL POWER
+mod_saff_utf8.txt: ALL CAPS: 8645; MAGISTRATE
+mod_saff_utf8.txt: STOPWORD: 8653; Chapter XVII
+mod_saff_utf8.txt: NUMERAL: 8654; Chapter XVI
+mod_saff_utf8.txt: STOPWORD: 8655; Chapter XIX
+mod_saff_utf8.txt: NUMERAL: 8656; Chapter XIV
+mod_saff_utf8.txt: NUMERAL: 8657; Chapter XIII
+mod_saff_utf8.txt: NUMERAL: 8658; Chapter XII
+mod_saff_utf8.txt: NUMERAL: 8659; Chapter VIII
+mod_saff_utf8.txt: NUMERAL: 8660; Chapter VII
+mod_saff_utf8.txt: STOPWORD: 8663; writing books
+mod_saff_utf8.txt: STOPWORD: 8678; virtue Edition
+mod_saff_utf8.txt: STOPWORD: 8711; unimpassable Edition
+mod_saff_utf8.txt: STOPWORD: 8741; tree increases Edition
+mod_saff_utf8.txt: STOPWORD: 8744; transparent Edition
+mod_saff_utf8.txt: STOPWORD: 8785; supplement Edition
+mod_saff_utf8.txt: STOPWORD: 8896; repugnant Edition
+mod_saff_utf8.txt: STOPWORD: 8913; reasonings of Edition
+mod_saff_utf8.txt: STOPWORD: 8947; public Edition
+mod_saff_utf8.txt: STOPWORD: 8974; prejudices Edition
+mod_saff_utf8.txt: STOPWORD: 8976; precise Edition
+mod_saff_utf8.txt: STOPWORD: 9006; philosophical Edition
+mod_saff_utf8.txt: STOPWORD: 9032; passionate Edition
+mod_saff_utf8.txt: STOPWORD: 9035; pantheism Edition
+mod_saff_utf8.txt: STOPWORD: 9048; orderly Edition
+mod_saff_utf8.txt: STOPWORD: 9057; obstructed Edition
+mod_saff_utf8.txt: STOPWORD: 9062; nouvelle edition precédée
+mod_saff_utf8.txt: STOPWORD: 9080; natural light Edition
+mod_saff_utf8.txt: STOPWORD: 9081; natural Edition
+mod_saff_utf8.txt: STOPWORD: 9090; mother Edition
+mod_saff_utf8.txt: STOPWORD: 9123; mere abstraction Edition
+mod_saff_utf8.txt: STOPWORD: 9127; memory Edition
+mod_saff_utf8.txt: STOPWORD: 9147; magnificent Edition
+mod_saff_utf8.txt: STOPWORD: 9174; latin Edition
+mod_saff_utf8.txt: STOPWORD: 9225; impossible Edition
+mod_saff_utf8.txt: STOPWORD: 9234; imagination Edition
+mod_saff_utf8.txt: STOPWORD: 9244; identical Edition
+mod_saff_utf8.txt: STOPWORD: 9267; hindered Edition
+mod_saff_utf8.txt: STOPWORD: 9276; hands Edition
+mod_saff_utf8.txt: STOPWORD: 9292; gentleness and Edition
+mod_saff_utf8.txt: STOPWORD: 9298; freedom consisting Edition
+mod_saff_utf8.txt: STOPWORD: 9322; finite Edition
+mod_saff_utf8.txt: STOPWORD: 9354; exempt Edition
+mod_saff_utf8.txt: STOPWORD: 9375; dreams Edition
+mod_saff_utf8.txt: STOPWORD: 9378; doubter Edition
+mod_saff_utf8.txt: STOPWORD: 9468; contained Edition
+mod_saff_utf8.txt: STOPWORD: 9492; conscious Edition
+mod_saff_utf8.txt: STOPWORD: 9495; conditions Edition
+mod_saff_utf8.txt: STOPWORD: 9519; coadjacent Edition
+mod_saff_utf8.txt: STOPWORD: 9524; classes of Edition
+mod_saff_utf8.txt: STOPWORD: 9540; careful analyst Edition
+mod_saff_utf8.txt: STOPWORD: 9544; brain affords Edition
+mod_saff_utf8.txt: STOPWORD: 9545; books and actors
+mod_saff_utf8.txt: STOPWORD: 9546; book of Meditations
+mod_saff_utf8.txt: STOPWORD: 9550; bestow Edition
+mod_saff_utf8.txt: STOPWORD: 9598; adequate Edition
+mod_saff_utf8.txt: STOPWORD: 9613; abstract reflection Edition
+mod_saff_utf8.txt: ALL CAPS: 9642; SIX FOLLOWING MEDITATIONS
+mod_saff_utf8.txt: ALL CAPS: 9643; SEEKING TRUTH
+mod_saff_utf8.txt: ALL CAPS: 9644; SACRED FACULTY
+mod_saff_utf8.txt: ALL CAPS: 9651; REAL DISTINCTION
+mod_saff_utf8.txt: NUMERAL: 9652; Proposition IV
+mod_saff_utf8.txt: NUMERAL: 9653; Proposition III
+mod_saff_utf8.txt: NUMERAL: 9656; Postulate II
+mod_saff_utf8.txt: ALL CAPS: 9660; PHILOSOPHY SERVING
+mod_saff_utf8.txt: STOPWORD: 9667; Medicine of Edition
+mod_saff_utf8.txt: STOPWORD: 9674; LONDON Edition
+mod_saff_utf8.txt: ALL CAPS: 9707; EXISTENCE
+mod_saff_utf8.txt: NUMERAL: 9716; Definition VIII
+mod_saff_utf8.txt: ALL CAPS: 9718; DISTINCTION BETWEEN
+mod_saff_utf8.txt: ALL CAPS: 9719; DESCARTES TRANSLATED FROM
+mod_saff_utf8.txt: ALL CAPS: 9720; DESCARTES SPECIAL INTRODUCTION CONTENTS INTRODUCTION
+mod_saff_utf8.txt: ALL CAPS: 9721; DESCARTES Rene Descartes
+mod_saff_utf8.txt: ALL CAPS: 9731; CONTENTS INTRODUCTION
+mod_saff_utf8.txt: NUMERAL: 9732; Brutes 177 VI
+mod_saff_utf8.txt: STOPWORD: 9733; Book of Wisdom
+mod_saff_utf8.txt: NUMERAL: 9734; Axiom VI
+mod_saff_utf8.txt: NUMERAL: 9735; Axiom IV
+mod_saff_utf8.txt: NUMERAL: 10233; Problem II
+mod_saff_utf8.txt: ALL CAPS: 10244; EXTERNAL INTERNAL Education
+mod_saff_utf8.txt: ALL CAPS: 10245; DESIRE
+mod_saff_utf8.txt: DOUBLE --: 10267; units--the units
+mod_saff_utf8.txt: STOPWORD: 10510; introductory chapters
+mod_saff_utf8.txt: DOUBLE --: 10623; living crystallizations--as preparation
+mod_saff_utf8.txt: ALL CAPS: 10630; legitimate LORD
+mod_saff_utf8.txt: DOUBLE --: 10639; kitchen--the development of mankind
+mod_saff_utf8.txt: DOUBLE --: 10640; kitchen--the development
+mod_saff_utf8.txt: DOUBLE --: 10641; kind--for instance
+mod_saff_utf8.txt: DOUBLE --: 10642; it--they WISH
+mod_saff_utf8.txt: DOUBLE --: 10673; impulses--for thinking
+mod_saff_utf8.txt: ALL CAPS: 10677; immense PHYSIOLOGICAL PROCESS
+mod_saff_utf8.txt: DOUBLE --: 10682; however--the world
+mod_saff_utf8.txt: DOUBLE --: 10690; hitherto existed--a notion
+mod_saff_utf8.txt: ALL CAPS: 10691; historical values spurious coinage PREVAILS
+mod_saff_utf8.txt: DOUBLE --: 10694; himself--in accordance
+mod_saff_utf8.txt: DOUBLE --: 10697; herself--and CAN desire
+mod_saff_utf8.txt: DOUBLE --: 10709; hand--with OUR hand
+mod_saff_utf8.txt: BAD HYPHEN: 10711; half Jean-Paul-like nature
+mod_saff_utf8.txt: DOUBLE --: 10713; gregarious Europeans--of
+mod_saff_utf8.txt: DOUBLE --: 10714; greatness POSSIBLE--nowadays
+mod_saff_utf8.txt: DOUBLE --: 10719; gold-mine--his ideas
+mod_saff_utf8.txt: ALL CAPS: 10735; former DETERMINATIONS
+mod_saff_utf8.txt: DOUBLE --: 10736; foremost--old Kant
+mod_saff_utf8.txt: ALL CAPS: 10761; eyes MUST
+mod_saff_utf8.txt: DOUBLE --: 10766; expended--that reason
+mod_saff_utf8.txt: DOUBLE --: 10782; earth--the belief
+mod_saff_utf8.txt: DOUBLE --: 10812; dearest--every person
+mod_saff_utf8.txt: ALL CAPS: 10827; constant UNFAVOURABLE conditions
+mod_saff_utf8.txt: ALL CAPS: 10835; conception CAUSA SUI
+mod_saff_utf8.txt: DOUBLE --: 10845; command--in view
+mod_saff_utf8.txt: DOUBLE --: 10846; command--consequently obedience
+mod_saff_utf8.txt: DOUBLE --: 10854; children--they call
+mod_saff_utf8.txt: ALL CAPS: 10865; cause AGAINST
+mod_saff_utf8.txt: ALL CAPS: 10887; archaizing TASTE
+mod_saff_utf8.txt: DOUBLE --: 10891; antidote--the finer poison
+mod_saff_utf8.txt: DOUBLE --: 10907; Will--until
+mod_saff_utf8.txt: ALL CAPS: 10909; WISH
+mod_saff_utf8.txt: ALL CAPS: 10910; WE matter
+mod_saff_utf8.txt: ALL CAPS: 10911; WE free spirits
+mod_saff_utf8.txt: NUMERAL: 10912; WE SCHOLARS CHAPTER VII
+mod_saff_utf8.txt: ALL CAPS: 10915; VERY free spirits
+mod_saff_utf8.txt: ALL CAPS: 10917; US
+mod_saff_utf8.txt: ALL CAPS: 10918; UNIVERSAL DEGENERACY
+mod_saff_utf8.txt: ALL CAPS: 10919; ULTRA-MORAL
+mod_saff_utf8.txt: DOUBLE --: 10920; Taine--the
+mod_saff_utf8.txt: ALL CAPS: 10921; THIRD ear
+mod_saff_utf8.txt: ALL CAPS: 10922; THIRD claim
+mod_saff_utf8.txt: ALL CAPS: 10923; THEORY
+mod_saff_utf8.txt: ALL CAPS: 10924; THEMSELVES
+mod_saff_utf8.txt: ALL CAPS: 10925; THEIR merits
+mod_saff_utf8.txt: ALL CAPS: 10926; THEIR
+mod_saff_utf8.txt: ALL CAPS: 10931; SURPLUS of failures
+mod_saff_utf8.txt: ALL CAPS: 10932; SURPLUS
+mod_saff_utf8.txt: ALL CAPS: 10933; SUPERFLUOUS teleological principles
+mod_saff_utf8.txt: ALL CAPS: 10934; SUPER-GERMAN sources
+mod_saff_utf8.txt: ALL CAPS: 10935; STRONG and WEAK wills
+mod_saff_utf8.txt: ALL CAPS: 10936; STRONG
+mod_saff_utf8.txt: ALL CAPS: 10937; SELF-CONTEMPT
+mod_saff_utf8.txt: ALL CAPS: 10940; RELIGIOUS sense
+mod_saff_utf8.txt: NUMERAL: 10941; RELIGIOUS MOOD CHAPTER IV
+mod_saff_utf8.txt: ALL CAPS: 10942; REFUTED systems
+mod_saff_utf8.txt: ALL CAPS: 10943; RECONSTRUCTED
+mod_saff_utf8.txt: ALL CAPS: 10944; REAL PHILOSOPHERS
+mod_saff_utf8.txt: ALL CAPS: 10949; PRIMARY FORM
+mod_saff_utf8.txt: ALL CAPS: 10950; PRESENT TIME
+mod_saff_utf8.txt: ALL CAPS: 10951; PREFACE SUPPOSING
+mod_saff_utf8.txt: ALL CAPS: 10952; PRAISED
+mod_saff_utf8.txt: ALL CAPS: 10953; POSSIBLE philosophies
+mod_saff_utf8.txt: ALL CAPS: 10954; POPULACE
+mod_saff_utf8.txt: ALL CAPS: 10955; PLEASURE and PAIN
+mod_saff_utf8.txt: ALL CAPS: 10956; PLEASURE
+mod_saff_utf8.txt: NUMERAL: 10957; PHILOSOPHERS CHAPTER II
+mod_saff_utf8.txt: ALL CAPS: 10958; PETTY taste
+mod_saff_utf8.txt: DOUBLE --: 10959; PERSPECTIVE--the fundamental condition--of life
+mod_saff_utf8.txt: ALL CAPS: 10960; PERSONAL manner
+mod_saff_utf8.txt: ALL CAPS: 10961; OWN ideas and notions
+mod_saff_utf8.txt: ALL CAPS: 10962; OUR virtue
+mod_saff_utf8.txt: ALL CAPS: 10963; OUR life
+mod_saff_utf8.txt: ALL CAPS: 10964; OUR Virtues
+mod_saff_utf8.txt: NUMERAL: 10965; OUR VIRTUES CHAPTER VIII
+mod_saff_utf8.txt: ALL CAPS: 10966; OUR VIRTUES
+mod_saff_utf8.txt: ALL CAPS: 10967; OTHER forms of nature
+mod_saff_utf8.txt: ALL CAPS: 10968; OTHER forms
+mod_saff_utf8.txt: ALL CAPS: 10969; Nature FALSELY
+mod_saff_utf8.txt: ALL CAPS: 10970; NUANCE
+mod_saff_utf8.txt: ALL CAPS: 10971; NOBLE SOUL
+mod_saff_utf8.txt: DOUBLE --: 10972; NEW PHILOSOPHERS--there
+mod_saff_utf8.txt: ALL CAPS: 10976; MY opinion
+mod_saff_utf8.txt: ALL CAPS: 10977; MORALS commences
+mod_saff_utf8.txt: NUMERAL: 10978; MORALS CHAPTER VI
+mod_saff_utf8.txt: ALL CAPS: 10979; MORAL TARTUFFISM
+mod_saff_utf8.txt: ALL CAPS: 10980; MORAL NAIVETE
+mod_saff_utf8.txt: ALL CAPS: 10981; MODERN reality
+mod_saff_utf8.txt: ALL CAPS: 10982; MEN
+mod_saff_utf8.txt: DOUBLE --: 10983; MASSES--the conception
+mod_saff_utf8.txt: DOUBLE --: 10984; Life--Granting
+mod_saff_utf8.txt: ALL CAPS: 10985; LUXURY
+mod_saff_utf8.txt: ALL CAPS: 10986; LOOK OUT
+mod_saff_utf8.txt: ALL CAPS: 10987; LOGICAL METHOD
+mod_saff_utf8.txt: ALL CAPS: 10988; LIVE
+mod_saff_utf8.txt: ALL CAPS: 10990; KNOWLEDGE ABOUT LOVE
+mod_saff_utf8.txt: ALL CAPS: 10991; KNOWLEDGE
+mod_saff_utf8.txt: ALL CAPS: 10992; KANT
+mod_saff_utf8.txt: ALL CAPS: 10993; IGNOBLE sense
+mod_saff_utf8.txt: ALL CAPS: 10997; HOW MUCH good-will
+mod_saff_utf8.txt: ALL CAPS: 10998; HISTORICAL SENSE
+mod_saff_utf8.txt: ALL CAPS: 10999; HIGHER moralities
+mod_saff_utf8.txt: ALL CAPS: 11000; HERDING-ANIMAL MORALITY
+mod_saff_utf8.txt: ALL CAPS: 11002; God DIONYSUS
+mod_saff_utf8.txt: ALL CAPS: 11013; GERMAN mind
+mod_saff_utf8.txt: ALL CAPS: 11014; GERMAN event
+mod_saff_utf8.txt: ALL CAPS: 11016; FURCA
+mod_saff_utf8.txt: ALL CAPS: 11017; FUNDAMENTAL PRINCIPLE
+mod_saff_utf8.txt: ALL CAPS: 11018; FREEDOM
+mod_saff_utf8.txt: NUMERAL: 11019; FREE SPIRIT CHAPTER III
+mod_saff_utf8.txt: ALL CAPS: 11020; FINDS THINGS OUT
+mod_saff_utf8.txt: ALL CAPS: 11021; FEAR of truth
+mod_saff_utf8.txt: ALL CAPS: 11022; FAVOUR
+mod_saff_utf8.txt: ALL CAPS: 11023; FALSIFY
+mod_saff_utf8.txt: ALL CAPS: 11024; FAITH BY INTUITION
+mod_saff_utf8.txt: DOUBLE --: 11031; European NOBLESSE--of sentiment
+mod_saff_utf8.txt: ALL CAPS: 11036; EXTENT
+mod_saff_utf8.txt: ALL CAPS: 11037; EXPRESSION
+mod_saff_utf8.txt: ALL CAPS: 11038; EXPECTED
+mod_saff_utf8.txt: ALL CAPS: 11039; EVOLVING EUROPEAN
+mod_saff_utf8.txt: STOPWORD: 11040; EVIL CHAPTER
+mod_saff_utf8.txt: ALL CAPS: 11041; EVERY good opinion
+mod_saff_utf8.txt: ALL CAPS: 11042; EUROPE WISHES
+mod_saff_utf8.txt: ALL CAPS: 11043; EST DANS CES MOMENTS-LA
+mod_saff_utf8.txt: ALL CAPS: 11044; ENGLAND
+mod_saff_utf8.txt: ALL CAPS: 11045; ENCOURAGE
+mod_saff_utf8.txt: ALL CAPS: 11048; DIFFERENT moralities
+mod_saff_utf8.txt: ALL CAPS: 11049; DIFFERENCE ENGENDRE HAINE
+mod_saff_utf8.txt: ALL CAPS: 11050; DESIRES enlightenment
+mod_saff_utf8.txt: ALL CAPS: 11051; DANGER
+mod_saff_utf8.txt: DOUBLE --: 11054; Christianity--they NEED
+mod_saff_utf8.txt: DOUBLE --: 11059; CRUELTY--this
+mod_saff_utf8.txt: ALL CAPS: 11060; CRIME
+mod_saff_utf8.txt: ALL CAPS: 11061; CREATIVE powers
+mod_saff_utf8.txt: STOPWORD: 11062; COUNTRIES CHAPTER
+mod_saff_utf8.txt: ALL CAPS: 11063; CONTENTS PREFACE BEYOND GOOD
+mod_saff_utf8.txt: DOUBLE --: 11064; CONCERNS US--be
+mod_saff_utf8.txt: ALL CAPS: 11065; COMMON experiences
+mod_saff_utf8.txt: ALL CAPS: 11066; CAUSE THEREOF
+mod_saff_utf8.txt: ALL CAPS: 11068; BY MEANS
+mod_saff_utf8.txt: ALL CAPS: 11069; BROUGHT BACK AGAIN
+mod_saff_utf8.txt: ALL CAPS: 11070; BIG period
+mod_saff_utf8.txt: NUMERAL: 11072; Act IV
+mod_saff_utf8.txt: ALL CAPS: 11073; AWAY therefrom
+mod_saff_utf8.txt: ALL CAPS: 11074; AVERAGE
+mod_saff_utf8.txt: ALL CAPS: 11075; ATTAINED climax
+mod_saff_utf8.txt: ALL CAPS: 11076; AS
+mod_saff_utf8.txt: ALL CAPS: 11077; ARISTOCRATIC mode
+mod_saff_utf8.txt: ALL CAPS: 11078; APPARENT EXISTENCE
+mod_saff_utf8.txt: ALL CAPS: 11079; ANIMAL NOT YET PROPERLY ADAPTED
+mod_saff_utf8.txt: ALL CAPS: 11080; ALL human misery and failure
+mod_saff_utf8.txt: ALL CAPS: 11081; ALL human misery
+mod_saff_utf8.txt: ALL CAPS: 11082; AIM AT
+mod_saff_utf8.txt: ALL CAPS: 11083; AGAINST science
+mod_saff_utf8.txt: ALL CAPS: 11084; AGAINST appearance
+mod_saff_utf8.txt: ALL CAPS: 11085; ACTIONS
+mod_saff_utf8.txt: DOUBLE --: 11102; understand--in other words
+mod_saff_utf8.txt: DOUBLE --: 11117; table--its colour
+mod_saff_utf8.txt: DOUBLE --: 11137; sense-data--brown colour
+mod_saff_utf8.txt: DOUBLE --: 11141; sensation--the colour
+mod_saff_utf8.txt: DOUBLE --: 11167; profit--the method
+mod_saff_utf8.txt: DOUBLE --: 11177; places--London
+mod_saff_utf8.txt: DOUBLE --: 11193; opinion fallacious--which idealists
+mod_saff_utf8.txt: STOPWORD: 11242; handbooks
+mod_saff_utf8.txt: DOUBLE --: 11294; being--as matter
+mod_saff_utf8.txt: DOUBLE --: 11306; agreed--the view
+mod_saff_utf8.txt: DOUBLE --: 11312; Solar System--similarly
+mod_saff_utf8.txt: ALL CAPS: 11316; PROBABLE OPINION
+mod_saff_utf8.txt: ALL CAPS: 11317; POSSIBLE Immanuel Kant
+mod_saff_utf8.txt: ALL CAPS: 11318; PHILOSOPHICAL KNOWLEDGE
+mod_saff_utf8.txt: ALL CAPS: 11320; ON INTUITIVE KNOWLEDGE
+mod_saff_utf8.txt: ALL CAPS: 11322; KNOWLEDGE BY DESCRIPTION
+mod_saff_utf8.txt: ALL CAPS: 11323; KNOWLEDGE BY ACQUAINTANCE
+mod_saff_utf8.txt: ALL CAPS: 11326; GENERAL PRINCIPLES
+mod_saff_utf8.txt: DOUBLE --: 11471; passion--a principle
+mod_saff_utf8.txt: NUMERAL: 11482; note VIII
+mod_saff_utf8.txt: NUMERAL: 11483; note VII
+mod_saff_utf8.txt: NUMERAL: 11484; note VI
+mod_saff_utf8.txt: NUMERAL: 11485; note IV
+mod_saff_utf8.txt: NUMERAL: 11486; note III
+mod_saff_utf8.txt: DOUBLE --: 11514; minute consecutive causes--an idea
+mod_saff_utf8.txt: DOUBLE --: 11557; infinite--all specific quality
+mod_saff_utf8.txt: DOUBLE --: 11570; imaginary bait--God
+mod_saff_utf8.txt: NUMERAL: 11702; VIII Page
+mod_saff_utf8.txt: NUMERAL: 11703; VII Page
+mod_saff_utf8.txt: NUMERAL: 11704; VI Page
+mod_saff_utf8.txt: NUMERAL: 11705; Supplementary Notes II
+mod_saff_utf8.txt: ALL CAPS: 11710; SUPPLEMENTARY NOTES
+mod_saff_utf8.txt: ALL CAPS: 11719; MODERN PHILOSOPHY
+mod_saff_utf8.txt: DOUBLE --: 11720; Leibniz--the
+mod_saff_utf8.txt: NUMERAL: 11725; IV Page
+mod_saff_utf8.txt: NUMERAL: 11726; III Page
+mod_saff_utf8.txt: NUMERAL: 11727; II Page
+mod_saff_utf8.txt: ALL CAPS: 11728; GREAT BRITAIN CONTENTS
+mod_saff_utf8.txt: ALL CAPS: 11739; COMMON SENSE
+mod_saff_utf8.txt: ALL CAPS: 11744; BRITISH IDEALISM
+mod_saff_utf8.txt: DOUBLE --: 11759; true--if human nature
+mod_saff_utf8.txt: ARCHAISM: 11768; thou actest
+mod_saff_utf8.txt: DOUBLE --: 11801; same--a feeling
+mod_saff_utf8.txt: DOUBLE --: 11839; personal right--a claim
+mod_saff_utf8.txt: DOUBLE --: 11855; opinions--to denote
+mod_saff_utf8.txt: STOPWORD: 12010; admirable chapter
+mod_saff_utf8.txt: NUMERAL: 12017; UTILITY CHAPTER IV
+mod_saff_utf8.txt: STOPWORD: 12018; SEVENTH EDITION LONDON LONGMANS
+mod_saff_utf8.txt: NUMERAL: 12030; GENERAL REMARKS CHAPTER II
+mod_saff_utf8.txt: ALL CAPS: 12031; GENERAL REMARKS
+mod_saff_utf8.txt: STOPWORD: 12245; book deals
+mod_saff_utf8.txt: ALL CAPS: 12273; TRACTATUS LOGICO-PHILOSOPHICUS Two propositions
+mod_saff_utf8.txt: ALL CAPS: 12274; TRACTATUS LOGICO-PHILOSOPHICUS Colloquial language
+mod_saff_utf8.txt: DOUBLE --: 12463; negative judgment--a result
+mod_saff_utf8.txt: DOUBLE --: 12514; judgment--Brentano
+mod_saff_utf8.txt: ALL CAPS: 12697; MIKLOSICH ON SUBJECTLESS PROPOSITIONS
+mod_saff_utf8.txt: ALL CAPS: 12699; LECTURE PAGE
+mod_saff_utf8.txt: DOUBLE --: 12716; Christianity--the Saviour--offers
+mod_saff_utf8.txt: STOPWORD: 12848; valid Edition
+mod_saff_utf8.txt: STOPWORD: 12852; unsuited Edition
+mod_saff_utf8.txt: STOPWORD: 12877; unconditioned Edition
+mod_saff_utf8.txt: STOPWORD: 12881; ultimate grounds of Edition
+mod_saff_utf8.txt: STOPWORD: 12969; subjective Edition
+mod_saff_utf8.txt: ALL CAPS: 12992; spaces AB
+mod_saff_utf8.txt: STOPWORD: 12997; space Edition
+mod_saff_utf8.txt: STOPWORD: 13023; signifies Edition
+mod_saff_utf8.txt: STOPWORD: 13030; set of inflexible Edition
+mod_saff_utf8.txt: STOPWORD: 13062; revised edition
+mod_saff_utf8.txt: STOPWORD: 13079; resistance Edition
+mod_saff_utf8.txt: STOPWORD: 13142; purse Edition
+mod_saff_utf8.txt: STOPWORD: 13154; pure conception Edition
+mod_saff_utf8.txt: STOPWORD: 13201; pressing Edition
+mod_saff_utf8.txt: STOPWORD: 13209; preceded Edition
+mod_saff_utf8.txt: STOPWORD: 13215; post-Kantian Edition
+mod_saff_utf8.txt: STOPWORD: 13291; ordinary circumspection Edition
+mod_saff_utf8.txt: STOPWORD: 13302; obsequiousness Edition
+mod_saff_utf8.txt: STOPWORD: 13323; non-rectilinear Edition
+mod_saff_utf8.txt: STOPWORD: 13336; moving Edition
+mod_saff_utf8.txt: STOPWORD: 13360; misunderstood Edition
+mod_saff_utf8.txt: STOPWORD: 13361; mistrustful Edition
+mod_saff_utf8.txt: STOPWORD: 13362; mistaking Edition
+mod_saff_utf8.txt: STOPWORD: 13437; manner of books
+mod_saff_utf8.txt: STOPWORD: 13462; laws Edition
+mod_saff_utf8.txt: STOPWORD: 13468; law books
+mod_saff_utf8.txt: STOPWORD: 13469; law Edition
+mod_saff_utf8.txt: ALL CAPS: 13528; impacting AB
+mod_saff_utf8.txt: STOPWORD: 13579; fourth book
+mod_saff_utf8.txt: STOPWORD: 13598; fixed stars Edition
+mod_saff_utf8.txt: STOPWORD: 13600; filling of Edition
+mod_saff_utf8.txt: STOPWORD: 13609; fanatical priests Edition
+mod_saff_utf8.txt: STOPWORD: 13624; external Edition
+mod_saff_utf8.txt: NUMERAL: 13632; explanation II
+mod_saff_utf8.txt: STOPWORD: 13677; editor Edition
+mod_saff_utf8.txt: STOPWORD: 13699; dogmatic Edition
+mod_saff_utf8.txt: STOPWORD: 13714; discursive Edition
+mod_saff_utf8.txt: ALL CAPS: 13718; directions AB
+mod_saff_utf8.txt: STOPWORD: 13724; diligent Edition
+mod_saff_utf8.txt: STOPWORD: 13751; deeper Edition
+mod_saff_utf8.txt: STOPWORD: 13807; conducted Edition
+mod_saff_utf8.txt: STOPWORD: 13808; conducing Edition
+mod_saff_utf8.txt: STOPWORD: 13829; comprehend Edition
+mod_saff_utf8.txt: STOPWORD: 13832; composition of motions Edition
+mod_saff_utf8.txt: STOPWORD: 13840; combined Edition
+mod_saff_utf8.txt: STOPWORD: 13885; category of cause Edition
+mod_saff_utf8.txt: STOPWORD: 13937; allured Edition
+mod_saff_utf8.txt: ALL CAPS: 13974; UNIVERSAL PRINCIPLES
+mod_saff_utf8.txt: ALL CAPS: 13980; TRANSCENDENTAL TABLE
+mod_saff_utf8.txt: STOPWORD: 13981; Students Edition
+mod_saff_utf8.txt: ALL CAPS: 13986; SOME PRESS OPINIONS ON
+mod_saff_utf8.txt: ALL CAPS: 13987; SCIENTIFIC LIBRARY 46 VOLUMES
+mod_saff_utf8.txt: ALL CAPS: 13994; REFERENCE LIBRARY 30 VOLUMES
+mod_saff_utf8.txt: NUMERAL: 14011; Page xi kant
+mod_saff_utf8.txt: ALL CAPS: 14012; PURE PHYSIOLOGICAL TABLE
+mod_saff_utf8.txt: ALL CAPS: 14013; PHILOSOPHICAL LIBRARY 17 VOLUMES
+mod_saff_utf8.txt: ALL CAPS: 14031; LOGICAL TABLE
+mod_saff_utf8.txt: STOPWORD: 14065; Deism wherewith Edition
+mod_saff_utf8.txt: STOPWORD: 14080; Berkeley Edition
+mod_saff_utf8.txt: ALL CAPS: 14090; AB and AC
+mod_saff_utf8.txt: ALL CAPS: 14091; AB
+mod_saff_utf8.txt: ARCHAISM: 14203; Christ hath
+mod_saff_utf8.txt: ALL CAPS: 14274; height CD
+mod_saff_utf8.txt: ARCHAISM: 14362; thou art steel
+mod_saff_utf8.txt: ARCHAISM: 14694; War-God showeth
+mod_saff_utf8.txt: STOPWORD: 14746; wealth and power Edition
+mod_saff_utf8.txt: STOPWORD: 14750; voluntary Edition
+mod_saff_utf8.txt: NUMERAL: 14759; viii
+mod_saff_utf8.txt: STOPWORD: 14760; view Edition
+mod_saff_utf8.txt: STOPWORD: 14799; temperance Edition
+mod_saff_utf8.txt: STOPWORD: 14801; swiftfooted Edition
+mod_saff_utf8.txt: STOPWORD: 14802; sweet Edition
+mod_saff_utf8.txt: STOPWORD: 14803; supreme good Edition
+mod_saff_utf8.txt: STOPWORD: 14811; subsequent edition
+mod_saff_utf8.txt: STOPWORD: 14815; striking Edition
+mod_saff_utf8.txt: STOPWORD: 14835; sight Edition
+mod_saff_utf8.txt: STOPWORD: 14927; past Edition
+mod_saff_utf8.txt: STOPWORD: 14941; offspring Edition
+mod_saff_utf8.txt: NUMERAL: 14964; moral virtue BOOK VII
+mod_saff_utf8.txt: STOPWORD: 15023; improper Edition
+mod_saff_utf8.txt: STOPWORD: 15039; habits Edition
+mod_saff_utf8.txt: STOPWORD: 15068; foolhardiness Edition
+mod_saff_utf8.txt: STOPWORD: 15070; fixed Edition
+mod_saff_utf8.txt: ALL CAPS: 15105; MS
+mod_saff_utf8.txt: NUMERAL: 15107; Louis XL and Charles VIII
+mod_saff_utf8.txt: ALL CAPS: 15144; INQUIRING SPIRIT
+mod_saff_utf8.txt: STOPWORD: 15153; Hand book
+mod_saff_utf8.txt: ALL CAPS: 15188; FOURTH CLASS OP OBJECTS FOE
+mod_saff_utf8.txt: ALL CAPS: 15189; FOURTH CLASS OP OBJECTS
+mod_saff_utf8.txt: ALL CAPS: 15190; FOTJETH CLASS
+mod_saff_utf8.txt: ALL CAPS: 15191; FIUST CLASS
+mod_saff_utf8.txt: ALL CAPS: 15192; FIKST CLASS
+mod_saff_utf8.txt: ALL CAPS: 15193; FIEST CLASS
+mod_saff_utf8.txt: STOPWORD: 15207; Eleventh Book
+mod_saff_utf8.txt: ALL CAPS: 15215; EMPIRICAL SCIENCES
+mod_saff_utf8.txt: ALL CAPS: 15216; ECCLESIASTICAL HISTORY
+mod_saff_utf8.txt: STOPWORD: 15262; Charles Swan Revised Edition
+mod_saff_utf8.txt: ALL CAPS: 15275; COMMON PRAYER
+mod_saff_utf8.txt: ALL CAPS: 15276; COEEOBOEATIONS RECEIVED BY
+mod_saff_utf8.txt: ALL CAPS: 15277; CLASS OP OBJECTS FOB
+mod_saff_utf8.txt: STOPWORD: 15278; CHAPTER YI
+mod_saff_utf8.txt: ALL CAPS: 15279; CHAPTEE GENERAL OBSERVATIONS
+mod_saff_utf8.txt: NUMERAL: 15310; Act ii
+mod_saff_utf8.txt: STOPWORD: 15314; ALDINE EDITION BRITISH POETS
+mod_saff_utf8.txt: ALL CAPS: 15315; ADDITIONAL WORDS
+mod_saff_utf8.txt: ARCHAISM: 15337; visible world hath
+mod_saff_utf8.txt: ARCHAISM: 15356; understanding ye
+mod_saff_utf8.txt: ARCHAISM: 15357; understanding Thy truth
+mod_saff_utf8.txt: ARCHAISM: 15358; understanding Thy Apostle
+mod_saff_utf8.txt: ARCHAISM: 15364; uncertain truth thou likedst
+mod_saff_utf8.txt: ARCHAISM: 15370; truth Thou
+mod_saff_utf8.txt: ARCHAISM: 15378; troubled mind prayed Thee
+mod_saff_utf8.txt: ARCHAISM: 15382; times Thou sawest
+mod_saff_utf8.txt: ARCHAISM: 15383; times Thou art
+mod_saff_utf8.txt: ARCHAISM: 15389; time didst Thou
+mod_saff_utf8.txt: ARCHAISM: 15393; time Thou regeneratedst
+mod_saff_utf8.txt: ARCHAISM: 15394; time Thee
+mod_saff_utf8.txt: ARCHAISM: 15395; thy sin
+mod_saff_utf8.txt: ARCHAISM: 15396; thy confession
+mod_saff_utf8.txt: ARCHAISM: 15397; thou living soul
+mod_saff_utf8.txt: ARCHAISM: 15401; sympathy hath much influence
+mod_saff_utf8.txt: ARCHAISM: 15408; substance Thou didst
+mod_saff_utf8.txt: ARCHAISM: 15424; spirit thou speakest
+mod_saff_utf8.txt: ARCHAISM: 15427; souls thou canst
+mod_saff_utf8.txt: ARCHAISM: 15430; soul hath
+mod_saff_utf8.txt: ARCHAISM: 15455; shalt Thou rest
+mod_saff_utf8.txt: ARCHAISM: 15462; sentest Thy Spirit
+mod_saff_utf8.txt: ARCHAISM: 15465; sense hath
+mod_saff_utf8.txt: ARCHAISM: 15472; seeing Thy truth
+mod_saff_utf8.txt: ARCHAISM: 15473; seeing Thou art
+mod_saff_utf8.txt: ARCHAISM: 15474; seeing Thou Thyself art
+mod_saff_utf8.txt: ARCHAISM: 15480; sanctuary hast Thou
+mod_saff_utf8.txt: ARCHAISM: 15485; resisting Thy hands
+mod_saff_utf8.txt: DOUBLE --: 15496; punishment--a fit penalty
+mod_saff_utf8.txt: ARCHAISM: 15500; pronouncing Thy word
+mod_saff_utf8.txt: ARCHAISM: 15508; pleasure hath
+mod_saff_utf8.txt: ARCHAISM: 15524; passing words Thou saidst
+mod_saff_utf8.txt: ARCHAISM: 15551; mine own memory
+mod_saff_utf8.txt: ARCHAISM: 15552; mine own life
+mod_saff_utf8.txt: ARCHAISM: 15556; mind hath joy
+mod_saff_utf8.txt: ARCHAISM: 15577; loved thy beauty
+mod_saff_utf8.txt: ARCHAISM: 15580; lodging hast Thou
+mod_saff_utf8.txt: ARCHAISM: 15583; length mention Thy Spirit
+mod_saff_utf8.txt: ARCHAISM: 15594; joy Thou Thyself art
+mod_saff_utf8.txt: ARCHAISM: 15630; holy oracle of Thine
+mod_saff_utf8.txt: ARCHAISM: 15636; hoar hairs wilt Thou
+mod_saff_utf8.txt: ARCHAISM: 15642; hath more hold
+mod_saff_utf8.txt: ARCHAISM: 15643; hath Thy good pleasure
+mod_saff_utf8.txt: ARCHAISM: 15645; happiness Thou
+mod_saff_utf8.txt: ARCHAISM: 15655; fulfil Thy word
+mod_saff_utf8.txt: ARCHAISM: 15671; flesh thou hearest
+mod_saff_utf8.txt: ARCHAISM: 15691; elevation Thou art
+mod_saff_utf8.txt: ARCHAISM: 15698; dost Thou account
+mod_saff_utf8.txt: ARCHAISM: 15707; dispenser of Thy Sacrament
+mod_saff_utf8.txt: ARCHAISM: 15708; dispenser of Thine
+mod_saff_utf8.txt: ARCHAISM: 15710; disgraced Thy government
+mod_saff_utf8.txt: ARCHAISM: 15712; didst Thou deal
+mod_saff_utf8.txt: ARCHAISM: 15718; desire Thee
+mod_saff_utf8.txt: ARCHAISM: 15729; danger desire Thy baptism
+mod_saff_utf8.txt: ARCHAISM: 15763; clasp Thy hand
+mod_saff_utf8.txt: ARCHAISM: 15770; chaste city of Thine
+mod_saff_utf8.txt: ARCHAISM: 15795; bodies Thou broughtest
+mod_saff_utf8.txt: ARCHAISM: 15798; beginning Thou hadst
+mod_saff_utf8.txt: ARCHAISM: 15803; authority of Thy Book
+mod_saff_utf8.txt: ARCHAISM: 15806; attaining Thee
+mod_saff_utf8.txt: ARCHAISM: 15811; art Thou ignorant
+mod_saff_utf8.txt: ARCHAISM: 15822; action of mine
+mod_saff_utf8.txt: ARCHAISM: 15823; act of mine
+mod_saff_utf8.txt: ARCHAISM: 15829; Truth hath
+mod_saff_utf8.txt: ARCHAISM: 15833; Thy younger son look
+mod_saff_utf8.txt: ARCHAISM: 15834; Thy word pass
+mod_saff_utf8.txt: ARCHAISM: 15835; Thy whole self
+mod_saff_utf8.txt: ARCHAISM: 15836; Thy unchangeable substance
+mod_saff_utf8.txt: ARCHAISM: 15837; Thy truth reacheth
+mod_saff_utf8.txt: ARCHAISM: 15838; Thy sons
+mod_saff_utf8.txt: ARCHAISM: 15839; Thy sight
+mod_saff_utf8.txt: ARCHAISM: 15840; Thy service
+mod_saff_utf8.txt: ARCHAISM: 15841; Thy servants
+mod_saff_utf8.txt: ARCHAISM: 15842; Thy servant Moses
+mod_saff_utf8.txt: ARCHAISM: 15843; Thy scourge
+mod_saff_utf8.txt: ARCHAISM: 15844; Thy right hand maketh intercession
+mod_saff_utf8.txt: ARCHAISM: 15845; Thy purposes
+mod_saff_utf8.txt: ARCHAISM: 15846; Thy providence
+mod_saff_utf8.txt: ARCHAISM: 15847; Thy pleasures
+mod_saff_utf8.txt: ARCHAISM: 15848; Thy messengers
+mod_saff_utf8.txt: ARCHAISM: 15849; Thy mercy Thou hadst
+mod_saff_utf8.txt: ARCHAISM: 15850; Thy limits
+mod_saff_utf8.txt: ARCHAISM: 15851; Thy likeness
+mod_saff_utf8.txt: ARCHAISM: 15852; Thy light
+mod_saff_utf8.txt: ARCHAISM: 15853; Thy justice
+mod_saff_utf8.txt: ARCHAISM: 15854; Thy incommutable world Thou createdst
+mod_saff_utf8.txt: ARCHAISM: 15855; Thy house
+mod_saff_utf8.txt: ARCHAISM: 15856; Thy holy habitation
+mod_saff_utf8.txt: ARCHAISM: 15857; Thy hidden inspiration effect
+mod_saff_utf8.txt: ARCHAISM: 15858; Thy healing hand
+mod_saff_utf8.txt: ARCHAISM: 15859; Thy harvest
+mod_saff_utf8.txt: ARCHAISM: 15860; Thy harmonizing words
+mod_saff_utf8.txt: ARCHAISM: 15861; Thy hands wherewith Thou madest
+mod_saff_utf8.txt: ARCHAISM: 15862; Thy great mercy
+mod_saff_utf8.txt: ARCHAISM: 15863; Thy great goodness besprinkle
+mod_saff_utf8.txt: ARCHAISM: 15864; Thy grace
+mod_saff_utf8.txt: ARCHAISM: 15865; Thy government
+mod_saff_utf8.txt: ARCHAISM: 15866; Thy good pleasure
+mod_saff_utf8.txt: ARCHAISM: 15867; Thy good Spirit lifts
+mod_saff_utf8.txt: ARCHAISM: 15868; Thy eternal power
+mod_saff_utf8.txt: ARCHAISM: 15869; Thy eternal life
+mod_saff_utf8.txt: ARCHAISM: 15870; Thy eternal law
+mod_saff_utf8.txt: ARCHAISM: 15871; Thy eternal Reason
+mod_saff_utf8.txt: ARCHAISM: 15872; Thy direction proveth
+mod_saff_utf8.txt: ARCHAISM: 15873; Thy command
+mod_saff_utf8.txt: ARCHAISM: 15874; Thy book
+mod_saff_utf8.txt: ARCHAISM: 15875; Thy blessedness
+mod_saff_utf8.txt: ARCHAISM: 15876; Thy beauty
+mod_saff_utf8.txt: ARCHAISM: 15877; Thy appointment
+mod_saff_utf8.txt: ARCHAISM: 15878; Thy action
+mod_saff_utf8.txt: ARCHAISM: 15879; Thy Word remaineth
+mod_saff_utf8.txt: ARCHAISM: 15880; Thy Word Thou madest
+mod_saff_utf8.txt: ARCHAISM: 15881; Thy Truth whispers
+mod_saff_utf8.txt: ARCHAISM: 15882; Thy Power
+mod_saff_utf8.txt: ARCHAISM: 15883; Thy Omnipotency
+mod_saff_utf8.txt: ARCHAISM: 15884; Thy Nod
+mod_saff_utf8.txt: ARCHAISM: 15885; Thy Knowledge
+mod_saff_utf8.txt: ARCHAISM: 15886; Thy Holy Spirit
+mod_saff_utf8.txt: ARCHAISM: 15887; Thy Holy Scripture
+mod_saff_utf8.txt: ARCHAISM: 15888; Thy Essence Knoweth
+mod_saff_utf8.txt: ARCHAISM: 15889; Thy Christ
+mod_saff_utf8.txt: ARCHAISM: 15890; Thy Catholic Church
+mod_saff_utf8.txt: ARCHAISM: 15891; Thy Book affright
+mod_saff_utf8.txt: ARCHAISM: 15892; Thou wouldest
+mod_saff_utf8.txt: ARCHAISM: 15893; Thou unseen God
+mod_saff_utf8.txt: ARCHAISM: 15894; Thou teachest
+mod_saff_utf8.txt: ARCHAISM: 15895; Thou sentest Thine hand
+mod_saff_utf8.txt: ARCHAISM: 15896; Thou good God
+mod_saff_utf8.txt: ARCHAISM: 15897; Thou createdst
+mod_saff_utf8.txt: ARCHAISM: 15898; Thou best judge
+mod_saff_utf8.txt: ARCHAISM: 15899; Thou art faithful
+mod_saff_utf8.txt: ARCHAISM: 15900; Thou art God
+mod_saff_utf8.txt: ARCHAISM: 15901; Thou art Almighty
+mod_saff_utf8.txt: ARCHAISM: 15902; Thou Thyself art Thy greatness
+mod_saff_utf8.txt: ARCHAISM: 15903; Thou Power
+mod_saff_utf8.txt: ARCHAISM: 15904; Thou God knowest
+mod_saff_utf8.txt: ARCHAISM: 15905; Thou
+mod_saff_utf8.txt: ARCHAISM: 15906; Thine own likeness
+mod_saff_utf8.txt: ARCHAISM: 15907; Thine own Substance
+mod_saff_utf8.txt: ARCHAISM: 15908; Thine ordinance
+mod_saff_utf8.txt: ARCHAISM: 15909; Thine hand
+mod_saff_utf8.txt: ARCHAISM: 15910; Thine eyes
+mod_saff_utf8.txt: ARCHAISM: 15911; Thee one God
+mod_saff_utf8.txt: ARCHAISM: 15912; Thee God
+mod_saff_utf8.txt: ARCHAISM: 15914; Speak Thou
+mod_saff_utf8.txt: ARCHAISM: 15915; Saviour Thy Son
+mod_saff_utf8.txt: ARCHAISM: 15946; Christian Faith hath overspread
+mod_saff_utf8.txt: ARCHAISM: 15953; Art Thou
+mod_saff_utf8.txt: ARCHAISM: 16061; rights ye
+mod_saff_utf8.txt: STOPWORD: 16073; remarkable book
+mod_saff_utf8.txt: ARCHAISM: 16140; murder thy son
+mod_saff_utf8.txt: STOPWORD: 16353; book of life
+mod_saff_utf8.txt: ALL CAPS: 16391; UNIVERSITY FOUR TIMES
+mod_saff_utf8.txt: STOPWORD: 16392; Texas Publications Committee
+mod_saff_utf8.txt: STOPWORD: 16393; Texas Bulletin woman
+mod_saff_utf8.txt: STOPWORD: 16394; Texas Bulletin witnesses
+mod_saff_utf8.txt: STOPWORD: 16395; Texas Bulletin thousand royal ofRcials
+mod_saff_utf8.txt: STOPWORD: 16396; Texas Bulletin state of bliss
+mod_saff_utf8.txt: STOPWORD: 16397; Texas Bulletin spection
+mod_saff_utf8.txt: STOPWORD: 16398; Texas Bulletin season
+mod_saff_utf8.txt: STOPWORD: 16399; Texas Bulletin rious business
+mod_saff_utf8.txt: STOPWORD: 16400; Texas Bulletin resignation
+mod_saff_utf8.txt: STOPWORD: 16401; Texas Bulletin of motives
+mod_saff_utf8.txt: STOPWORD: 16402; Texas Bulletin matter
+mod_saff_utf8.txt: STOPWORD: 16403; Texas Bulletin many sufferers
+mod_saff_utf8.txt: STOPWORD: 16404; Texas Bulletin malady
+mod_saff_utf8.txt: STOPWORD: 16405; Texas Bulletin lady
+mod_saff_utf8.txt: STOPWORD: 16406; Texas Bulletin labor
+mod_saff_utf8.txt: STOPWORD: 16407; Texas Bulletin ing characters
+mod_saff_utf8.txt: STOPWORD: 16408; Texas Bulletin icatures
+mod_saff_utf8.txt: STOPWORD: 16409; Texas Bulletin fields and forests
+mod_saff_utf8.txt: STOPWORD: 16410; Texas Bulletin fields
+mod_saff_utf8.txt: STOPWORD: 16411; Texas Bulletin conception
+mod_saff_utf8.txt: STOPWORD: 16412; Texas Bulletin burnt offering
+mod_saff_utf8.txt: STOPWORD: 16413; Texas Bulletin and made woman
+mod_saff_utf8.txt: STOPWORD: 16414; Texas Bulletin Kierkegaard
+mod_saff_utf8.txt: STOPWORD: 16415; Texas Bulletin Jesus Christ
+mod_saff_utf8.txt: STOPWORD: 16416; Texas Bulletin Barthold
+mod_saff_utf8.txt: STOPWORD: 16417; Texas Bulletin Abraham
+mod_saff_utf8.txt: STOPWORD: 16418; Texas BuUetin
+mod_saff_utf8.txt: STOPWORD: 16419; Texas
+mod_saff_utf8.txt: ALL CAPS: 16427; SECOND-CLASS MATTER AT
+mod_saff_utf8.txt: ALL CAPS: 16437; PROVE
+mod_saff_utf8.txt: ALL CAPS: 16441; MODERN RELIGIOUS GUARANTEES
+mod_saff_utf8.txt: ALL CAPS: 16459; HUMAN RACE OR
+mod_saff_utf8.txt: STOPWORD: 16462; German edition
+mod_saff_utf8.txt: ALL CAPS: 16483; CHRISTIAN LIFE
+mod_saff_utf8.txt: ARCHAISM: 16515; thou necessity
+mod_saff_utf8.txt: ARCHAISM: 16548; respect transgressed thy commands
+mod_saff_utf8.txt: ARCHAISM: 16574; position Thou mayest
+mod_saff_utf8.txt: STOPWORD: 16711; error BOOK
+mod_saff_utf8.txt: ARCHAISM: 16734; daily action thou hast scann
+mod_saff_utf8.txt: ARCHAISM: 16805; Thy sake
+mod_saff_utf8.txt: ARCHAISM: 16806; Thy pleasure
+mod_saff_utf8.txt: ARCHAISM: 16807; Thee and powers
+mod_saff_utf8.txt: STOPWORD: 16831; Contents BOOK
+mod_saff_utf8.txt: STOPWORD: 16835; Chapter 14 Certain miscellaneous matters
+mod_saff_utf8.txt: STOPWORD: 16836; Chapter 11 Certain miscellaneous matters
+mod_saff_utf8.txt: STOPWORD: 16838; BOOK TWO Chapter
+mod_saff_utf8.txt: STOPWORD: 16839; BOOK THREE Chapter
+mod_saff_utf8.txt: STOPWORD: 16840; BOOK FOUR Chapter
+mod_saff_utf8.txt: ARCHAISM: 16904; thine own concerns
+mod_saff_utf8.txt: NUMERAL: 17245; flight of Louis Xvi
+mod_saff_utf8.txt: ARCHAISM: 17267; exemplary virtue hath
+mod_saff_utf8.txt: STOPWORD: 17338; custom-house books
+mod_saff_utf8.txt: STOPWORD: 17403; booksellers and publishers
+mod_saff_utf8.txt: STOPWORD: 17404; booksellers
+mod_saff_utf8.txt: ALL CAPS: 17459; SECOND Combining Principle
+mod_saff_utf8.txt: NUMERAL: 17462; Richard II
+mod_saff_utf8.txt: ALL CAPS: 17478; PART
+mod_saff_utf8.txt: ALL CAPS: 17484; Miscellaneous Observations PART
+mod_saff_utf8.txt: NUMERAL: 17496; Henry VIII
+mod_saff_utf8.txt: STOPWORD: 17514; French Edition Rights
+mod_saff_utf8.txt: STOPWORD: 17515; French Edition
+mod_saff_utf8.txt: ARCHAISM: 17569; world hath none
+mod_saff_utf8.txt: ARCHAISM: 17645; thy worst desires
+mod_saff_utf8.txt: ARCHAISM: 17646; thy weary heart
+mod_saff_utf8.txt: ARCHAISM: 17647; thy age
+mod_saff_utf8.txt: ARCHAISM: 17650; thee one law
+mod_saff_utf8.txt: ARCHAISM: 17651; thee experience
+mod_saff_utf8.txt: ARCHAISM: 17741; respect thou mayest
+mod_saff_utf8.txt: ARCHAISM: 17818; person thou art
+mod_saff_utf8.txt: ARCHAISM: 18111; dost thou Believe
+mod_saff_utf8.txt: ARCHAISM: 18172; concern thee
+mod_saff_utf8.txt: ARCHAISM: 18279; Thy virtue
+mod_saff_utf8.txt: ARCHAISM: 18280; Thy new life
+mod_saff_utf8.txt: ALL CAPS: 18302; Prince Free-As-A-Bird Editorial
+mod_saff_utf8.txt: ALL CAPS: 18303; Prince Free-As-A-Bird
+mod_saff_utf8.txt: ALL CAPS: 18334; LACK DETERMINATION
+mod_saff_utf8.txt: STOPWORD: 18382; Book Third
+mod_saff_utf8.txt: ARCHAISM: 18523; thy soul liveth
+mod_saff_utf8.txt: ARCHAISM: 18524; thy right hand
+mod_saff_utf8.txt: STOPWORD: 18527; third chapter
+mod_saff_utf8.txt: STOPWORD: 18563; sixteen chapters
+mod_saff_utf8.txt: ARCHAISM: 18704; heaven hath
+mod_saff_utf8.txt: STOPWORD: 18715; fourth chapter
+mod_saff_utf8.txt: STOPWORD: 18737; editions
+mod_saff_utf8.txt: STOPWORD: 18789; chapter xxi
+mod_saff_utf8.txt: STOPWORD: 18790; chapter xliii
+mod_saff_utf8.txt: STOPWORD: 18796; book of Psalms
+mod_saff_utf8.txt: STOPWORD: 18797; book of Joshua
+mod_saff_utf8.txt: STOPWORD: 18798; book of Isaiah
+mod_saff_utf8.txt: STOPWORD: 18799; book of Ezra
+mod_saff_utf8.txt: ARCHAISM: 18827; Thy foundation
+mod_saff_utf8.txt: ARCHAISM: 18843; Lord thy God commanded thee
+mod_saff_utf8.txt: STOPWORD: 18845; Latin books
+mod_saff_utf8.txt: ALL CAPS: 18946; BEING Quality
+mod_saff_utf8.txt: NUMERAL: 19442; Louis XIII
+mod_saff_utf8.txt: STOPWORD: 19920; connected book
+mod_saff_utf8.txt: ARCHAISM: 20032; unused mine of cognitions
+mod_saff_utf8.txt: ARCHAISM: 20033; unused mine
+mod_saff_utf8.txt: STOPWORD: 20765; fifth edition
+mod_saff_utf8.txt: DOUBLE --: 20939; latter--a course
+mod_saff_utf8.txt: STOPWORD: 21032; Testina edition
+mod_saff_utf8.txt: NUMERAL: 21041; Pope Alexander VI
+mod_saff_utf8.txt: STOPWORD: 21047; PRINCE CHAPTER
+mod_saff_utf8.txt: ALL CAPS: 21057; MEANS THEY
+mod_saff_utf8.txt: ALL CAPS: 21058; MEANNESS Commencing
+mod_saff_utf8.txt: NUMERAL: 21065; Henry VII
+mod_saff_utf8.txt: ALL CAPS: 21067; HUMAN AFFAIRS
+mod_saff_utf8.txt: ALL CAPS: 21070; GOVERN CITIES OR PRINCIPALITIES
+mod_saff_utf8.txt: ALL CAPS: 21082; FORTUNE CAN EFFECT
+mod_saff_utf8.txt: ALL CAPS: 21089; CONCERNING THINGS
+mod_saff_utf8.txt: ALL CAPS: 21090; CONCERNING MIXED PRINCIPALITIES
+mod_saff_utf8.txt: ALL CAPS: 21091; CONCERNING LIBERALITY
+mod_saff_utf8.txt: ALL CAPS: 21092; CONCERNING HEREDITARY PRINCIPALITIES
+mod_saff_utf8.txt: ALL CAPS: 21093; CONCERNING ECCLESIASTICAL PRINCIPALITIES
+mod_saff_utf8.txt: ALL CAPS: 21094; CONCERNING CRUELTY
+mod_saff_utf8.txt: ALL CAPS: 21095; CONCERNING AUXILIARIES
+mod_saff_utf8.txt: STOPWORD: 21096; CHAPTER XXVI
+mod_saff_utf8.txt: STOPWORD: 21097; CHAPTER XXV
+mod_saff_utf8.txt: STOPWORD: 21098; CHAPTER XXIV
+mod_saff_utf8.txt: STOPWORD: 21099; CHAPTER XXIII
+mod_saff_utf8.txt: STOPWORD: 21100; CHAPTER XXII
+mod_saff_utf8.txt: STOPWORD: 21101; CHAPTER XXI
+mod_saff_utf8.txt: STOPWORD: 21102; CHAPTER XX
+mod_saff_utf8.txt: STOPWORD: 21103; CHAPTER XVIII
+mod_saff_utf8.txt: STOPWORD: 21104; CHAPTER XVII
+mod_saff_utf8.txt: NUMERAL: 21105; CHAPTER XVI
+mod_saff_utf8.txt: STOPWORD: 21106; CHAPTER XIX
+mod_saff_utf8.txt: ALL CAPS: 21111; ACQUIRED EITHER BY
+mod_saff_utf8.txt: DOUBLE --: 21113; weapons--the modern working class--the proletarians
+mod_saff_utf8.txt: DOUBLE --: 21117; unconscionable freedom--Free Trade
+mod_saff_utf8.txt: DOUBLE --: 21152; property--historical relations
+mod_saff_utf8.txt: ALL CAPS: 21290; WORKING MEN
+mod_saff_utf8.txt: BAD HYPHEN: 21335; terms opportunity-right time-God
+mod_saff_utf8.txt: ALL CAPS: 21338; terms ABC
+mod_saff_utf8.txt: ALL CAPS: 21354; proposition CA
+mod_saff_utf8.txt: ALL CAPS: 21357; premiss CB
+mod_saff_utf8.txt: ALL CAPS: 21410; affirmative proposition BC
+mod_saff_utf8.txt: ALL CAPS: 21414; KC
+mod_saff_utf8.txt: ARCHAISM: 21435; universe thy existence
+mod_saff_utf8.txt: ARCHAISM: 21436; universe thou art
+mod_saff_utf8.txt: ARCHAISM: 21446; truth thou canst
+mod_saff_utf8.txt: ARCHAISM: 21450; thy youth upwards
+mod_saff_utf8.txt: ARCHAISM: 21451; thy soul reverences
+mod_saff_utf8.txt: ARCHAISM: 21452; thy sober senses
+mod_saff_utf8.txt: ARCHAISM: 21453; thy recollection
+mod_saff_utf8.txt: ARCHAISM: 21454; thy rational faculty
+mod_saff_utf8.txt: ARCHAISM: 21455; thy proper possession
+mod_saff_utf8.txt: ARCHAISM: 21456; thy proper action
+mod_saff_utf8.txt: ARCHAISM: 21457; thy power thou shalt
+mod_saff_utf8.txt: ARCHAISM: 21458; thy poor body
+mod_saff_utf8.txt: ARCHAISM: 21459; thy pleasure
+mod_saff_utf8.txt: ARCHAISM: 21460; thy own understanding
+mod_saff_utf8.txt: ARCHAISM: 21461; thy own ruling faculty
+mod_saff_utf8.txt: ARCHAISM: 21462; thy own power
+mod_saff_utf8.txt: ARCHAISM: 21463; thy own opinion
+mod_saff_utf8.txt: ARCHAISM: 21464; thy own movement and judgement
+mod_saff_utf8.txt: ARCHAISM: 21465; thy own mind
+mod_saff_utf8.txt: ARCHAISM: 21466; thy own judgement
+mod_saff_utf8.txt: ARCHAISM: 21467; thy own happiness
+mod_saff_utf8.txt: ARCHAISM: 21468; thy old fashion
+mod_saff_utf8.txt: ARCHAISM: 21469; thy nature wills
+mod_saff_utf8.txt: ARCHAISM: 21470; thy last hour
+mod_saff_utf8.txt: ARCHAISM: 21471; thy intelligence
+mod_saff_utf8.txt: ARCHAISM: 21472; thy imaginations
+mod_saff_utf8.txt: ARCHAISM: 21473; thy hold
+mod_saff_utf8.txt: ARCHAISM: 21474; thy eyes
+mod_saff_utf8.txt: ARCHAISM: 21475; thy experience
+mod_saff_utf8.txt: ARCHAISM: 21476; thy existence
+mod_saff_utf8.txt: ARCHAISM: 21477; thy efforts
+mod_saff_utf8.txt: ARCHAISM: 21478; thy desire
+mod_saff_utf8.txt: ARCHAISM: 21479; thy death
+mod_saff_utf8.txt: ARCHAISM: 21480; thy business look
+mod_saff_utf8.txt: ARCHAISM: 21481; thy art
+mod_saff_utf8.txt: ARCHAISM: 21482; thy appetites
+mod_saff_utf8.txt: ARCHAISM: 21483; thy actions
+mod_saff_utf8.txt: ARCHAISM: 21484; thy ability
+mod_saff_utf8.txt: ARCHAISM: 21485; thou wouldst love thy nature
+mod_saff_utf8.txt: ARCHAISM: 21486; thou wilt look
+mod_saff_utf8.txt: ARCHAISM: 21487; thou wast
+mod_saff_utf8.txt: ARCHAISM: 21488; thou shalt
+mod_saff_utf8.txt: ARCHAISM: 21489; thou regard
+mod_saff_utf8.txt: ARCHAISM: 21490; thou hast
+mod_saff_utf8.txt: ARCHAISM: 21491; thou findest many other differences
+mod_saff_utf8.txt: ARCHAISM: 21492; thou didst look
+mod_saff_utf8.txt: ARCHAISM: 21493; thou content
+mod_saff_utf8.txt: ARCHAISM: 21494; thou canst name
+mod_saff_utf8.txt: ARCHAISM: 21495; thou art injuring thyself
+mod_saff_utf8.txt: ARCHAISM: 21496; thou art drowsy
+mod_saff_utf8.txt: ARCHAISM: 21497; thou art doing thy duty
+mod_saff_utf8.txt: ARCHAISM: 21498; thee pain
+mod_saff_utf8.txt: ARCHAISM: 21499; thee of life
+mod_saff_utf8.txt: ARCHAISM: 21500; thee content
+mod_saff_utf8.txt: ARCHAISM: 21506; studying nature dost thou
+mod_saff_utf8.txt: ARCHAISM: 21520; slave thou art
+mod_saff_utf8.txt: ARCHAISM: 21525; sensuous pleasure affect thee
+mod_saff_utf8.txt: ARCHAISM: 21529; seasons of thy life
+mod_saff_utf8.txt: ARCHAISM: 21540; reason of thy own nature
+mod_saff_utf8.txt: ARCHAISM: 21543; principles thou
+mod_saff_utf8.txt: ARCHAISM: 21546; preserving thy own character
+mod_saff_utf8.txt: ARCHAISM: 21562; pains thou hast
+mod_saff_utf8.txt: ARCHAISM: 21567; opinion thou mayest
+mod_saff_utf8.txt: ARCHAISM: 21568; necessity thou
+mod_saff_utf8.txt: ARCHAISM: 21571; nature united thee
+mod_saff_utf8.txt: ARCHAISM: 21581; moves thee
+mod_saff_utf8.txt: ARCHAISM: 21582; movement thou
+mod_saff_utf8.txt: ARCHAISM: 21588; manner thou goest
+mod_saff_utf8.txt: ARCHAISM: 21608; implicates thee
+mod_saff_utf8.txt: ARCHAISM: 21613; honour thy own mind
+mod_saff_utf8.txt: ARCHAISM: 21617; hast discharged thy duty
+mod_saff_utf8.txt: ARCHAISM: 21657; didst thou desire
+mod_saff_utf8.txt: ARCHAISM: 21666; correcting thy opinion
+mod_saff_utf8.txt: ARCHAISM: 21671; conferring thy kindness thou didst
+mod_saff_utf8.txt: ARCHAISM: 21673; completed thy life
+mod_saff_utf8.txt: ARCHAISM: 21678; chidest thy mind
+mod_saff_utf8.txt: ARCHAISM: 21682; changes thou hast
+mod_saff_utf8.txt: ARCHAISM: 21704; Thy present opinion
+mod_saff_utf8.txt: ARCHAISM: 21705; Thou canst pass thy life
+mod_saff_utf8.txt: ARCHAISM: 21715; Hast thou reason
+mod_saff_utf8.txt: ARCHAISM: 21718; Epicurus aid thee
+mod_saff_utf8.txt: STOPWORD: 21721; BOOK TWO Begin
+mod_saff_utf8.txt: STOPWORD: 21736; dogmatic chapters
+mod_saff_utf8.txt: ALL CAPS: 21746; TEXT INTRODUCTION BIBLIOGRAPHY
+mod_saff_utf8.txt: ALL CAPS: 21750; PHILOSOPHY SYMMACHI VERSUS INDEX
+mod_saff_utf8.txt: ALL CAPS: 22101; mere LITTERATEUR
+mod_saff_utf8.txt: STOPWORD: 22122; earliest editions
+mod_saff_utf8.txt: STOPWORD: 22137; ancient edition
+mod_saff_utf8.txt: ALL CAPS: 22144; SUN TZU HSU LU
+mod_saff_utf8.txt: ALL CAPS: 22145; SHIH CHI
+mod_saff_utf8.txt: STOPWORD: 22147; Ming editions
+mod_saff_utf8.txt: ALL CAPS: 22151; HSU LU
+mod_saff_utf8.txt: ALL CAPS: 22152; HAN CHIH
+mod_saff_utf8.txt: NUMERAL: 22153; Fu Ch
+mod_saff_utf8.txt: NUMERAL: 22156; Chou and Ch
+mod_saff_utf8.txt: NUMERAL: 22158; Cheng Ch
+mod_saff_utf8.txt: NUMERAL: 22160; CH
+mod_saff_utf8.txt: ALL CAPS: 22278; Yu-chung and I-yi
+mod_saff_utf8.txt: NUMERAL: 22297; Kung-ye Ch
+mod_saff_utf8.txt: ALL CAPS: 22411; Dialogue APOLLODORUS
+mod_saff_utf8.txt: ARCHAISM: 22471; ye gods
+mod_saff_utf8.txt: ARCHAISM: 22601; Thy greatest art
+mod_saff_utf8.txt: NUMERAL: 22603; PART II Chapter
+mod_saff_utf8.txt: NUMERAL: 22609; xiv CONTENTS
+mod_saff_utf8.txt: ALL CAPS: 22694; truth KCIT
+mod_saff_utf8.txt: STOPWORD: 22718; thirty-first chapter
+mod_saff_utf8.txt: ALL CAPS: 22825; sola ANIMAL MAGNETISM
+mod_saff_utf8.txt: ALL CAPS: 22845; shape ANIMAL MAGNETISM
+mod_saff_utf8.txt: STOPWORD: 22856; separate chapter
+mod_saff_utf8.txt: ALL CAPS: 22859; separate PHYSICAL ASTRONOMY
+mod_saff_utf8.txt: ALL CAPS: 22868; senFIRST CLASS OP OBJECTS FOE
+mod_saff_utf8.txt: STOPWORD: 22890; revised Edition
+mod_saff_utf8.txt: ALL CAPS: 22956; qut-at ANIMAL MAGNETISM
+mod_saff_utf8.txt: ALL CAPS: 23018; position OVK ttrrt
+mod_saff_utf8.txt: ALL CAPS: 23019; posFIEST CLASS
+mod_saff_utf8.txt: ALL CAPS: 23102; ocular FIRST CLASS OP OBJECTS
+mod_saff_utf8.txt: ALL CAPS: 23144; mutual interpenetraFIRST CLASS
+mod_saff_utf8.txt: ALL CAPS: 23191; mere SECOND CLASS
+mod_saff_utf8.txt: STOPWORD: 23217; loth Edition
+mod_saff_utf8.txt: STOPWORD: 23356; i8th Edition
+mod_saff_utf8.txt: ALL CAPS: 23468; everyGENERAL OBSERVATIONS
+mod_saff_utf8.txt: STOPWORD: 23482; enlarged Edition
+mod_saff_utf8.txt: STOPWORD: 23555; desirable edition
+mod_saff_utf8.txt: ALL CAPS: 23576; dark objects FIEST CLASS
+mod_saff_utf8.txt: STOPWORD: 23601; considered editions
+mod_saff_utf8.txt: ALL CAPS: 23627; conSECOND CLASS
+mod_saff_utf8.txt: STOPWORD: 23670; cheaper edition
+mod_saff_utf8.txt: STOPWORD: 23674; chapters and paragraphs
+mod_saff_utf8.txt: STOPWORD: 23675; chapters
+mod_saff_utf8.txt: ALL CAPS: 23730; ascetic REFERENCE
+mod_saff_utf8.txt: ALL CAPS: 23785; acFOTTRTH CLASS OP OBJECTS FOE
+mod_saff_utf8.txt: ALL CAPS: 23801; XXI support
+mod_saff_utf8.txt: ALL CAPS: 23815; VIIL General observations
+mod_saff_utf8.txt: STOPWORD: 23836; Third Edition
+mod_saff_utf8.txt: ALL CAPS: 23842; TN NATURE
+mod_saff_utf8.txt: ALL CAPS: 23843; THK PRINCIPLE
+mod_saff_utf8.txt: STOPWORD: 23850; Strassburg edition
+mod_saff_utf8.txt: ALL CAPS: 23871; SECOND CLASS OP OBJECTS FOB
+mod_saff_utf8.txt: ALL CAPS: 23880; Religion des SINOLOGY
+mod_saff_utf8.txt: STOPWORD: 23887; REVISED EDITION
+mod_saff_utf8.txt: ALL CAPS: 23922; PHYSIOLOGY OP PLANTS
+mod_saff_utf8.txt: ALL CAPS: 23923; PHYSICAL ASTEONOMY
+mod_saff_utf8.txt: ALL CAPS: 23924; PHILOSOPHICAL TREATISE
+mod_saff_utf8.txt: ALL CAPS: 23925; PAGE Preface
+mod_saff_utf8.txt: ALL CAPS: 23944; Nature PHYSICAL ASTRONOMY
+mod_saff_utf8.txt: BAD HYPHEN: 23946; Natur-und Religions-Philosophic der Chinten
+mod_saff_utf8.txt: BAD HYPHEN: 23947; Natur-und Religions-Philosophic der Chinesen
+mod_saff_utf8.txt: ALL CAPS: 23948; NIBELUNGEN LIED
+mod_saff_utf8.txt: DOUBLE --: 23953; Absolutist Logic--hence
+mod_saff_utf8.txt: DOUBLE --: 24023; stupid peasants--nay infants
+mod_saff_utf8.txt: ALL CAPS: 24057; sceptical Philosophy INDEX SECTION
+mod_saff_utf8.txt: ALL CAPS: 24459; WHOLE
+mod_saff_utf8.txt: ALL CAPS: 24462; TIBERIUS
+mod_saff_utf8.txt: ALL CAPS: 24463; THESE DOUBTS
+mod_saff_utf8.txt: ALL CAPS: 24464; Sir ISAAC NEWTON
+mod_saff_utf8.txt: ALL CAPS: 24466; SCEPTICAL SOLUTION
+mod_saff_utf8.txt: ALL CAPS: 24467; SCEPTICAL DOUBTS CONCERNING
+mod_saff_utf8.txt: NUMERAL: 24471; Philosophy II
+mod_saff_utf8.txt: ALL CAPS: 24472; PARTICULAR PROVIDENCE
+mod_saff_utf8.txt: ALL CAPS: 24474; NERO
+mod_saff_utf8.txt: ALL CAPS: 24475; NECESSARY CONNEXION
+mod_saff_utf8.txt: NUMERAL: 24477; Ideas IV
+mod_saff_utf8.txt: ALL CAPS: 24478; INDEX Abstraction
+mod_saff_utf8.txt: ALL CAPS: 24480; ENQUIRY CONCERNING HUMAN UNDERSTANDING
+mod_saff_utf8.txt: ALL CAPS: 24488; ACADEMICAL OR SCEPTICAL PHILOSOPHY
+mod_saff_utf8.txt: ALL CAPS: 24491; word wit ESPRIT
+mod_saff_utf8.txt: ALL CAPS: 24542; soul TANTALISED
+mod_saff_utf8.txt: STOPWORD: 24548; seventh edition
+mod_saff_utf8.txt: DOUBLE --: 24591; proper nouns--all denote genera
+mod_saff_utf8.txt: ALL CAPS: 24606; personality WE HAVE
+mod_saff_utf8.txt: DOUBLE --: 24676; introduced--two conditions
+mod_saff_utf8.txt: BAD HYPHEN: 24767; dancing-Jack
+mod_saff_utf8.txt: DOUBLE --: 24829; body itself--inert matter
+mod_saff_utf8.txt: ALL CAPS: 24832; artificial MECHANISATION
+mod_saff_utf8.txt: DOUBLE --: 24833; art--the general relation
+mod_saff_utf8.txt: NUMERAL: 24851; WORDS CHAPTER III
+mod_saff_utf8.txt: ALL CAPS: 24852; WE LAUGH EVERY TIME
+mod_saff_utf8.txt: ALL CAPS: 24853; UNSOCIABILITY
+mod_saff_utf8.txt: ALL CAPS: 24856; SOCIAL GESTURE
+mod_saff_utf8.txt: ALL CAPS: 24857; SINGLE COMBINATION
+mod_saff_utf8.txt: ALL CAPS: 24859; REVERSIBLE
+mod_saff_utf8.txt: ALL CAPS: 24860; REPRESSED FEELING
+mod_saff_utf8.txt: ALL CAPS: 24865; PRESENCE
+mod_saff_utf8.txt: ALL CAPS: 24866; PHYSICAL DIMENSIONS
+mod_saff_utf8.txt: ALL CAPS: 24867; PHYSICAL
+mod_saff_utf8.txt: ALL CAPS: 24868; PERSON GIVES US
+mod_saff_utf8.txt: ALL CAPS: 24869; PERSON EMBARRASSED BY
+mod_saff_utf8.txt: ALL CAPS: 24870; PARTICULAR KIND
+mod_saff_utf8.txt: ALL CAPS: 24871; NATURE EXPRESSION
+mod_saff_utf8.txt: ALL CAPS: 24873; MORAL VALUE
+mod_saff_utf8.txt: ALL CAPS: 24874; MORAL SIDE
+mod_saff_utf8.txt: ALL CAPS: 24875; MERE MACHINE
+mod_saff_utf8.txt: ALL CAPS: 24876; LETTER AIMING AT OUSTING
+mod_saff_utf8.txt: DOUBLE --: 24877; IDEAS--that
+mod_saff_utf8.txt: ALL CAPS: 24878; IDEA INTO ANOTHER KEY
+mod_saff_utf8.txt: ALL CAPS: 24882; HUMOUR
+mod_saff_utf8.txt: ALL CAPS: 24883; HUMAN BODY
+mod_saff_utf8.txt: ALL CAPS: 24884; GIVES US
+mod_saff_utf8.txt: ALL CAPS: 24885; FEELING ANEW
+mod_saff_utf8.txt: ALL CAPS: 24889; EXACT PROPORTION AS
+mod_saff_utf8.txt: STOPWORD: 24893; CONTENTS CHAPTER
+mod_saff_utf8.txt: ALL CAPS: 24894; CONCENTRATING OUR ATTENTION ON ACTIONS
+mod_saff_utf8.txt: ALL CAPS: 24895; COMIC MEANING
+mod_saff_utf8.txt: ALL CAPS: 24896; COMIC EFFECT
+mod_saff_utf8.txt: NUMERAL: 24897; COMIC CHAPTER II
+mod_saff_utf8.txt: ALL CAPS: 24898; CHARACTER FOLLOWING
+mod_saff_utf8.txt: STOPWORD: 24899; CHARACTER CHAPTER
+mod_saff_utf8.txt: ALL CAPS: 24900; CALLS OUR ATTENTION
+mod_saff_utf8.txt: ALL CAPS: 24904; BODY TAKING PRECEDENCE
+mod_saff_utf8.txt: ALL CAPS: 24905; BODY REMINDS US
+mod_saff_utf8.txt: ALL CAPS: 24911; ALWAYS OBTAINABLE BY TRANSPOSING
+mod_saff_utf8.txt: ALL CAPS: 24912; ABSURD IDEA
+mod_saff_utf8.txt: ALL CAPS: 24915; words MATERIAL SUBSTANCE
+mod_saff_utf8.txt: ALL CAPS: 24918; word UNITY
+mod_saff_utf8.txt: ALL CAPS: 24919; word TRIANGLE
+mod_saff_utf8.txt: ALL CAPS: 24920; word SUBSTANCE
+mod_saff_utf8.txt: DOUBLE --: 24936; unknown somewhat--neither substance
+mod_saff_utf8.txt: ALL CAPS: 24953; term THING
+mod_saff_utf8.txt: DOUBLE --: 24977; so--the word IDEA
+mod_saff_utf8.txt: ALL CAPS: 24986; sense UNIVERSAL
+mod_saff_utf8.txt: ALL CAPS: 24987; sensation called HEAT
+mod_saff_utf8.txt: ALL CAPS: 24996; rendered UNIVERSAL
+mod_saff_utf8.txt: DOUBLE --: 25005; question--which one consideration
+mod_saff_utf8.txt: DOUBLE --: 25020; possible--an intelligence
+mod_saff_utf8.txt: ALL CAPS: 25052; name SOUL
+mod_saff_utf8.txt: ALL CAPS: 25054; name LINE
+mod_saff_utf8.txt: ALL CAPS: 25055; name APPLE
+mod_saff_utf8.txt: ALL CAPS: 25061; motion DO ACTUALLY SUBSIST
+mod_saff_utf8.txt: ALL CAPS: 25068; minds ABSTRACT GENERAL IDEAS
+mod_saff_utf8.txt: ALL CAPS: 25072; mind ONLY AS THEY
+mod_saff_utf8.txt: ALL CAPS: 25081; knowledge of IDEAS
+mod_saff_utf8.txt: ALL CAPS: 25082; knowledge ONLY
+mod_saff_utf8.txt: DOUBLE --: 25106; imagination--either compounding
+mod_saff_utf8.txt: ALL CAPS: 25123; foregoing principles ALL
+mod_saff_utf8.txt: ALL CAPS: 25165; compounded BEINGS
+mod_saff_utf8.txt: ALL CAPS: 25200; YOURSELF PERCEIVE OR THINK
+mod_saff_utf8.txt: ALL CAPS: 25202; WORDS WITHOUT
+mod_saff_utf8.txt: ALL CAPS: 25203; WHETHER REAL OR APPARENT
+mod_saff_utf8.txt: ALL CAPS: 25204; WHEREOF THEY THEMSELVES WERE NOT
+mod_saff_utf8.txt: ALL CAPS: 25205; WELL-BEING
+mod_saff_utf8.txt: ALL CAPS: 25206; WE KNOW THIS
+mod_saff_utf8.txt: ALL CAPS: 25207; WANDERING AFTER SECOND CAUSES
+mod_saff_utf8.txt: ALL CAPS: 25209; VULGAR SUBSTANCE
+mod_saff_utf8.txt: ALL CAPS: 25210; VULGAR OPINION INVOLVES
+mod_saff_utf8.txt: ALL CAPS: 25211; VISIBLE WORLD
+mod_saff_utf8.txt: ALL CAPS: 25212; VARIOUS PARTICULAR lines
+mod_saff_utf8.txt: ALL CAPS: 25213; UNTHINKING substance
+mod_saff_utf8.txt: ALL CAPS: 25214; UNPERCEIVING substance
+mod_saff_utf8.txt: ALL CAPS: 25215; TWELFTH OBJECTION
+mod_saff_utf8.txt: ALL CAPS: 25216; TRUE extension
+mod_saff_utf8.txt: ALL CAPS: 25217; THOMAS
+mod_saff_utf8.txt: ALL CAPS: 25218; THIS consistent UNIFORM WORKING
+mod_saff_utf8.txt: ALL CAPS: 25219; THIS PREVAILING NOTION
+mod_saff_utf8.txt: ALL CAPS: 25220; THIRD OBJECTION
+mod_saff_utf8.txt: ALL CAPS: 25221; THIRD ARGUMENT AD HOMINEM
+mod_saff_utf8.txt: ALL CAPS: 25222; THIRD ARGUMENT
+mod_saff_utf8.txt: ALL CAPS: 25223; THING
+mod_saff_utf8.txt: ALL CAPS: 25224; THEY STAND
+mod_saff_utf8.txt: ALL CAPS: 25225; THEY
+mod_saff_utf8.txt: ALL CAPS: 25226; THESE ADVANTAGES
+mod_saff_utf8.txt: ALL CAPS: 25227; THEM NECESSARY
+mod_saff_utf8.txt: ALL CAPS: 25228; THEIR LIKENESS
+mod_saff_utf8.txt: ALL CAPS: 25229; TERM IDEA PREFERABLE
+mod_saff_utf8.txt: ALL CAPS: 25230; TERM EXIST
+mod_saff_utf8.txt: ALL CAPS: 25231; TENTH OBJECTION
+mod_saff_utf8.txt: ALL CAPS: 25232; TAKEN AWAY
+mod_saff_utf8.txt: ALL CAPS: 25233; TAKE AWAY NATURAL CAUSES
+mod_saff_utf8.txt: ALL CAPS: 25236; SUPPORT and comfort
+mod_saff_utf8.txt: ALL CAPS: 25237; SUPPORT
+mod_saff_utf8.txt: ALL CAPS: 25238; SUBSTRATUM
+mod_saff_utf8.txt: DOUBLE --: 25239; SPIRITS--with regard
+mod_saff_utf8.txt: ALL CAPS: 25240; SPIRITS NOT IMMEDIATE
+mod_saff_utf8.txt: ALL CAPS: 25241; SPECULATIVE SENSE
+mod_saff_utf8.txt: ALL CAPS: 25242; SOME OTHER SPIRIT
+mod_saff_utf8.txt: ALL CAPS: 25243; SOME DEGREE CORRECTED
+mod_saff_utf8.txt: ALL CAPS: 25244; SIXTH OBJECTION
+mod_saff_utf8.txt: ALL CAPS: 25245; SIMPLE OR UNCOMPOUNDED IDEA
+mod_saff_utf8.txt: ALL CAPS: 25246; SEVENTH OBJECTION
+mod_saff_utf8.txt: ALL CAPS: 25247; SETTLED IDEA
+mod_saff_utf8.txt: ALL CAPS: 25248; SENSIBLE OBJECTS
+mod_saff_utf8.txt: ALL CAPS: 25249; SENSES NOT DISCREDITED
+mod_saff_utf8.txt: ALL CAPS: 25250; SENSATION DIFFER FROM
+mod_saff_utf8.txt: ALL CAPS: 25252; RIGHT DEDUCTIONS FROM TRUE PRINCIPLES
+mod_saff_utf8.txt: ALL CAPS: 25253; REMAIN EQUALLY INEXPLICABLE
+mod_saff_utf8.txt: ALL CAPS: 25254; RELATIVE NOTION
+mod_saff_utf8.txt: ALL CAPS: 25255; REFLECTION OR MEMORY
+mod_saff_utf8.txt: ALL CAPS: 25256; REALITY
+mod_saff_utf8.txt: ALL CAPS: 25259; PURE SPACE RELATIVE
+mod_saff_utf8.txt: ALL CAPS: 25260; PROPER EMPLOYMENT
+mod_saff_utf8.txt: ALL CAPS: 25261; PRODUCES THEM
+mod_saff_utf8.txt: ALL CAPS: 25262; POSITIVE nature
+mod_saff_utf8.txt: ALL CAPS: 25263; PHILOSOPHICAL NOTION
+mod_saff_utf8.txt: ALL CAPS: 25264; PHILOSOPHICAL MEANING
+mod_saff_utf8.txt: ALL CAPS: 25265; PHILOSOPHERS CALL MATTER
+mod_saff_utf8.txt: ALL CAPS: 25266; PHENOMENA
+mod_saff_utf8.txt: ALL CAPS: 25267; PARTICULAR conceivable ideas
+mod_saff_utf8.txt: ALL CAPS: 25268; PARTICULAR bodies
+mod_saff_utf8.txt: ALL CAPS: 25269; PARTICULAR QUALITIES WHEREBY
+mod_saff_utf8.txt: ALL CAPS: 25271; OUR SENSES
+mod_saff_utf8.txt: ALL CAPS: 25272; OUR SENSATIONS
+mod_saff_utf8.txt: ALL CAPS: 25273; OUR PERCEPTIONS SHOWS
+mod_saff_utf8.txt: ALL CAPS: 25274; OUR OWN DOING
+mod_saff_utf8.txt: ALL CAPS: 25275; OUR IDEA
+mod_saff_utf8.txt: ALL CAPS: 25276; OTHER SENSIBLE QUALITIES
+mod_saff_utf8.txt: ALL CAPS: 25277; OR SPIRIT
+mod_saff_utf8.txt: ALL CAPS: 25278; ONLY IDEAS EXISTING
+mod_saff_utf8.txt: ALL CAPS: 25279; ON ALL HANDS
+mod_saff_utf8.txt: ALL CAPS: 25280; OBJECTIONS DERIVED FROM
+mod_saff_utf8.txt: ALL CAPS: 25281; OBJECTION ON BEHALF
+mod_saff_utf8.txt: ALL CAPS: 25282; OBJECTION AS
+mod_saff_utf8.txt: ALL CAPS: 25283; NOT NECESSARY
+mod_saff_utf8.txt: ALL CAPS: 25284; NOT ANY OTHER SUBSTANCE
+mod_saff_utf8.txt: ALL CAPS: 25285; NINTH OBJECTION
+mod_saff_utf8.txt: ALL CAPS: 25286; NECESSARY CONSEQUENCE
+mod_saff_utf8.txt: ALL CAPS: 25287; NATURE NOR EXISTENCE
+mod_saff_utf8.txt: ALL CAPS: 25288; NATURAL PHILOSOPHY
+mod_saff_utf8.txt: ALL CAPS: 25289; NATURAL PHILOSOPHER
+mod_saff_utf8.txt: ALL CAPS: 25290; NATURAL IMMORTALITY
+mod_saff_utf8.txt: ALL CAPS: 25292; MODES
+mod_saff_utf8.txt: ALL CAPS: 25293; MIND WE DEPEND ON EXCITES
+mod_saff_utf8.txt: ALL CAPS: 25294; MIND ALONE
+mod_saff_utf8.txt: ALL CAPS: 25295; MEANT BY
+mod_saff_utf8.txt: ALL CAPS: 25296; ME ANY REASON
+mod_saff_utf8.txt: ALL CAPS: 25297; MATTER SUPPORTS NOTHING
+mod_saff_utf8.txt: ALL CAPS: 25298; MATTER INVOLVES
+mod_saff_utf8.txt: ALL CAPS: 25299; MATTER GIVES CERTAINTY
+mod_saff_utf8.txt: ALL CAPS: 25300; MATTER AS
+mod_saff_utf8.txt: ALL CAPS: 25301; MATERIA PRIMA
+mod_saff_utf8.txt: ALL CAPS: 25302; MANNER OR CAUSE
+mod_saff_utf8.txt: ALL CAPS: 25303; MANICHEISM WOULD HAVE FEW SUPPORTERS
+mod_saff_utf8.txt: ALL CAPS: 25304; LOGIC and METAPHYSICS
+mod_saff_utf8.txt: ALL CAPS: 25305; LOGIC
+mod_saff_utf8.txt: ALL CAPS: 25306; LESS DEPENDENT ON
+mod_saff_utf8.txt: ALL CAPS: 25307; LANGUAGE TENABLE
+mod_saff_utf8.txt: ALL CAPS: 25308; KNOWLEDGE FROM
+mod_saff_utf8.txt: ALL CAPS: 25310; ITS SUPPORTING ACCIDENTS
+mod_saff_utf8.txt: ALL CAPS: 25311; ITS CONSEQUENCES
+mod_saff_utf8.txt: ALL CAPS: 25312; INWARD ESSENCE
+mod_saff_utf8.txt: ALL CAPS: 25313; INSEPARABLY UNITED
+mod_saff_utf8.txt: ALL CAPS: 25314; INFLUENCE MATHEMATICAL REASONINGS
+mod_saff_utf8.txt: ALL CAPS: 25315; INCONSISTENT ideas
+mod_saff_utf8.txt: ALL CAPS: 25316; IMMEDIATE OPERATION
+mod_saff_utf8.txt: ALL CAPS: 25317; IMMEDIATE CAUSE
+mod_saff_utf8.txt: ALL CAPS: 25318; IDEAS WE HAVE
+mod_saff_utf8.txt: ALL CAPS: 25319; IDEAS OR CHIMERAS
+mod_saff_utf8.txt: ALL CAPS: 25320; IDEA
+mod_saff_utf8.txt: ALL CAPS: 25321; GOD MORE EVIDENT
+mod_saff_utf8.txt: ALL CAPS: 25322; GOD
+mod_saff_utf8.txt: ALL CAPS: 25323; GENERAL OBJECTION
+mod_saff_utf8.txt: ALL CAPS: 25324; GENERAL IDEAS
+mod_saff_utf8.txt: ALL CAPS: 25325; FROM NATURAL PHILOSOPHY
+mod_saff_utf8.txt: ALL CAPS: 25326; FOURTH OBJECTION
+mod_saff_utf8.txt: ALL CAPS: 25327; FOREGOING DOCTRINE
+mod_saff_utf8.txt: ALL CAPS: 25328; FIFTH OBJECTION
+mod_saff_utf8.txt: ALL CAPS: 25330; EXTERNAL space
+mod_saff_utf8.txt: ALL CAPS: 25331; EXTERNAL MATTER
+mod_saff_utf8.txt: ALL CAPS: 25332; EXTERNAL MATERIAL EXISTENCES
+mod_saff_utf8.txt: ALL CAPS: 25333; EXTERNAL BODIES WANTS PROOF
+mod_saff_utf8.txt: ALL CAPS: 25334; EXTERNAL BODIES AFFORDS
+mod_saff_utf8.txt: ALL CAPS: 25335; EXPELLING MATTER
+mod_saff_utf8.txt: ALL CAPS: 25336; EXISTENCE INDEPENDENT
+mod_saff_utf8.txt: ALL CAPS: 25337; ETERNAL INVISIBLE MIND
+mod_saff_utf8.txt: ALL CAPS: 25338; ELEVENTH OBJECTION
+mod_saff_utf8.txt: ALL CAPS: 25339; EIGHTH OBJECTION
+mod_saff_utf8.txt: ALL CAPS: 25340; EACH BODY THEREFORE
+mod_saff_utf8.txt: ALL CAPS: 25342; DUTY
+mod_saff_utf8.txt: ALL CAPS: 25343; DOCTRINE WERE ONLY
+mod_saff_utf8.txt: ALL CAPS: 25344; DISTINCTION betwixt PRIMARY
+mod_saff_utf8.txt: ALL CAPS: 25345; DETERMINATE WITHOUT
+mod_saff_utf8.txt: ALL CAPS: 25346; DETERMINATE IDEAS
+mod_saff_utf8.txt: ALL CAPS: 25347; DETERMINATE ABSTRACT IDEA
+mod_saff_utf8.txt: ALL CAPS: 25349; CORPOREAL CAUSES
+mod_saff_utf8.txt: ALL CAPS: 25350; CONTENTS PREFACE INTRODUCTION
+mod_saff_utf8.txt: ALL CAPS: 25351; COMMUNICATION
+mod_saff_utf8.txt: ALL CAPS: 25352; CHIMERAS
+mod_saff_utf8.txt: ALL CAPS: 25353; CHIEF SOURCE
+mod_saff_utf8.txt: ALL CAPS: 25354; CHIEF CAUSES
+mod_saff_utf8.txt: ALL CAPS: 25355; CAUSE
+mod_saff_utf8.txt: ALL CAPS: 25356; BY EXPERIENCE
+mod_saff_utf8.txt: ALL CAPS: 25357; BODIES FALLING
+mod_saff_utf8.txt: ALL CAPS: 25358; BODIES EXISTING WITHOUT RESEMBLING THEM
+mod_saff_utf8.txt: ALL CAPS: 25359; BEING IMPOSED ON BY WORDS
+mod_saff_utf8.txt: ALL CAPS: 25365; ASCRIBE EVERYTHING
+mod_saff_utf8.txt: ALL CAPS: 25366; AS UNDERSTOOD BY PHILOSOPHERS
+mod_saff_utf8.txt: ALL CAPS: 25367; ARGUMENT AGAINST ITS EXISTENCE
+mod_saff_utf8.txt: ALL CAPS: 25368; APPARENT MOTION DENIED
+mod_saff_utf8.txt: ALL CAPS: 25369; ANY NECESSARY CONNEXION BETWIXT THEM
+mod_saff_utf8.txt: ALL CAPS: 25370; ANY IDEA
+mod_saff_utf8.txt: ALL CAPS: 25371; ANY ALTERATION
+mod_saff_utf8.txt: ALL CAPS: 25372; ANIMAL
+mod_saff_utf8.txt: ALL CAPS: 25373; ANALOGIES
+mod_saff_utf8.txt: ALL CAPS: 25374; ALL SORTS
+mod_saff_utf8.txt: ALL CAPS: 25375; ALL PARTICULAR right lines
+mod_saff_utf8.txt: ALL CAPS: 25376; ALL PARTICULAR TRIANGLES
+mod_saff_utf8.txt: ALL CAPS: 25377; ALL MINDS WHATSOEVER
+mod_saff_utf8.txt: ALL CAPS: 25378; ALL
+mod_saff_utf8.txt: ALL CAPS: 25379; ABSTRACT general idea
+mod_saff_utf8.txt: ALL CAPS: 25380; ABSTRACT GENERAL IDEAS NECESSARY
+mod_saff_utf8.txt: STOPWORD: 25516; sedition
+mod_saff_utf8.txt: STOPWORD: 25552; reason of sedition
+mod_saff_utf8.txt: ARCHAISM: 26037; ye NEW philosophers
+mod_saff_utf8.txt: DOUBLE --: 26039; wretched appearance--the superior force
+mod_saff_utf8.txt: ALL CAPS: 26066; uniform UNFAVOURABLE conditions
+mod_saff_utf8.txt: ALL CAPS: 26068; unfortunate OVER-ASSURED knowledge
+mod_saff_utf8.txt: DOUBLE --: 26079; truth--her great art
+mod_saff_utf8.txt: DOUBLE --: 26086; tradition--all law
+mod_saff_utf8.txt: ALL CAPS: 26095; terrible original text HOMO NATURA
+mod_saff_utf8.txt: DOUBLE --: 26097; tendency DISTINGUISHES--it
+mod_saff_utf8.txt: DOUBLE --: 26117; strength and freedom--the metrical constraint
+mod_saff_utf8.txt: ALL CAPS: 26120; spoken word ARCUBALISTA
+mod_saff_utf8.txt: ALL CAPS: 26128; soul FEELS
+mod_saff_utf8.txt: DOUBLE --: 26140; sky--a super-European music
+mod_saff_utf8.txt: DOUBLE --: 26155; self-tyranny--Nature
+mod_saff_utf8.txt: DOUBLE --: 26159; secret dangers--the cost
+mod_saff_utf8.txt: ALL CAPS: 26161; science MAY
+mod_saff_utf8.txt: DOUBLE --: 26174; require--for instance
+mod_saff_utf8.txt: ARCHAISM: 26193; realm--what realm hath wider boundary
+mod_saff_utf8.txt: ALL CAPS: 26201; pure CONCEPTIONS
+mod_saff_utf8.txt: DOUBLE --: 26205; properly--he changes
+mod_saff_utf8.txt: DOUBLE --: 26209; procedure--an ATTENTAT
+mod_saff_utf8.txt: ALL CAPS: 26214; pride NOT
+mod_saff_utf8.txt: DOUBLE --: 26218; present--this process
+mod_saff_utf8.txt: DOUBLE --: 26221; prehistoric period--the value
+mod_saff_utf8.txt: DOUBLE --: 26226; power--they call
+mod_saff_utf8.txt: DOUBLE --: 26237; philosophy--RULE
+mod_saff_utf8.txt: ALL CAPS: 26244; philosopher CAN
+mod_saff_utf8.txt: ALL CAPS: 26254; peculiar RIGHT
+mod_saff_utf8.txt: ARCHAISM: 26277; now--better young thou art
+mod_saff_utf8.txt: DOUBLE --: 26278; nothingness--this paradoxical mystery
+mod_saff_utf8.txt: ALL CAPS: 26298; morality of MUTUAL sympathy
+mod_saff_utf8.txt: DOUBLE --: 26319; merely--MY truths
+mod_saff_utf8.txt: DOUBLE --: 26323; mass--Slippery
+mod_saff_utf8.txt: DOUBLE --: 26327; mankind--a game
+mod_saff_utf8.txt: DOUBLE --: 26328; man--that means
+mod_saff_utf8.txt: ALL CAPS: 26331; BRIEFER COURSE
+mod_saff_utf8.txt: NUMERAL: 26468; Ideas III
+mod_saff_utf8.txt: NUMERAL: 26470; Doubts VI
+mod_saff_utf8.txt: ALL CAPS: 26530; comic CHARACTERS
+mod_saff_utf8.txt: DOUBLE --: 26546; GENERAL--THE COMIC ELEMENT
+mod_saff_utf8.txt: ALL CAPS: 26547; FORMS
+mod_saff_utf8.txt: ALL CAPS: 26548; F-form
+mod_saff_utf8.txt: ALL CAPS: 26549; word DIE
+mod_saff_utf8.txt: ALL CAPS: 26571; settled SPECULATIVE opinion
+mod_saff_utf8.txt: DOUBLE --: 26595; manner PREMISED--UNIVERSALITY
+mod_saff_utf8.txt: ALL CAPS: 26610; framing ABSTRACT IDEAS
+mod_saff_utf8.txt: ALL CAPS: 26631; SPIRIT
+mod_saff_utf8.txt: ALL CAPS: 26632; SECONDARY qualities
+mod_saff_utf8.txt: ALL CAPS: 26633; SECOND OBJECTION
+mod_saff_utf8.txt: ALL CAPS: 26634; SAME SORT
+mod_saff_utf8.txt: ALL CAPS: 26635; REAL THINGS
+mod_saff_utf8.txt: ALL CAPS: 26636; QUALITIES WITHOUT
+mod_saff_utf8.txt: ALL CAPS: 26637; POWER OR ACTIVITY
+mod_saff_utf8.txt: ALL CAPS: 26638; METAPHYSICS
+mod_saff_utf8.txt: ALL CAPS: 26639; MAN
+mod_saff_utf8.txt: ALL CAPS: 26640; LANGUAGE NECESSARY
+mod_saff_utf8.txt: ALL CAPS: 26642; IDEAS
+mod_saff_utf8.txt: ALL CAPS: 26645; FURTHER PROOF AGAINST
+mod_saff_utf8.txt: ALL CAPS: 26649; ABSTRACTING THEIR IDEAS
+mod_saff_utf8.txt: ALL CAPS: 26650; ABSTRACT NOTIONS
+mod_saff_utf8.txt: ALL CAPS: 26651; ABSTRACT GENERAL IDEAS
+mod_saff_utf8.txt: ALL CAPS: 26652; ABSOLUTE EXISTENCE
+mod_saff_utf8.txt: ARCHAISM: 26788; ye philosophers
+mod_saff_utf8.txt: ARCHAISM: 26789; ye free spirits
+mod_saff_utf8.txt: DOUBLE --: 26849; law--Nature
+mod_saff_utf8.txt: DOUBLE --: 26873; freedom--the metrical constraint
+mod_saff_utf8.txt: DOUBLE --: 26880; endured life--a Greek life
+mod_saff_utf8.txt: DOUBLE --: 26895; causality itself--we MUST
+mod_saff_utf8.txt: ALL CAPS: 26911; WEAK wills
+mod_saff_utf8.txt: ALL CAPS: 26912; TEMPO
+mod_saff_utf8.txt: ALL CAPS: 26915; PURE air
+mod_saff_utf8.txt: ALL CAPS: 26916; PAIN
+mod_saff_utf8.txt: ALL CAPS: 26917; OWN ideas
+mod_saff_utf8.txt: DOUBLE --: 26919; NOLI ME TANGERE--this Schumann
+mod_saff_utf8.txt: ALL CAPS: 26920; NEW philosophers
+mod_saff_utf8.txt: ALL CAPS: 26922; MUTUAL sympathy
+mod_saff_utf8.txt: ALL CAPS: 26925; INTUITIVE perception
+mod_saff_utf8.txt: ALL CAPS: 26929; FEAR
+mod_saff_utf8.txt: DOUBLE --: 26933; Europe--behind
+mod_saff_utf8.txt: ALL CAPS: 26934; DEMOCRATIC movement
+mod_saff_utf8.txt: DOUBLE --: 26938; BECOMING subtle--malice spiritualises
+mod_saff_utf8.txt: ALL CAPS: 26940; ANTIQUITY
+mod_saff_utf8.txt: ALL CAPS: 26941; ANTI-CHRISTIAN philosophy
+mod_saff_utf8.txt: ALL CAPS: 26942; ALL active force
+mod_saff_utf8.txt: ALL CAPS: 26943; AGAINST
+mod_saff_utf8.txt: DOUBLE --: 26953; sense-data--for example
+mod_saff_utf8.txt: DOUBLE --: 26969; philosophy--for philosophy
+mod_saff_utf8.txt: ALL CAPS: 27023; ON OUR KNOWLEDGE
+mod_saff_utf8.txt: NUMERAL: 27026; Chapter XI
+mod_saff_utf8.txt: NUMERAL: 27027; Chapter VI
+mod_saff_utf8.txt: DOUBLE --: 27052; ourselves--for instance
+mod_saff_utf8.txt: NUMERAL: 27057; note II
+mod_saff_utf8.txt: DOUBLE --: 27070; it--an essence
+mod_saff_utf8.txt: DOUBLE --: 27153; dispute--those believers
+mod_saff_utf8.txt: ALL CAPS: 27170; ULTIMATE SANCTION
+mod_saff_utf8.txt: ALL CAPS: 27174; CONNEXION BETWEEN JUSTICE
+mod_saff_utf8.txt: STOPWORD: 27248; subsequent chapter
+mod_saff_utf8.txt: STOPWORD: 27494; motions Edition
+mod_saff_utf8.txt: ALL CAPS: 27495; motion AB
+mod_saff_utf8.txt: STOPWORD: 27515; light Edition
+mod_saff_utf8.txt: STOPWORD: 27520; judgment Edition
+mod_saff_utf8.txt: STOPWORD: 27609; cause Edition
+mod_saff_utf8.txt: STOPWORD: 27612; body Edition
+mod_saff_utf8.txt: STOPWORD: 27632; absolute Edition
+mod_saff_utf8.txt: ALL CAPS: 27639; THIRD DIVISION
+mod_saff_utf8.txt: ALL CAPS: 27646; SOME REMARKS ON
+mod_saff_utf8.txt: ALL CAPS: 27647; SECOND DIVISION
+mod_saff_utf8.txt: NUMERAL: 27649; Remark III
+mod_saff_utf8.txt: ALL CAPS: 27651; RANK AS SCIENCE
+mod_saff_utf8.txt: ALL CAPS: 27658; PURE NATURAL SCIENCE
+mod_saff_utf8.txt: STOPWORD: 27661; NEW EDITION
+mod_saff_utf8.txt: NUMERAL: 27663; Louis XIV
+mod_saff_utf8.txt: ALL CAPS: 27670; INTRODUCTORY REMARKS ON
+mod_saff_utf8.txt: STOPWORD: 27672; Herder Edition
+mod_saff_utf8.txt: ALL CAPS: 27678; GENERAL PROBLEM
+mod_saff_utf8.txt: ALL CAPS: 27681; FOURTH DIVISION
+mod_saff_utf8.txt: ALL CAPS: 27688; EVERY FUTURE SYSTEM
+mod_saff_utf8.txt: ALL CAPS: 27704; ALL METAPHYSICAL KNOWLEDGE
+mod_saff_utf8.txt: STOPWORD: 27705; ALDINE EDITION
+mod_saff_utf8.txt: ALL CAPS: 27776; height EF
+mod_saff_utf8.txt: STOPWORD: 27887; virtues 30 Edition
+mod_saff_utf8.txt: STOPWORD: 27933; power Edition
+mod_saff_utf8.txt: STOPWORD: 27959; melancholic Edition
+mod_saff_utf8.txt: STOPWORD: 27964; mark Edition
+mod_saff_utf8.txt: STOPWORD: 27978; incontinence Edition
+mod_saff_utf8.txt: STOPWORD: 27979; ill Edition
+mod_saff_utf8.txt: STOPWORD: 28029; wit Edition
+mod_saff_utf8.txt: STOPWORD: 28031; tis Edition
+mod_saff_utf8.txt: STOPWORD: 28034; strength Edition
+mod_saff_utf8.txt: STOPWORD: 28046; people Edition
+mod_saff_utf8.txt: STOPWORD: 28061; defunct Edition
+mod_saff_utf8.txt: ALL CAPS: 28069; OUR DESIRES
+mod_saff_utf8.txt: ALL CAPS: 28071; ILL MEANS EMPLOYED
+mod_saff_utf8.txt: ARCHAISM: 28077; thy knowledge
+mod_saff_utf8.txt: STOPWORD: 28088; obscurity Edition
+mod_saff_utf8.txt: STOPWORD: 28095; life present Edition
+mod_saff_utf8.txt: STOPWORD: 28105; favor Edition
+mod_saff_utf8.txt: STOPWORD: 28109; enslaved Edition
+mod_saff_utf8.txt: STOPWORD: 28125; apprehension Edition
+mod_saff_utf8.txt: STOPWORD: 28133; Books
+mod_saff_utf8.txt: STOPWORD: 28157; master Edition
+mod_saff_utf8.txt: STOPWORD: 28179; death Edition
+mod_saff_utf8.txt: STOPWORD: 28194; adverse Edition
+mod_saff_utf8.txt: STOPWORD: 28197; HILL mcmx Edition
+mod_saff_utf8.txt: DOUBLE --: 28214; subject--an analysis
+mod_saff_utf8.txt: DOUBLE --: 28290; gesture--a study
+mod_saff_utf8.txt: DOUBLE --: 28317; conversation--in other words
+mod_saff_utf8.txt: DOUBLE --: 28330; burden--the third estate
+mod_saff_utf8.txt: STOPWORD: 28372; resolved Edition
+mod_saff_utf8.txt: STOPWORD: 28374; provinces remote Edition
+mod_saff_utf8.txt: STOPWORD: 28385; ordinary Edition
+mod_saff_utf8.txt: STOPWORD: 28387; money Edition
+mod_saff_utf8.txt: STOPWORD: 28400; extraneous Edition
+mod_saff_utf8.txt: STOPWORD: 28405; distinguishing betwixt vice Edition
+mod_saff_utf8.txt: STOPWORD: 28409; conversation Edition
+mod_saff_utf8.txt: STOPWORD: 28417; Tis Edition
+mod_saff_utf8.txt: ALL CAPS: 28418; SUMPTUARY LAWS
+mod_saff_utf8.txt: STOPWORD: 28419; Page 246 Edition
+mod_saff_utf8.txt: ALL CAPS: 28420; OPINION WE HAVE
+mod_saff_utf8.txt: STOPWORD: 28436; rich gentleman Edition
+mod_saff_utf8.txt: ARCHAISM: 28445; mine Edition
+mod_saff_utf8.txt: STOPWORD: 28467; constancy Edition
+mod_saff_utf8.txt: ALL CAPS: 28481; REFER TRUTH
+mod_saff_utf8.txt: ALL CAPS: 28486; MONTAIGNE VARIOUS EVENTS FROM
+mod_saff_utf8.txt: ALL CAPS: 28488; AVOID PLEASURES AT
+mod_saff_utf8.txt: ALL CAPS: 28516; Louis XL
+mod_saff_utf8.txt: STOPWORD: 28531; Fourth Edition
+mod_saff_utf8.txt: STOPWORD: 28532; FOURTH EDITION
+mod_saff_utf8.txt: ALL CAPS: 28533; FOURTH CLASS
+mod_saff_utf8.txt: STOPWORD: 28535; Enlarged Edition
+mod_saff_utf8.txt: NUMERAL: 28545; Charles VIII
+mod_saff_utf8.txt: ARCHAISM: 28559; soul praise Thee
+mod_saff_utf8.txt: ARCHAISM: 28562; praise Thy Name
+mod_saff_utf8.txt: ARCHAISM: 28572; hath life
+mod_saff_utf8.txt: ARCHAISM: 28588; Thy rest
+mod_saff_utf8.txt: ARCHAISM: 28589; Thy knowledge
+mod_saff_utf8.txt: ARCHAISM: 28590; Thy hands
+mod_saff_utf8.txt: ARCHAISM: 28591; Thy Unity
+mod_saff_utf8.txt: ARCHAISM: 28592; Thy Substance
+mod_saff_utf8.txt: ARCHAISM: 28593; Thy Sacrament
+mod_saff_utf8.txt: ARCHAISM: 28594; Thy God
+mod_saff_utf8.txt: ARCHAISM: 28595; Thy Eternal Word
+mod_saff_utf8.txt: ARCHAISM: 28596; Thy Church
+mod_saff_utf8.txt: ARCHAISM: 28597; Thy
+mod_saff_utf8.txt: ARCHAISM: 28598; Thou hast
+mod_saff_utf8.txt: ARCHAISM: 28599; Thou didst deal
+mod_saff_utf8.txt: ARCHAISM: 28600; Thine own name
+mod_saff_utf8.txt: ARCHAISM: 28601; Thine own greatness
+mod_saff_utf8.txt: ARCHAISM: 28616; thy soul lapse
+mod_saff_utf8.txt: STOPWORD: 28664; Texas Bulletin truth
+mod_saff_utf8.txt: STOPWORD: 28665; Texas Bulletin renders
+mod_saff_utf8.txt: STOPWORD: 28666; Texas Bulletin moment
+mod_saff_utf8.txt: STOPWORD: 28667; Texas Bulletin force
+mod_saff_utf8.txt: STOPWORD: 28668; Texas Bulletin closer explanation
+mod_saff_utf8.txt: STOPWORD: 28669; Texas Bulletin atom
+mod_saff_utf8.txt: STOPWORD: 28670; Texas Bulletin animal
+mod_saff_utf8.txt: STOPWORD: 28671; Texas Bulletin Spirits
+mod_saff_utf8.txt: ALL CAPS: 28677; Germanic Languages COMPARATIVE LITERATURE SERIES
+mod_saff_utf8.txt: STOPWORD: 28828; Miscellaneous Chapter
+mod_saff_utf8.txt: NUMERAL: 28830; Louis Xvi
+mod_saff_utf8.txt: NUMERAL: 28831; Louis XVI
+mod_saff_utf8.txt: ALL CAPS: 28840; Contents PART
+mod_saff_utf8.txt: ARCHAISM: 28857; thy reason
+mod_saff_utf8.txt: ARCHAISM: 28858; thy aim
+mod_saff_utf8.txt: ARCHAISM: 28859; thou wouldst answer
+mod_saff_utf8.txt: ALL CAPS: 28986; CONCERNING NEW PRINCIPALITIES
+mod_saff_utf8.txt: NUMERAL: 28987; CHAPTER XV
+mod_saff_utf8.txt: NUMERAL: 28988; CHAPTER XIV
+mod_saff_utf8.txt: NUMERAL: 28989; CHAPTER XIII
+mod_saff_utf8.txt: NUMERAL: 28990; CHAPTER XII
+mod_saff_utf8.txt: NUMERAL: 28991; CHAPTER XI
+mod_saff_utf8.txt: ALL CAPS: 29085; CA
+mod_saff_utf8.txt: ARCHAISM: 29086; workmen thou placest thyself
+mod_saff_utf8.txt: ARCHAISM: 29088; thy words
+mod_saff_utf8.txt: ARCHAISM: 29089; thy understanding
+mod_saff_utf8.txt: ARCHAISM: 29090; thy proper constitution
+mod_saff_utf8.txt: ARCHAISM: 29091; thy principles thou
+mod_saff_utf8.txt: ARCHAISM: 29092; thy principles
+mod_saff_utf8.txt: ARCHAISM: 29093; thy present condition
+mod_saff_utf8.txt: ARCHAISM: 29094; thy own movement
+mod_saff_utf8.txt: ARCHAISM: 29095; thy name
+mod_saff_utf8.txt: ARCHAISM: 29096; thy dulness
+mod_saff_utf8.txt: ARCHAISM: 29097; thy constitution
+mod_saff_utf8.txt: ARCHAISM: 29098; thy acts
+mod_saff_utf8.txt: ARCHAISM: 29099; thou thyself art
+mod_saff_utf8.txt: ARCHAISM: 29100; thou hast reason
+mod_saff_utf8.txt: ARCHAISM: 29113; reason thou wilt
+mod_saff_utf8.txt: ARCHAISM: 29124; manner thou dost
+mod_saff_utf8.txt: NUMERAL: 29233; Ssu-ma Ch
+mod_saff_utf8.txt: ALL CAPS: 29269; I-yi
+mod_saff_utf8.txt: STOPWORD: 29373; seventh chapter
+mod_saff_utf8.txt: ALL CAPS: 29383; representative JL faculty
+mod_saff_utf8.txt: ALL CAPS: 29384; repreSECOND CLASS
+mod_saff_utf8.txt: STOPWORD: 29459; fourth edition
+mod_saff_utf8.txt: STOPWORD: 29490; book similar expressions
+mod_saff_utf8.txt: ALL CAPS: 29506; acconiFIRST CLASS
+mod_saff_utf8.txt: STOPWORD: 29509; above-mentioned chapter
+mod_saff_utf8.txt: STOPWORD: 29521; Third Book
+mod_saff_utf8.txt: ALL CAPS: 29526; SECOND CLASS OP OBJECTS FOE
+mod_saff_utf8.txt: ALL CAPS: 29534; NEW DEMONSTRATION
+mod_saff_utf8.txt: STOPWORD: 29546; mortality Edition
+mod_saff_utf8.txt: STOPWORD: 29559; extraordinary Edition
+mod_saff_utf8.txt: STOPWORD: 29579; cause laid Edition
+mod_saff_utf8.txt: ALL CAPS: 29588; NOT CHANGING
+mod_saff_utf8.txt: ALL CAPS: 29591; FORT WITHOUT REASON
+mod_saff_utf8.txt: ARCHAISM: 29622; nature hath
+mod_saff_utf8.txt: ARCHAISM: 29649; body hath
+mod_saff_utf8.txt: STOPWORD: 29715; publisher Edition
+mod_saff_utf8.txt: STOPWORD: 29719; progress Edition
+mod_saff_utf8.txt: STOPWORD: 29789; human Edition
+mod_saff_utf8.txt: STOPWORD: 29824; discoveries Edition
+mod_saff_utf8.txt: STOPWORD: 29906; FRENCH Edition
+mod_saff_utf8.txt: STOPWORD: 29912; Descartes regarding Occasional Edition
+mod_saff_utf8.txt: STOPWORD: 29913; Deity Edition
+mod_saff_utf8.txt: NUMERAL: 29914; Definitions II
+mod_saff_utf8.txt: ALL CAPS: 29915; DISCOURSE ON METHOD
+mod_saff_utf8.txt: NUMERAL: 29921; Axioms VIII
+mod_saff_utf8.txt: NUMERAL: 29922; Axiom VII
+mod_saff_utf8.txt: STOPWORD: 30140; deliberate Edition
+mod_saff_utf8.txt: STOPWORD: 30167; FIFTH EDITION
+mod_saff_utf8.txt: ALL CAPS: 30290; attribute B--i
+mod_saff_utf8.txt: ALL CAPS: 30292; A-D
+mod_saff_utf8.txt: ALL CAPS: 30293; A-C
+mod_saff_utf8.txt: DOUBLE --: 30310; were--Gods
+mod_saff_utf8.txt: ARCHAISM: 30315; virtue hath
+mod_saff_utf8.txt: ARCHAISM: 30320; times hitherto hath spirit
+mod_saff_utf8.txt: ARCHAISM: 30321; time hath
+mod_saff_utf8.txt: ARCHAISM: 30322; thy sake
+mod_saff_utf8.txt: ARCHAISM: 30323; thy flesh
+mod_saff_utf8.txt: ARCHAISM: 30324; thy bones
+mod_saff_utf8.txt: ARCHAISM: 30325; thy bliss
+mod_saff_utf8.txt: ARCHAISM: 30326; thy beauty
+mod_saff_utf8.txt: ARCHAISM: 30327; thou free spirit
+mod_saff_utf8.txt: ARCHAISM: 30334; spirit hath
+mod_saff_utf8.txt: ARCHAISM: 30361; mine own hands
+mod_saff_utf8.txt: ARCHAISM: 30362; mine example
+mod_saff_utf8.txt: ARCHAISM: 30363; mine ear
+mod_saff_utf8.txt: ARCHAISM: 30369; lived mine entire life
+mod_saff_utf8.txt: DOUBLE --: 30372; knowledge--his little hand
+mod_saff_utf8.txt: ARCHAISM: 30380; hath time
+mod_saff_utf8.txt: ARCHAISM: 30381; hath spirit
+mod_saff_utf8.txt: ARCHAISM: 30384; hand hath
+mod_saff_utf8.txt: DOUBLE --: 30393; exceptional freedom--the freedom
+mod_saff_utf8.txt: DOUBLE --: 30395; everything--STAND STILL
+mod_saff_utf8.txt: ARCHAISM: 30399; dost thou PRAISE Life
+mod_saff_utf8.txt: DOUBLE --: 30412; chloral--a drug
+mod_saff_utf8.txt: ARCHAISM: 30413; call thee
+mod_saff_utf8.txt: ARCHAISM: 30417; believe--is thy body
+mod_saff_utf8.txt: ARCHAISM: 30424; THOU ART
+mod_saff_utf8.txt: ALL CAPS: 30429; NOT
+mod_saff_utf8.txt: ARCHAISM: 30430; Mine animals
+mod_saff_utf8.txt: ALL CAPS: 30431; MERE POET
+mod_saff_utf8.txt: ALL CAPS: 30432; MERE FOOL
+mod_saff_utf8.txt: STOPWORD: 30437; Chapters XXXVI
+mod_saff_utf8.txt: STOPWORD: 30438; Chapters LVII
+mod_saff_utf8.txt: STOPWORD: 30439; Chapters LVI
+mod_saff_utf8.txt: NUMERAL: 30440; Chapter XV
+mod_saff_utf8.txt: STOPWORD: 30441; Chapter LI
+mod_saff_utf8.txt: NUMERAL: 30472; note ii
+mod_saff_utf8.txt: DOUBLE --: 30475; modifications--as substance
+mod_saff_utf8.txt: DOUBLE --: 30480; man--in other words
+mod_saff_utf8.txt: DOUBLE --: 30493; idea--for instance
+mod_saff_utf8.txt: DOUBLE --: 30512; divine substance--in other words
+mod_saff_utf8.txt: NUMERAL: 30535; IV
+mod_saff_utf8.txt: NUMERAL: 30540; Axiom III
+mod_saff_utf8.txt: NUMERAL: 30557; imitation II
+mod_saff_utf8.txt: STOPWORD: 30575; Adelaide South Australia 5005 Poetics
+mod_saff_utf8.txt: DOUBLE --: 30690; activity--these passing
+mod_saff_utf8.txt: ALL CAPS: 30695; TEACHERS ON PSYCHOLOGY
+mod_saff_utf8.txt: ALL CAPS: 30697; SUPPOSED OBJECTIONS
+mod_saff_utf8.txt: ALL CAPS: 30699; RELIGIOUS EXPERIENCE
+mod_saff_utf8.txt: ALL CAPS: 30704; PURE EXPERIENCE
+mod_saff_utf8.txt: ALL CAPS: 30705; PLURALISTIC UNIVERSE
+mod_saff_utf8.txt: ALL CAPS: 30706; NEW NAME
+mod_saff_utf8.txt: ALL CAPS: 30710; LITERARY REMAINS
+mod_saff_utf8.txt: ALL CAPS: 30711; ITS RELATIONS
+mod_saff_utf8.txt: STOPWORD: 30777; sixth chapter
+mod_saff_utf8.txt: STOPWORD: 30791; preceding chapters
+mod_saff_utf8.txt: NUMERAL: 30816; chapters xiii
+mod_saff_utf8.txt: STOPWORD: 30817; books of Kings
+mod_saff_utf8.txt: STOPWORD: 30818; book of Jeremiah
+mod_saff_utf8.txt: STOPWORD: 30819; book of Genesis
+mod_saff_utf8.txt: STOPWORD: 30868; reading books
+mod_saff_utf8.txt: NUMERAL: 31314; Taste Part II
+mod_saff_utf8.txt: STOPWORD: 31398; uncertain Edition
+mod_saff_utf8.txt: ARCHAISM: 31439; thou art thou
+mod_saff_utf8.txt: ARCHAISM: 31441; thine own act
+mod_saff_utf8.txt: DOUBLE --: 31521; loathing--no milder word
+mod_saff_utf8.txt: ALL CAPS: 31596; REFLEX ACTION
+mod_saff_utf8.txt: ALL CAPS: 31597; POPULAR PHILOSOPHY
+mod_saff_utf8.txt: ALL CAPS: 31598; MORAL PHILOSOPHER
+mod_saff_utf8.txt: ALL CAPS: 31599; MORAL LIFE
+mod_saff_utf8.txt: ALL CAPS: 31601; LIFE WORTH LIVING
+mod_saff_utf8.txt: STOPWORD: 31624; securing Edition
+mod_saff_utf8.txt: STOPWORD: 31629; poor Edition
+mod_saff_utf8.txt: ALL CAPS: 31658; MONTAIGNE OBSERVATION
+mod_saff_utf8.txt: STOPWORD: 31664; worthy Edition
+mod_saff_utf8.txt: ARCHAISM: 31672; thy sacred person
+mod_saff_utf8.txt: STOPWORD: 31689; foolish Edition
+mod_saff_utf8.txt: STOPWORD: 31699; armor Edition
+mod_saff_utf8.txt: ALL CAPS: 31820; NATURAL HISTORY
+mod_saff_utf8.txt: ALL CAPS: 31821; GOOD taste
+mod_saff_utf8.txt: ALL CAPS: 32073; word IDEA
+mod_saff_utf8.txt: ALL CAPS: 32099; OUR IDEAS
+mod_saff_utf8.txt: ALL CAPS: 32100; MATERIAL SUBSTANCE
+mod_saff_utf8.txt: ALL CAPS: 32102; HUMAN KNOWLEDGE
+mod_saff_utf8.txt: ALL CAPS: 32104; CORPOREAL SUBSTANCE
+mod_saff_utf8.txt: ALL CAPS: 32248; motion AC
+mod_saff_utf8.txt: STOPWORD: 32265; inflexible Edition
+mod_saff_utf8.txt: ALL CAPS: 32445; OUR ACTIONS
+mod_saff_utf8.txt: STOPWORD: 32446; Lacedaemonian Edition
+mod_saff_utf8.txt: STOPWORD: 32509; infinite Edition
+mod_saff_utf8.txt: ALL CAPS: 32630; CLASS OP OBJECTS FOE
+mod_saff_utf8.txt: ARCHAISM: 32631; thy God
+mod_saff_utf8.txt: ARCHAISM: 32634; power of mine
+mod_saff_utf8.txt: ARCHAISM: 32641; Thy servant
+mod_saff_utf8.txt: ARCHAISM: 32642; Thy power
+mod_saff_utf8.txt: ARCHAISM: 32643; Thy laws
+mod_saff_utf8.txt: ARCHAISM: 32644; Thy goodness
+mod_saff_utf8.txt: ARCHAISM: 32645; Thou Thyself art
+mod_saff_utf8.txt: STOPWORD: 32705; obligation Edition
+mod_saff_utf8.txt: STOPWORD: 32712; bookish employments
+mod_saff_utf8.txt: STOPWORD: 32746; ancient Edition
+mod_saff_utf8.txt: STOPWORD: 32804; gentleman Edition
+mod_saff_utf8.txt: STOPWORD: 32807; day Edition
+mod_saff_utf8.txt: NUMERAL: 32874; CHAPTER VIII
+mod_saff_utf8.txt: NUMERAL: 32875; CHAPTER VII
+mod_saff_utf8.txt: NUMERAL: 32876; CHAPTER VI
+mod_saff_utf8.txt: ARCHAISM: 32917; thy whole life
+mod_saff_utf8.txt: ARCHAISM: 32918; thy ruling faculty
+mod_saff_utf8.txt: ARCHAISM: 32919; thy powers
+mod_saff_utf8.txt: ARCHAISM: 32920; thy judgement
+mod_saff_utf8.txt: ALL CAPS: 33072; MORAL VIRTUE
+mod_saff_utf8.txt: ALL CAPS: 33073; INTELLECTUAL VIRTUES
+mod_saff_utf8.txt: ALL CAPS: 33074; CHARACTERS OTHER
+mod_saff_utf8.txt: ARCHAISM: 33135; ye judges
+mod_saff_utf8.txt: ARCHAISM: 33141; thy virtue
+mod_saff_utf8.txt: ARCHAISM: 33155; mine evil spirit
+mod_saff_utf8.txt: ALL CAPS: 33172; MY taste
+mod_saff_utf8.txt: STOPWORD: 33175; Chapter XXXVI
+mod_saff_utf8.txt: STOPWORD: 33176; Chapter XXII
+mod_saff_utf8.txt: STOPWORD: 33177; Chapter XLVI
+mod_saff_utf8.txt: STOPWORD: 33178; Chapter XLII
+mod_saff_utf8.txt: STOPWORD: 33179; Chapter XL
+mod_saff_utf8.txt: STOPWORD: 33180; Chapter LXXVII
+mod_saff_utf8.txt: STOPWORD: 33181; Chapter LXX
+mod_saff_utf8.txt: STOPWORD: 33182; Chapter LXV
+mod_saff_utf8.txt: STOPWORD: 33183; Chapter LXIII
+mod_saff_utf8.txt: STOPWORD: 33184; Chapter LIV
+mod_saff_utf8.txt: STOPWORD: 33293; Revised edition
+mod_saff_utf8.txt: ALL CAPS: 33295; PHYSIOLOGY
+mod_saff_utf8.txt: STOPWORD: 33309; fifth chapter
+mod_saff_utf8.txt: NUMERAL: 33490; Chapter IV
+mod_saff_utf8.txt: ALL CAPS: 33498; proposition AC
+mod_saff_utf8.txt: ARCHAISM: 33606; thy hands
+mod_saff_utf8.txt: ALL CAPS: 33698; COMIC ELEMENT
+mod_saff_utf8.txt: ALL CAPS: 33718; ABSTRACTION
+mod_saff_utf8.txt: NUMERAL: 33782; CHAPTER IV
+mod_saff_utf8.txt: STOPWORD: 33948; Book
+mod_saff_utf8.txt: NUMERAL: 33980; Chapter III
+mod_saff_utf8.txt: ALL CAPS: 34028; direction BA
+mod_saff_utf8.txt: ALL CAPS: 34029; direction AB
+mod_saff_utf8.txt: ALL CAPS: 34048; NATURAL SCIENCE
+mod_saff_utf8.txt: ALL CAPS: 34051; MAIN TRANSCENDENTAL PROBLEM
+mod_saff_utf8.txt: ALL CAPS: 34054; GENERAL QUESTION
+mod_saff_utf8.txt: NUMERAL: 34055; Explanation IV
+mod_saff_utf8.txt: NUMERAL: 34056; Explanation III
+mod_saff_utf8.txt: NUMERAL: 34057; Explanation II
+mod_saff_utf8.txt: ALL CAPS: 34117; GENERAL OBSERVATIONS
+mod_saff_utf8.txt: ARCHAISM: 34121; Thy substance
+mod_saff_utf8.txt: ARCHAISM: 34122; Thy mercy
+mod_saff_utf8.txt: ARCHAISM: 34123; Thy hand
+mod_saff_utf8.txt: ARCHAISM: 34124; Thy good Spirit
+mod_saff_utf8.txt: ARCHAISM: 34125; Thy Book
+mod_saff_utf8.txt: ALL CAPS: 34158; more-S
+mod_saff_utf8.txt: ARCHAISM: 34182; ye
+mod_saff_utf8.txt: ARCHAISM: 34185; times Nay
+mod_saff_utf8.txt: ARCHAISM: 34187; thy greatness
+mod_saff_utf8.txt: ARCHAISM: 34192; mine opinions
+mod_saff_utf8.txt: ALL CAPS: 34202; THIRD PART
+mod_saff_utf8.txt: STOPWORD: 34204; English Edition
+mod_saff_utf8.txt: STOPWORD: 34205; Chapter XVIII
+mod_saff_utf8.txt: STOPWORD: 34291; extreme Edition
+mod_saff_utf8.txt: STOPWORD: 34310; 3rd Edition
+mod_saff_utf8.txt: ALL CAPS: 34318; THIRD CLASS
+mod_saff_utf8.txt: ALL CAPS: 34323; SUFFICIENT REASON
+mod_saff_utf8.txt: ALL CAPS: 34324; PHYSICAL ASTRONOMY
+mod_saff_utf8.txt: STOPWORD: 34422; book of Job
+mod_saff_utf8.txt: ARCHAISM: 34464; Lord thy God
+mod_saff_utf8.txt: ARCHAISM: 34473; Thy Truth
+mod_saff_utf8.txt: NUMERAL: 34497; CHAPTER II
+mod_saff_utf8.txt: ALL CAPS: 34618; ABSTRACT IDEA
+mod_saff_utf8.txt: ARCHAISM: 34717; ye call
+mod_saff_utf8.txt: ARCHAISM: 34721; thy happiness
+mod_saff_utf8.txt: NUMERAL: 34800; Remark II
+mod_saff_utf8.txt: ALL CAPS: 34807; AC
+mod_saff_utf8.txt: ALL CAPS: 34955; OBJECTS FOB
+mod_saff_utf8.txt: STOPWORD: 34994; Copyright edition
+mod_saff_utf8.txt: ALL CAPS: 34995; CLASS OP OBJECTS
+mod_saff_utf8.txt: ARCHAISM: 34997; Thy Name
+mod_saff_utf8.txt: NUMERAL: 35028; CHAPTER III
+mod_saff_utf8.txt: ARCHAISM: 35045; thy own nature
+mod_saff_utf8.txt: ARCHAISM: 35046; thy opinion
+mod_saff_utf8.txt: ARCHAISM: 35047; thine
+mod_saff_utf8.txt: ARCHAISM: 35124; thy virtues
+mod_saff_utf8.txt: STOPWORD: 35339; THIRD EDITION
+mod_saff_utf8.txt: ALL CAPS: 35355; proposition BC
+mod_saff_utf8.txt: NUMERAL: 35383; Ch
+mod_saff_utf8.txt: STOPWORD: 35394; hill mcmx Edition
+mod_saff_utf8.txt: ARCHAISM: 35422; art Thou
+mod_saff_utf8.txt: ALL CAPS: 35428; SEVERAL MORAL VIRTUES
+mod_saff_utf8.txt: ARCHAISM: 35438; thy hand
+mod_saff_utf8.txt: ARCHAISM: 35443; God hath
+mod_saff_utf8.txt: STOPWORD: 35444; Chapter LVI
+mod_saff_utf8.txt: NUMERAL: 35445; Chapter II
+mod_saff_utf8.txt: ARCHAISM: 35471; Thy name
+mod_saff_utf8.txt: ARCHAISM: 35613; Thy words
+mod_saff_utf8.txt: ALL CAPS: 35630; proposition AB
+mod_saff_utf8.txt: ARCHAISM: 35633; thy
+mod_saff_utf8.txt: STOPWORD: 35652; expedition
+mod_saff_utf8.txt: STOPWORD: 35680; EMERSON EDITION
+mod_saff_utf8.txt: NUMERAL: 35710; III
+mod_saff_utf8.txt: STOPWORD: 35793; Volumes Edition
+mod_saff_utf8.txt: STOPWORD: 35795; HILL Edition
+mod_saff_utf8.txt: ALL CAPS: 35796; CONTENTS LIST
+mod_saff_utf8.txt: ARCHAISM: 35810; Thy word
+mod_saff_utf8.txt: STOPWORD: 35847; chapter
+mod_saff_utf8.txt: ALL CAPS: 35944; ABSTRACT IDEAS
+mod_saff_utf8.txt: ARCHAISM: 35970; thy nature
+mod_saff_utf8.txt: ARCHAISM: 35971; thy body
+mod_saff_utf8.txt: ARCHAISM: 36029; Thy right hand
+mod_saff_utf8.txt: ALL CAPS: 36092; METAPHYSICAL FOUNDATIONS
+mod_saff_utf8.txt: ARCHAISM: 36149; Thine
+mod_saff_utf8.txt: STOPWORD: 36165; Chapter LVII
+mod_saff_utf8.txt: NUMERAL: 36167; II
+mod_saff_utf8.txt: ALL CAPS: 36251; ANIMAL MAGNETISM
+mod_saff_utf8.txt: STOPWORD: 36256; preceding chapter
+mod_saff_utf8.txt: ARCHAISM: 36273; mine animals
+mod_saff_utf8.txt: STOPWORD: 36304; SECOND EDITION
+mod_saff_utf8.txt: STOPWORD: 36308; Adelaide South Australia 5005 Table
+mod_saff_utf8.txt: ALL CAPS: 36358; COMPARATIVE ANATOMY
+mod_saff_utf8.txt: ARCHAISM: 36359; Thy truth
+mod_saff_utf8.txt: ARCHAISM: 36380; Art thou
+mod_saff_utf8.txt: STOPWORD: 36399; Revised Edition
+mod_saff_utf8.txt: ALL CAPS: 36475; SECOND CLASS
+mod_saff_utf8.txt: ARCHAISM: 36530; Thy law
+mod_saff_utf8.txt: ARCHAISM: 36576; Thy Spirit
+mod_saff_utf8.txt: ARCHAISM: 36595; thy mind
+mod_saff_utf8.txt: ARCHAISM: 36631; thy power
+mod_saff_utf8.txt: ALL CAPS: 36649; OBJECTS FOE
+mod_saff_utf8.txt: ARCHAISM: 36670; thy soul
+mod_saff_utf8.txt: ARCHAISM: 36808; art thou
+mod_saff_utf8.txt: ARCHAISM: 36832; Thy Word
+mod_saff_utf8.txt: STOPWORD: 36992; Adelaide Library University
+mod_saff_utf8.txt: STOPWORD: 37039; Adelaide South Australia
+mod_saff_utf8.txt: ARCHAISM: 37054; thy life
+mod_saff_utf8.txt: ARCHAISM: 37125; mine
+mod_saff_utf8.txt: STOPWORD: 37184; books
+mod_saff_utf8.txt: ARCHAISM: 37185; Thee
+mod_saff_utf8.txt: ARCHAISM: 37223; Thou art
+mod_saff_utf8.txt: STOPWORD: 37237; Texas Bulletin
+mod_saff_utf8.txt: ARCHAISM: 37247; thee
+mod_saff_utf8.txt: STOPWORD: 37259; book
+mod_saff_utf8.txt: ARCHAISM: 37260; thou art
+mod_saff_utf8.txt: STOPWORD: 37330; Edition
+mod_saff_utf8.txt: UNCOMMON: 33384; 3, moral Teleology, JJ NNP
+mod_saff_utf8.txt: UNCOMMON: 306; 1, Moral Teleology, NNP NNP
+mod_saff_utf8.txt: UNCOMMON: 31312; 2, Transcendental Aesthetic, NNP NNP
+mod_saff_utf8.txt: UNCOMMON: 9772; 1, transcendental Aesthetic, NN NNP
+mod_saff_utf8.txt: UNCOMMON: 34043; 4, Transcendental Dialectic, NNP NNP
+mod_saff_utf8.txt: UNCOMMON: 12901; 1, transcendental Dialectic, NN NNP
+mod_saff_utf8.txt: UNCOMMON: 32322; 3, Professor Kant, NNP NNP
+mod_saff_utf8.txt: UNCOMMON: 13176; 1, professor Kant, NN NNP
+mod_saff_utf8.txt: UNCOMMON: 31719; 3, Critique of Pure Reason, NNP IN NNP NNP
+mod_saff_utf8.txt: UNCOMMON: 14068; 1, Critique of pure Reason, NNP IN JJ NNP
+mod_saff_utf8.txt: UNCOMMON: 32101; 3, Holy Scriptures, NNP NNP
+mod_saff_utf8.txt: UNCOMMON: 15633; 1, holy Scriptures, JJ NNP
+mod_saff_utf8.txt: UNCOMMON: 31758; 3, living God, VBG NNP
+mod_saff_utf8.txt: UNCOMMON: 15929; 1, Living God, VBG NNP
+mod_saff_utf8.txt: UNCOMMON: 31354; 2, government of England, NN IN NNP
+mod_saff_utf8.txt: UNCOMMON: 17500; 1, Government of England, NNP IN NNP
+mod_saff_utf8.txt: UNCOMMON: 33339; 3, Controversial Dialectic, NNP NNP
+mod_saff_utf8.txt: UNCOMMON: 19602; 1, controversial Dialectic, JJ NNP
+mod_saff_utf8.txt: UNCOMMON: 36470; 15, existence of God, NN IN NNP
+mod_saff_utf8.txt: UNCOMMON: 23459; 1, existence of God, NN IN NNP
+mod_saff_utf8.txt: UNCOMMON: 31890; 3, Absolute Idea, JJ NNP
+mod_saff_utf8.txt: UNCOMMON: 23793; 1, absolute Idea, JJ NNP
+mod_saff_utf8.txt: UNCOMMON: 31610; 2, modern English, JJ NNP
+mod_saff_utf8.txt: UNCOMMON: 27096; 2, Modern English, NNP NNP
+mod_saff_utf8.txt: UNCOMMON: 27339; 2, Love God, NNP NNP
+mod_saff_utf8.txt: UNCOMMON: 27281; 2, love God, NN NNP
+mod_saff_utf8.txt: UNCOMMON: 30712; 2, Enquiry Concerning Human Understanding, NNP VBG NNP NNP
+mod_saff_utf8.txt: UNCOMMON: 27347; 2, Enquiry concerning Human Understanding, NNP VBG NNP NNP
+mod_saff_utf8.txt: UNCOMMON: 34041; 4, Transcendental Logic, NNP NNP
+mod_saff_utf8.txt: UNCOMMON: 29941; 2, transcendental Logic, NN NNP
+mod_saff_utf8.txt: UNCOMMON: 31348; 2, Aesthetical Reflective Judgement, NNP NNP NNP
+mod_saff_utf8.txt: UNCOMMON: 31306; 2, aesthetical reflective Judgement, JJ JJ NNP
+mod_saff_utf8.txt: UNCOMMON: 36030; 10, Beginning God, VBG NNP
+mod_saff_utf8.txt: UNCOMMON: 32639; 3, beginning God, NN NNP
+mod_saff_utf8.txt: UNCOMMON: 34869; 6, Almighty God, NNP NNP
+mod_saff_utf8.txt: UNCOMMON: 34273; 4, almighty God, NN NNP

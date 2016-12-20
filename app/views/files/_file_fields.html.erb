@@ -1,0 +1,18 @@
+  <div class="field">
+    <%= f.label :URL %><br>
+    <%= f.text_field :URL %>
+  </div>
+  <div class="field">
+    <%= f.label :what %><br>
+    <%= f.text_field :what %>
+	</div>
+<% if action_name != 'new' and @file.type_negotiation == ::Fyle::PLAIN_TEXT %>
+  <div class="field">
+    <%= f.label :strip_start %><br>
+    <%= f.number_field :strip_start %>
+  </div>
+  <div class="field">
+    <%= f.label :strip_end %><br>
+    <%= f.number_field :strip_end %>
+	</div>
+<% end %>

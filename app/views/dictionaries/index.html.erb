@@ -1,0 +1,36 @@
+<h1>listing reference works</h1>
+
+<table class="table table-striped table-hover ">
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Long title</th>
+      <th>Uri</th>
+      <th>Current editor</th>
+      <th>Contact</th>
+      <th>Organisation</th>
+			<th>Actions</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @dictionaries.each do |dictionary| %>
+      <tr>
+        <td><%= dictionary.title %></td>
+        <td><%= dictionary.long_title %></td>
+				<td><%= link_to dictionary.URI.split('/')[2], dictionary.URI %></td> <!-- link to uri but display only the domain name -->
+        <td><%= dictionary.current_editor %></td>
+        <td><%= dictionary.contact %></td>
+				<td><%= dictionary.organisation %></td>
+				<td><%= link_to 'Show', dictionary %></td>
+				<td><%= link_to 'Entry', entry_dictionary_path(dictionary) %></td>
+				<!-- <td><%# render dictionary %></td> <!-- boostrap nav -->
+				<!-- <td><%# render picnic_actions %></td> <!-- picnic nav -->
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'new reference work', new_dictionary_path %> | <%= link_to 'compare & contrast', compare_dictionaries_path %>

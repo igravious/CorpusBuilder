@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+w_one:
+  author: a
+  text: one
+
+w_two:
+  author: b
+  text: one
+
+w_three:
+  author: c
+  text: two

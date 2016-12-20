@@ -1,0 +1,49 @@
+<div style="padding-left:1em;padding-bottom:1em">
+	<h1>Listing files</h1>
+
+	<hr/>
+	<%= link_to 'Cached file(s)', cached_fyles_path %> | <%= link_to 'Uncached file(s)', uncached_fyles_path %> | <%= link_to 'Linked file(s)', linked_fyles_path %> | <%= link_to 'Unlinked file(s)', unlinked_fyles_path %> |<%= link_to 'All file(s)', fyles_path %> 
+	<hr/>
+	<%= link_to 'Switch to author view', authors_path %> | <%= link_to 'Switch to text view', texts_path %> | <%= link_to '«New File»', new_fyle_path %>
+	<hr/>
+	<%= link_to 'Search', search_path %>
+	<hr/>
+
+	<b><%= @files.length %></b> files in total
+</div>
+
+<table>
+  <thead>
+		<tr>
+			<th>#</th>
+			<th>Url</th>
+			<th>Type negotiation</th>
+			<th>Cached? / Local?</th>
+      <th>What</th>
+      <th>At start</th>
+      <th>From end</th>
+      <th></th>
+      <th></th>
+			<th></th>
+			<th></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @files.each do |file| %>
+			<tr>
+				<td><%= sprintf("%03d",file.id) %></td>
+				<td><a href="<%= file.URL %>" target="_blank"><%= file.display_URL %></a></td>
+				<td><em><%= file.display_type %></em></td>
+				<td><%= raw "#{file.display_cached} <span style='color: #BBB'>/</span> #{file.display_localed}" %></td>
+				<td><%= file.display_what %></td>
+        <td><%= file.display_strip_start %></td>
+				<td><%= file.display_strip_end %></td>
+        <td><%= link_to 'Show', file %></td>
+        <td><%= link_to 'Edit', edit_fyle_path(file) %></td>
+				<td><%= link_to 'Nuke', file, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+				<td><%= (::Text.find_by_fyle_id file).nil? ? link_to(raw('«New&nbsp;Text»'), from_file_text_path(file)) : link_to('?', query_fyle_path(file))  %></td>
+			</tr>
+		<% end %>
+  </tbody>
+</table>

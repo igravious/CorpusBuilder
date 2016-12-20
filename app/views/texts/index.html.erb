@@ -1,0 +1,55 @@
+<h1>Listing texts</h1>
+
+<%= link_to 'Texts as XML', texts_path(:xml, :parts => 'true') %> <%# link_to 'Latest Snapshot', texts_path(:xml, :snapshot => 6) %>| 
+<%= link_to 'Texts as JSON', texts_path(:json) %> | 
+<%= link_to 'Included texts', included_texts_path %> | 
+<%= link_to 'Excluded texts', excluded_texts_path %> | 
+<%= link_to 'All texts', texts_path %>
+
+<hr/>
+
+<%= link_to 'Switch to author view', authors_path %> | <%= link_to 'Switch to file view', fyles_path %> | <%= link_to '«New Text»', new_text_path %>
+
+<hr/>
+
+<table>
+  <thead>
+    <tr>
+			<th>Author Names</th>
+			<th>Original Year</th>
+			<th>English Name</th>
+			<th>Plain Text</th>
+			<th>Included</th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+
+  <tbody>
+		<%
+		  count = 0	
+			@texts.each do |text|
+			plain = if text.fyle_id.nil?
+				''
+			else
+				count +=1
+				path = text.plain_file # plain !!!
+				"<a href='#{path}'>#{path}</a>"
+			end
+		%>
+      <tr>
+				<td><%=raw text.edit_author_names %></td>
+				<td><%= text.original_year %></td>
+				<td><%= text.name_in_english %></td>
+				<td><%=raw plain %></td>
+				<td><label style="float: right"><input type=checkbox disabled <%= text.include ? 'checked' : '' %>><span class="checkable"></span></label>
+        <td><%= link_to 'Show', text %></td>
+        <td><%= link_to 'Edit', edit_text_path(text) %></td>
+        <td><%= link_to 'Destroy', text, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+<hr>
+<div>Number of texts: <%= count %></div>
