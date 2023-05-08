@@ -23,19 +23,19 @@ Things you may want to cover:
 
 * ...
 
-
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
 
 == START HERE
 
-Assets, and the asset pipeline. If you get bower to store its assets
+Assets, and the asset pipeline. If you get Bower to store its assets
 under vendor/assets/FOO, say vendor/assets/bower_components/ using
 .bowerrc
 See http://guides.rubyonrails.org/asset_pipeline.html#asset-organization
 
-=> lib/tasks/resolve.rake
-   bin/rake resolve:paths
+lib/tasks/resolve.rake
+ 
+`bin/rake resolve:paths`
 
 * app/views/layouts/application.html.erb
 
